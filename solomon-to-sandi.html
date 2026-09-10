@@ -1,0 +1,437 @@
+<title>Solomon to Sandi</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Public+Sans:wght@400;500;600;700&display=swap">
+<style>
+  :root{
+    --paper:#f2f0ea;
+    --panel:#fbfaf6;
+    --ink:#24231f;
+    --ink-soft:#5b584c;
+    --rule:#d6d0c2;
+    --trunk:#8a5a2b;
+    --trunk-soft:#f0e4d3;
+    --trunk-ink:#5c3c1c;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#1c1a15;
+      --panel:#242119;
+      --ink:#ede9de;
+      --ink-soft:#b8b0a0;
+      --rule:#46402f;
+      --trunk:#d9a968;
+      --trunk-soft:#332615;
+      --trunk-ink:#e8c893;
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#1c1a15;
+    --panel:#242119;
+    --ink:#ede9de;
+    --ink-soft:#b8b0a0;
+    --rule:#46402f;
+    --trunk:#d9a968;
+    --trunk-soft:#332615;
+    --trunk-ink:#e8c893;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Public Sans", ui-sans-serif, system-ui, sans-serif;
+    line-height:1.4;
+  }
+  .page{
+    max-width:1460px;
+    margin:0 auto;
+    padding:56px 40px 72px;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    text-align:center;
+    margin-bottom:44px;
+  }
+  .eyebrow{
+    font-size:11px;
+    letter-spacing:0.16em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin:0 0 10px;
+  }
+  h1{
+    font-family:"Spectral", Georgia, serif;
+    font-weight:600;
+    font-size:52px;
+    line-height:1.05;
+    margin:0 0 14px;
+    text-wrap:balance;
+    color:var(--ink);
+  }
+  .sub{
+    font-size:16px;
+    color:var(--ink-soft);
+    max-width:640px;
+    margin:0 auto 18px;
+    text-wrap:balance;
+  }
+  .stats{
+    display:flex;
+    justify-content:center;
+    gap:28px;
+    flex-wrap:wrap;
+    font-variant-numeric:tabular-nums;
+  }
+  .stat{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    min-width:96px;
+  }
+  .stat b{
+    font-family:"Spectral", Georgia, serif;
+    font-size:26px;
+    font-weight:600;
+    color:var(--trunk-ink);
+  }
+  .stat span{
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+  }
+
+  /* ---------- trunk (direct line) ---------- */
+  .trunk{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:0;
+    margin:0 auto 8px;
+    max-width:520px;
+  }
+  .trunk-node{
+    width:100%;
+    background:var(--trunk-soft);
+    border:1px solid var(--trunk);
+    padding:12px 20px;
+    text-align:center;
+  }
+  .trunk-node .gen{
+    font-size:10px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--trunk-ink);
+    margin-bottom:3px;
+  }
+  .trunk-node .names{
+    font-family:"Spectral", Georgia, serif;
+    font-weight:600;
+    font-size:17px;
+    color:var(--ink);
+  }
+  .trunk-node .names .m{
+    font-style:italic;
+    font-weight:400;
+    color:var(--ink-soft);
+    padding:0 6px;
+  }
+  .trunk-node .dates{
+    font-size:12.5px;
+    color:var(--ink-soft);
+    margin-top:3px;
+    font-variant-numeric:tabular-nums;
+  }
+  .trunk-node .note{
+    font-size:11px;
+    font-style:italic;
+    color:var(--ink-soft);
+    margin-top:4px;
+  }
+  .stem{
+    width:2px;
+    height:20px;
+    background:var(--trunk);
+  }
+
+  /* ---------- fan connector ---------- */
+  .fan-wrap{ display:flex; justify-content:center; margin:2px 0 26px; color:var(--trunk); }
+  .fan-wrap svg{ display:block; }
+  .fan-caption{
+    text-align:center;
+    font-size:12px;
+    font-style:italic;
+    color:var(--ink-soft);
+    margin:-4px 0 28px;
+  }
+
+  /* ---------- six branches ---------- */
+  .branches{
+    display:grid;
+    grid-template-columns:repeat(6, 1fr);
+    gap:18px;
+    align-items:start;
+  }
+  @media (max-width:1180px){ .branches{ grid-template-columns:repeat(3, 1fr); } }
+  @media (max-width:680px){ .branches{ grid-template-columns:repeat(2, 1fr); } }
+
+  .branch{
+    background:var(--panel);
+    border:1px solid var(--rule);
+    border-top:3px solid var(--rule);
+    padding:16px 14px 18px;
+  }
+  .branch.direct{
+    border-top:3px solid var(--trunk);
+  }
+  .branch-label{
+    font-size:10px;
+    letter-spacing:0.12em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin-bottom:8px;
+  }
+  .couple{
+    margin-bottom:12px;
+    padding-bottom:12px;
+    border-bottom:1px solid var(--rule);
+  }
+  .couple:last-child{ border-bottom:none; margin-bottom:0; padding-bottom:0;}
+  .person-name{
+    font-family:"Spectral", Georgia, serif;
+    font-size:15.5px;
+    font-weight:500;
+    color:var(--ink);
+    line-height:1.3;
+  }
+  .branch.direct .lineage .person-name{ font-weight:600; color:var(--trunk-ink); }
+  .person-dates{
+    font-size:11.5px;
+    color:var(--ink-soft);
+    font-variant-numeric:tabular-nums;
+    margin-bottom:2px;
+  }
+  .m-tag{
+    font-size:10.5px;
+    font-style:italic;
+    color:var(--ink-soft);
+    display:inline-block;
+    margin:2px 0;
+  }
+  .kids{
+    margin-top:8px;
+    padding-left:12px;
+    border-left:1px solid var(--rule);
+  }
+  .kids .kid{ margin-bottom:9px; }
+  .kids .kid:last-child{ margin-bottom:0; }
+  .kids .kid .person-name{ font-size:13.5px; font-weight:400; }
+  .kids .kid.endpoint .person-name{ font-weight:600; color:var(--trunk-ink); }
+  .disputed{
+    color:var(--ink-soft);
+    font-size:10.5px;
+    font-style:italic;
+  }
+
+  .sub-branch{
+    margin-top:14px;
+    padding-top:12px;
+    border-top:1px dashed var(--rule);
+  }
+  .sub-branch-label{
+    font-size:9.5px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--trunk-ink);
+    margin-bottom:6px;
+  }
+  .endpoint-block{
+    margin-top:14px;
+    padding:12px;
+    background:var(--trunk-soft);
+    border:1px solid var(--trunk);
+  }
+  .endpoint-block .branch-label{ color:var(--trunk-ink); margin-bottom:6px;}
+
+  /* ---------- footer ---------- */
+  footer{
+    margin-top:44px;
+    padding-top:20px;
+    border-top:1px solid var(--rule);
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:24px;
+    flex-wrap:wrap;
+    font-size:11.5px;
+    color:var(--ink-soft);
+  }
+  .legend{ display:flex; gap:18px; flex-wrap:wrap; align-items:center; }
+  .legend-item{ display:flex; align-items:center; gap:6px; }
+  .swatch{ width:14px; height:3px; display:inline-block; }
+  .swatch.trunk-sw{ background:var(--trunk); }
+  .swatch.coll-sw{ background:var(--rule); }
+  .foot-note{ max-width:420px; text-align:right; }
+  @media (max-width:680px){ .foot-note{ text-align:left; } .page{ padding:40px 20px 56px; } h1{ font-size:38px; } }
+</style>
+
+<div class="page">
+  <header>
+    <p class="eyebrow">Babcock Family Research &middot; September 2026</p>
+    <h1>Solomon to Sandi</h1>
+    <p class="sub">Six generations of the Babcock line, from Solomon Babcock&rsquo;s birth in 1776 down to Bob and Sandi today &mdash; everyone above their own generation now documented on the family tree.</p>
+    <div class="stats">
+      <div class="stat"><b>6</b><span>Generations</span></div>
+      <div class="stat"><b>49</b><span>People shown</span></div>
+      <div class="stat"><b>6</b><span>Sibling branches</span></div>
+      <div class="stat"><b>250</b><span>Years spanned</span></div>
+    </div>
+  </header>
+
+  <div class="trunk">
+    <div class="trunk-node">
+      <div class="gen">Generation I</div>
+      <div class="names">Solomon Babcock <span class="m">m.</span> Amy Anna Morgan</div>
+      <div class="dates">b. 1776 &ndash; d. 1867 &nbsp;&middot;&nbsp; b. 1783 &ndash; d. 1853</div>
+    </div>
+    <div class="stem"></div>
+    <div class="trunk-node">
+      <div class="gen">Generation II</div>
+      <div class="names">Curtis Babcock <span class="m">m.</span> Loranda Goodman</div>
+      <div class="dates">b. 1824 &nbsp;&middot;&nbsp; b. 1832</div>
+      <div class="note">Curtis&rsquo;s parentage to Solomon is the family&rsquo;s strongest working theory, still being document-proven</div>
+    </div>
+    <div class="stem"></div>
+    <div class="trunk-node">
+      <div class="gen">Generation III</div>
+      <div class="names">James Anson Babcock <span class="m">m.</span> Adelia &ldquo;Olive&rdquo; Pickett</div>
+      <div class="dates">b. 1849 &ndash; d. 1932 &nbsp;&middot;&nbsp; b. 1855 &ndash; d. 1882</div>
+    </div>
+    <div class="stem"></div>
+    <div class="trunk-node">
+      <div class="gen">Generation IV</div>
+      <div class="names">Arthur Rueben Babcock <span class="m">m.</span> Emma Mae Brisby</div>
+      <div class="dates">b. 1875 &ndash; d. 1922 &nbsp;&middot;&nbsp; b. 1880 &ndash; d. 1959</div>
+      <div class="note">Emma remarried Charles Frederick Sindlinger (b. 1871 &ndash; d. 1954) in 1925, after Arthur&rsquo;s death</div>
+    </div>
+    <div class="stem"></div>
+  </div>
+
+  <div class="fan-wrap">
+    <svg viewBox="0 0 560 40" width="560" height="40" role="img" aria-label="Arthur and Emma's line fans out into six children">
+      <line x1="280" y1="0" x2="280" y2="14" stroke="currentColor" stroke-width="2"/>
+      <line x1="40" y1="14" x2="520" y2="14" stroke="currentColor" stroke-width="2"/>
+      <line x1="40" y1="14" x2="40" y2="30" stroke="currentColor" stroke-width="2"/>
+      <line x1="136" y1="14" x2="136" y2="30" stroke="currentColor" stroke-width="2"/>
+      <line x1="232" y1="14" x2="232" y2="30" stroke="currentColor" stroke-width="2"/>
+      <line x1="328" y1="14" x2="328" y2="30" stroke="currentColor" stroke-width="2"/>
+      <line x1="424" y1="14" x2="424" y2="30" stroke="currentColor" stroke-width="2"/>
+      <line x1="520" y1="14" x2="520" y2="30" stroke="currentColor" stroke-width="2"/>
+    </svg>
+  </div>
+  <p class="fan-caption">Their six children &mdash; Generation V</p>
+
+  <div class="branches">
+
+    <div class="branch">
+      <div class="branch-label">Lillie&rsquo;s line</div>
+      <div class="couple">
+        <div class="person-name">Lillie Babcock</div>
+        <span class="m-tag">m. &ldquo;Brown&rdquo;</span>
+        <div class="disputed">surname disputed: Brown or Williams</div>
+      </div>
+      <div class="kids">
+        <div class="kid"><div class="person-name">Doris Brown</div><span class="m-tag">m. Marion Filmore</span></div>
+        <div class="kid"><div class="person-name">Darlene Brown</div><span class="m-tag">m. Worley Weaver</span></div>
+        <div class="kid"><div class="person-name">Dennis Brown</div><div class="person-dates">d. infant</div></div>
+      </div>
+    </div>
+
+    <div class="branch">
+      <div class="branch-label">Gertrude&rsquo;s line</div>
+      <div class="couple">
+        <div class="person-name">Gertrude Babcock</div>
+        <span class="m-tag">m. Loyd Weaver</span>
+      </div>
+      <div class="kids">
+        <div class="kid">
+          <div class="person-name">Wallace Weaver</div>
+          <span class="m-tag">m. &ldquo;LoJuanda&rdquo;</span>
+          <div class="disputed">wife&rsquo;s name disputed: LoJuanda or Jerry</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="branch">
+      <div class="branch-label">Altha&rsquo;s line</div>
+      <div class="couple">
+        <div class="person-name">Altha Ethelyne Babcock</div>
+        <div class="person-dates">b. 1912 &ndash; d. 1996</div>
+        <span class="m-tag">m. Charles Edgar Shipley</span>
+        <div class="person-dates">b. 1909 &ndash; d. 1992</div>
+      </div>
+      <div class="kids">
+        <div class="kid"><div class="person-name">Ronald R. Shipley</div></div>
+        <div class="kid"><div class="person-name">Patricia G. Shipley</div></div>
+      </div>
+    </div>
+
+    <div class="branch direct">
+      <div class="branch-label">Rawleigh&rsquo;s line &mdash; direct to Bob &amp; Sandi</div>
+      <div class="couple lineage">
+        <div class="person-name">Rawleigh Oliver Babcock</div>
+        <div class="person-dates">b. 1903 &ndash; d. 1988</div>
+        <span class="m-tag">m. Mary Ella Chapman</span>
+        <div class="person-dates">b. 1900 &ndash; d. 1983</div>
+      </div>
+      <div class="kids">
+        <div class="kid"><div class="person-name">Rosalie Leota Babcock</div><div class="person-dates">b. 1926 &ndash; d. 1972</div><span class="m-tag">m. Harvey Louis Cummins</span><div class="person-dates">b. 1918 &ndash; d. 1982</div></div>
+      </div>
+      <div class="sub-branch">
+        <div class="sub-branch-label">Generation VI</div>
+        <div class="kid lineage"><div class="person-name">Stanley Ross Babcock</div><div class="person-dates">b. 1921 &ndash; d. 2013</div><span class="m-tag">m. Bernadine Brand</span><div class="person-dates">b. 1924 &ndash; d. 2022</div></div>
+      </div>
+      <div class="endpoint-block">
+        <div class="branch-label">Generation VII &mdash; today</div>
+        <div class="kid endpoint"><div class="person-name">Robert Stanley &ldquo;Bob&rdquo; Babcock</div><div class="person-dates">b. 1945</div></div>
+        <div class="kid endpoint"><div class="person-name">Sandra Kay &ldquo;Sandi&rdquo; Babcock Walsberg</div><div class="person-dates">b. 1947</div></div>
+      </div>
+    </div>
+
+    <div class="branch">
+      <div class="branch-label">Hershel&rsquo;s line</div>
+      <div class="couple">
+        <div class="person-name">Hershel Babcock</div>
+        <span class="m-tag">m. Mavis Barrows</span>
+        <div class="person-dates">b. 1907 &ndash; d. 1997</div>
+      </div>
+      <div class="kids">
+        <div class="kid"><div class="person-name">Gerald Arthur Babcock</div><span class="m-tag">m. Donna Johnston (d. 1969)</span><br><span class="m-tag">m.2 Betty Fischer</span></div>
+        <div class="kid"><div class="person-name">Virginia Babcock</div></div>
+        <div class="kid"><div class="person-name">Dean Babcock</div><div class="person-dates">d. age 18</div></div>
+      </div>
+    </div>
+
+    <div class="branch">
+      <div class="branch-label">Clarence&rsquo;s line</div>
+      <div class="couple">
+        <div class="person-name">Clarence Babcock</div>
+        <span class="m-tag">m. Eunice Chapman</span>
+      </div>
+      <div class="kids">
+        <div class="kid"><div class="person-name">Robert Harold Babcock</div><div class="person-dates">d. 1996</div><span class="m-tag">m. Patsy M. Parton</span><div class="person-dates">b. 1925 &ndash; d. 2001</div></div>
+        <div class="kid"><div class="person-name">Marvin Bruce Babcock</div><span class="m-tag">m. Alta May Maple; m.2 Norma</span></div>
+        <div class="kid"><div class="person-name">Ed Babcock</div><span class="m-tag">m. Donna (d. young); m.2 Carol</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <div class="legend">
+      <div class="legend-item"><span class="swatch trunk-sw"></span> Direct line to Bob &amp; Sandi</div>
+      <div class="legend-item"><span class="swatch coll-sw"></span> Collateral branches (great-aunts &amp; -uncles and their families)</div>
+    </div>
+    <p class="foot-note">Every name here now carries a sourced &ldquo;Research Notes&rdquo; entry on the Ancestry tree, confirmed vs. unconfirmed clearly labeled. Dates without a death year are unconfirmed or, for Bob and Sandi, living.</p>
+  </footer>
+</div>
