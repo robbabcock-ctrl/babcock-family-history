@@ -1267,3 +1267,20 @@ Paging further into the All Hints feed (page 12) turned up a rich new lead on a 
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: wife Rose Clendennin, the War of 1812 military facts, and the 7 solidly-dated new children (holding back "Mary C." and the second "Ann" pending clarification).
 
 Committed and pushed. A good example of the "keep paging deeper" strategy continuing to pay off -- this lead was 12 pages into the feed, well past where earlier sessions stopped.
+
+## 🌙 AUTONOMOUS SESSION 37 (2026-09-11, continued) — Phillips branch (Cynthia Rawson's paternal side) confirmed and expanded; Kimble family re-confirmed complete; Brisby Rev War citation inconclusive
+
+**Followed up session 36's flag**: checked John Odllon Brisby (1755-1845, John Brisby's father) directly for the Revolutionary War service record seen misattached to his son's timeline. His own cross-tree profile carries no actual military record (only 3 unsourced "Ancestry Family Trees" citations) -- so the Rev War citation's correct home remains **unresolved**, not confirmed for either father or son. Not adopted for anyone pending a real record turning up.
+
+**Kimble family re-confirmed thorough**: a hint for "Ella M. Kimball" (1860-1910, sister of the fire victims, died unmarried in Tulare Co CA) turned out to already have a full CONFIRMED Research Notes writeup from the same family-history-PDF pass as the rest of the Kimble children. No new facts -- good confirmation the whole Kimble sibling set (12 children total, spanning VA/WI/IL/KS/UT/CA as the family moved west) is fully documented already.
+
+**Phillips branch resolved** (Robert's tree pids 252811802508/252811802509, "paternal grandparents of wife" -- i.e., Cynthia Rawson's own father's parents, a branch not previously covered in this research push). **Carl Simpson/Samuel Phillips (6 Mar 1902, Yardelle/Western Grove, Newton Co AR – 18 Apr 1969, Newton Co AR)** and wife **Arda Amy McDougal Phillips (1904-)** are now fully corroborated by 13 real record hints (1910-1950 census run, marriage record, Find A Grave, SSDI, Arkansas death certificate, birth certificate, Social Security application):
+- **Parents confirmed** (already "Potential" in Robert's tree): **William Marion Phillips and Lucy Nora "Lenora" Hurst**.
+- **A sibling for Carl found**: Hugh H. Phillips (from the 1910 census).
+- **New children beyond the already-known Glen H. Phillips (1945-)**: Roy Phillips (b. ~1930), Jewell Phillips (b. ~1940), Clennen M. "Climon" Phillips, and Carlena Jo Phillips -- all appearing consistently across multiple independent record sources.
+
+This opens up a new branch of Cynthia Rawson's family tree (her father's Phillips/McDougal line, Newton County, Arkansas) that hadn't been touched in sessions 1-36, which focused on her mother's side (Rawson/Schultz/Ewing/Ringle/Keown/Kapitzke). Worth continued attention in future sessions.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Carl's confirmed parents, sibling Hugh H., and the 4 new children.
+
+Committed and pushed.
