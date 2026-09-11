@@ -794,3 +794,12 @@ Robert: "stay busy until i get back... don't quit until i tell you to stop or yo
 **Solomon Babcock (pid 252812663769):** Added 3 children identified in earlier research but never linked to the tree — **Austin P. Babcock** (b. abt 1825, Scott NY), **Hulda Babcock** (b. abt 1825, m. Charles Kinyon 1849), **Luke P. Babcock** (undated, Find A Grave + 1865 census). Research Notes updated.
 
 **Keown / other lines**: not yet reached this iteration — next up.
+
+## 🌙 AUTONOMOUS SESSION 2 (2026-09-11 night, continued)
+**Keown research via newspapers.com:**
+- Searched "Nathan Keown" nationally then narrowed to Missouri 1860-1900. Found and ruled out a same-named, unrelated Nathan J. Keown (b. Scotland, d. 1889 Macon MO) — coincidental namesake, not ours.
+- Found **Nathan J. Keown's own obituary**: Kirksville Graphic, 13 Mar 1896 p.3 — "At his home in Ord, Neb., March 3, 1896, Mr. Nathan J. Keown, aged 82 years. Mr. Keown was for many years a resident of Adair county, and was highly esteemed by all who knew him. He removed from this place to Ord, Neb. about ten years ago." His death (3 Mar 1896, Ord, Valley Co. NE, age 82, 4 sources) was already on his Ancestry profile (pid 252810757621) — this obituary corroborates it and explains the Nebraska connection also seen in daughter Bertha Perry's line. He had NO Research Notes narrative before this despite 13 timeline facts already attached — added one now, noting the unresolved "married a 'Mary A Keown' twice" oddity (1836 and again 1873, possibly two different women with the same name) as a flagged loose end.
+- Pid chain for future reference (Ancestry's tree-jump search UI proved unreliable via automation — had to hop pid-to-pid via ThruLines "Common ancestors" card → Phoebe E Keown 252810756422 → spouse Thomas H Keown 252810756421 → father Nathan J Keown 252810757621): use this chain, not the "Find in tree" typeahead, if navigating here again.
+- Not yet done: Nathan's OWN parents (Nathan Lusk Keown + Nancy Ann Likens) still sit as unconfirmed "Potential father/mother" DNA hints, never accepted — worth reviewing next; the two "Mary A Keown" marriages need sorting out; Thomas's daughters (Bertha Perry/Gordon NE, Mary Kenyon/Stockton, Ethel Ball, Edna Schultz/Orcutt) not yet searched individually for more descendants.
+
+Committing and continuing to the next priority (deeper lines / new-person hint review).
