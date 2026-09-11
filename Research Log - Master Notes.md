@@ -1012,3 +1012,5 @@ Found a SECOND, more detailed contemporary account of the fire from last session
 This is still clearly the same event as documented in session 20, just with a fuller, independently-corroborating (not merely repeating) account from a second paper -- and a legitimate new research question about exactly who all five victims were.
 
 Committed and pushed.
+
+**Quick spot-checks, same session**: Robert Harold Babcock and Ed Babcock (Clarence Babcock's sons, grandsons of Arthur Rueben Babcock) both already have their spouses/children fully recorded from an earlier session -- their hints only corroborate existing data (exact dates, WWII service records, obituaries). No new people. This branch (Clarence's descendants) appears already well-mined.
