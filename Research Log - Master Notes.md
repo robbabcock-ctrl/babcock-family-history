@@ -1030,3 +1030,15 @@ This closes out the investigative thread opened in sessions 20-21. The 1881 Kimb
 Committed and pushed. This closes the Kimble fire research thread -- it's ready for a dedicated narrative write-up whenever there's time, and for the Ancestry Research Notes/Cause of Death entries once the site's write dialogs recover.
 
 **Note**: attempted to locate the Ewing/Ringle/Scholtz ancestor line (flagged as unswept) this session but couldn't find their pids efficiently -- Ancestry's tree-wide name search isn't reliably automatable (confirmed again this session; global ancestry.com search doesn't scope to a specific private tree, and the tree's own "Find in tree" box remains the known-unreliable typeahead documented in earlier sessions). Deferring this branch to a session where a pid can be found via a relationship hop from an already-known person, rather than guessing search URLs.
+
+## 🌙 AUTONOMOUS SESSION 23 (2026-09-11, continued) — traced Ann Blackwell's exact place in the direct line; Ewing/Ringle/Scholtz still not located
+
+**Ancestry UI check**: "Add fact" tried once on Franklin Sylvester Kimball's profile -- still unresponsive (7th session running).
+
+**Clarified the direct-line connection to Ann Blackwell**, while trying to reach the still-unlocated Ewing/Ringle/Scholtz ancestors via relationship hops from Robert's mother's side: Robert -> Stanley Ross Babcock -> **Bernadine Brand** (Robert's mother) -> David Brand -> **Marietta (Blackwell) Brand** (b.1877, d.1938) -> **Ann Blackwell (1846-1905)**. This confirms Ann Blackwell -- whose Irish county of origin has been the subject of the long-running Ireland research thread -- sits on Robert's own DIRECT maternal-grandmother's-grandmother line (not a collateral relative), via the Brand family. Ann Blackwell's own hint page still shows zero hints and no spouse -- Marietta's father is unrecorded (an open "Add father" slot), consistent with the "Girl from the Poorhouse" story already documented about Marietta's likely poorhouse/out-of-wedlock birth.
+
+Traced the rest of this branch looking for Ewing/Ringle/Scholtz without success: Bernadine Brand's other grandparents are **Ferdinand Heinrich Schlottach + Albertine Kottwitz** (German immigrants) and (on David Brand's side) **Joseph Michael Brand** (b.1829 Baden-Württemberg, Germany) + two wives, **Margretha Brand** (1848-1879, no parents recorded -- a dead end) and **Elizabeth Regner**. None of these branches show any Ewing, Ringle, or Scholtz connections. **The Ewing/Ringle/Scholtz ancestors from the memory notes must sit on a different branch of the tree than assumed** (possibly the Rawson maternal line rather than this Babcock/Brand paternal-side line, or a branch not yet re-identified) -- deprioritizing further guesswork on this specific lead unless a better starting point turns up.
+
+**Minor addition**: Jacob Emil Brand's own hints reveal his daughter Marietta Brant's (pid 252810758426, David Brand's sister) married surname is **Rohlfing** -- not yet reflected in the tree. Not added to Ancestry (UI still down).
+
+Committed and pushed.
