@@ -1306,3 +1306,12 @@ Paging further into the All Hints feed (page 25) turned up two strong finds.
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: everything above for both the Babcock and Strong lines, with Seth Strong's Revolutionary War service and parents being the standout entries.
 
 Committed and pushed. This is arguably the single best-documented ancestor found in this entire research push -- a named military unit in an actual war record is a rare level of detail for this deep in the tree.
+
+## 🌙 AUTONOMOUS SESSION 39 (2026-09-11, continued) — Phillips/McDougal branch: Arda Phillips's exact dates and a new McDougal sibling
+
+Quick follow-up while continuing to page through the All Hints feed (page 32): more hints on **Arda A. Phillips** (1904-, wife of Carl Simpson Phillips from session 37) filled in details Robert's tree didn't have yet:
+- **Exact birth 23 Jun 1903** (vs. the tree's approximate "abt 1904") and **death 18 Dec 1989**, Newton Co, Arkansas -- both new, corroborated by Find A Grave and a Social Security application.
+- Her parents, already "Potential" in Robert's tree as **Samuel Henderson McDougal + Mary Jane Bethany**, are independently confirmed (1910 census, Find A Grave) as **Samuel Houston McDougal and Mary Jane McDougal** -- "Bethany" is very likely Mary Jane's actual maiden name (consistent with using a married surname in later records, not necessarily an error).
+- **A new sibling found: Virgie McDougal**, from the 1910 census (Prairie, Newton Co, Arkansas).
+
+Not yet added to Ancestry (write outage ongoing). Committed and pushed as a short addendum to session 37's Phillips/McDougal work; continuing to page deeper into the hints feed.
