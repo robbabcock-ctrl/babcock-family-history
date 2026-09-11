@@ -1325,3 +1325,15 @@ Continuing to page deeper (page 40, then 60) turned up smaller but useful additi
 **Luke P. Babcock** (Robert's tree pid 252814098478, 4th great-granduncle, brother of Curtis Babcock -- the same Curtis whose family was resolved across sessions 32 and 38): Robert's tree already has the parents of this whole sibling set well documented -- **Solomon Babcock (1776-1867)** and **Amy Anna Morgan (1783-1853)**, both with full life dates, of Homer, Cortland Co, NY -- so this generation was already complete, not a new branch. New from the hints on Luke's own page: he **married Lydia** and had children **Oscar Babcock** and **Susan L. Babcock**, residing Homer, Cortland Co NY per the 1860 census and 1865 NY state census. A modest but clean addition to the sibling generation alongside Curtis, Austin P., and Hulda (all already known).
 
 Not yet added to Ancestry (write outage ongoing). Committed and pushed. Continuing to page through the All Hints feed; pages 30-60 have largely reconfirmed sessions 34-39's work (Kimble, Phillips, Brisby, Littel/Suydam) with a few incremental new details each pass, plus this one small new addition (Luke P. Babcock's own wife and children).
+
+## 🌙 AUTONOMOUS SESSION 41 (2026-09-11, continued) — three Chapman siblings' "not yet researched" marriage/death gaps closed
+
+Robert's tree already has excellent Research Notes for Fredrick Wallace Chapman's children (sourced to the "Chapman Family Album" via Sandra Kay Babcock Walsberg, added 2026-09-10), but three brothers were explicitly marked "UNCONFIRMED: marriage, death date/place -- not yet researched." Hints seen while paging the All Hints feed (page 60) supply exactly the missing pieces, all via real records (Find A Grave, California Death Index, census, obituary):
+
+- **Roy Chapman (Jul 1892 – 23/25 Apr 1958)**: died Monterey Co, CA (Seaside, per his existing Research Note on burial); married **Ruby A. Chapman**; a son **Boyd B. Chapman** appears in the 1920 census, consistent with "Boyd" already named in the family-album notes.
+- **Arthur "Art" Chapman (May 1895 – 15 Feb 1971)**: died Salinas, Monterey Co, CA; married **Leta Estelle Chapman**; daughter **Zelma Irene Logan** (married name) found via Find A Grave and matching 1920/1930/1940 census records (which also show a "Ruth P./Zelma Chapman" -- likely the same daughter recorded under different name forms across censuses).
+- **Daniel "Dan" Chapman (Jul 1889 – 16 Jun 1969)**: death date now found via a submitted family photo's caption; place and marriage still not found.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: these three death dates/places and the two daughters-in-law names (Ruby, Leta).
+
+Committed and pushed. A good example of the All Hints feed directly closing gaps that a prior, separate research pass (the family-album transcription) had explicitly flagged as still open.
