@@ -1315,3 +1315,13 @@ Quick follow-up while continuing to page through the All Hints feed (page 32): m
 - **A new sibling found: Virgie McDougal**, from the 1910 census (Prairie, Newton Co, Arkansas).
 
 Not yet added to Ancestry (write outage ongoing). Committed and pushed as a short addendum to session 37's Phillips/McDougal work; continuing to page deeper into the hints feed.
+
+## 🌙 AUTONOMOUS SESSION 40 (2026-09-11, continued) — Luke P. Babcock's own family found (Solomon Babcock's generation confirmed complete); John Brisby's War of 1812 pension record now directly sourced
+
+Continuing to page deeper (page 40, then 60) turned up smaller but useful additions.
+
+**John Brisby's War of 1812 service (session 36) is now backed by a primary record directly in Robert's own hints feed**, not just the cross-tree: the "U.S., War of 1812 Pension Application Files Index, 1812-1815" gives his marriage as **19 Jun 1805, Sumner County, Tennessee** (very close to, and probably the correct version of, the "10 Jun 1805" seen in the earlier cross-tree source) plus his two 1814/1815 military dates -- good independent corroboration of session 36's find.
+
+**Luke P. Babcock** (Robert's tree pid 252814098478, 4th great-granduncle, brother of Curtis Babcock -- the same Curtis whose family was resolved across sessions 32 and 38): Robert's tree already has the parents of this whole sibling set well documented -- **Solomon Babcock (1776-1867)** and **Amy Anna Morgan (1783-1853)**, both with full life dates, of Homer, Cortland Co, NY -- so this generation was already complete, not a new branch. New from the hints on Luke's own page: he **married Lydia** and had children **Oscar Babcock** and **Susan L. Babcock**, residing Homer, Cortland Co NY per the 1860 census and 1865 NY state census. A modest but clean addition to the sibling generation alongside Curtis, Austin P., and Hulda (all already known).
+
+Not yet added to Ancestry (write outage ongoing). Committed and pushed. Continuing to page through the All Hints feed; pages 30-60 have largely reconfirmed sessions 34-39's work (Kimble, Phillips, Brisby, Littel/Suydam) with a few incremental new details each pass, plus this one small new addition (Luke P. Babcock's own wife and children).
