@@ -1337,3 +1337,11 @@ Robert's tree already has excellent Research Notes for Fredrick Wallace Chapman'
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: these three death dates/places and the two daughters-in-law names (Ruby, Leta).
 
 Committed and pushed. A good example of the All Hints feed directly closing gaps that a prior, separate research pass (the family-album transcription) had explicitly flagged as still open.
+
+## 🌙 AUTONOMOUS SESSION 42 (2026-09-11, continued) — Add Fact retested (still broken); nice surprise: Robert Ira Rawson already resolved (likely by Robert himself)
+
+**Write-UI retest** (per standing schedule, ~10 iterations since last check at session 33): tried "Add fact" on Robert Ira Rawson's profile -- still completely unresponsive, no dialog appears. Outage remains in effect.
+
+**Notable observation while paging the All Hints feed (page 100)**: found a hint for **Robert Ira Rawson (1829-1901)**, 3rd great-granduncle -- expecting to do fresh research, but his Research Notes were already filled in with a full CONFIRMED writeup dated 2026-09-12 (i.e., very recently, possibly even after this session's own timestamp), independently corroborating 6+ primary records (1850/1860/1880/1900 census, 1889 WA territorial census, Find A Grave). The story itself is a poignant one: he married Julia Tanner in 1852, moved from Indiana to Washington Territory, and died 29 Jan 1901 as a patient at Western State Hospital (the former Fort Steilacoom Asylum), buried in the hospital's own memorial cemetery. **This was clearly already done -- most likely Robert himself entered it directly** (since the autonomous write UI is still confirmed broken), which is a good sign the family is staying engaged with the tree during this research push. Not logged as a new "discovery" of this session since it was already complete when found; noting it here for the record.
+
+Committed and pushed. Continuing the All Hints feed sweep (currently around page 100 of 128).
