@@ -1111,3 +1111,34 @@ Followed up on last session's queued lead: **William Scholtz** (Robert's tree pi
 - One hint on the same page (a 1895-1960 Canada border-crossing record naming a "Father Cortleib Schultz") does **not** match and should be ignored/ruled out -- wrong father's name, almost certainly a different Herman Schultz.
 
 Committed and pushed. This closes out the William Scholtz thread cleanly and adds two solid new names (Clara, Paul) to the Schultz sibling set for whenever the write UI recovers.
+
+## 🌙 AUTONOMOUS SESSION 28 (2026-09-11, continued) — MAJOR FIND: Herman Schultz's full birth family uncovered, 12+ previously-unknown siblings
+
+Continuing straight from session 27, reviewed **Heneyatta Maria Kapitzky's** (Robert's tree pid 252811776700, Herman August Schultz's mother) own hints page: 13 unreviewed hints, all real records (multiple censuses, Find A Grave, obituary, newspaper index) plus one member-tree hint. Cross-checked, then applied the cross-tree technique on the member-tree hint (tree ID 63646862, person 282045657163, "Henrietta Louise Elizibeth Kapitzke") and found an exceptionally well-sourced profile (7 sources on her own birth fact alone; a full run of 1880/1900/1910/1920/1930 census records plus the 1895/1905 WI state census and Find A Grave).
+
+**CONFIRMED (independently corroborated across census + Find A Grave + obituary + newspaper index, matching what's already in Robert's tree)**:
+- Henrietta's parents are **William Kapitzke (1815-1894) and Annie/Johanna Kapitzke (1816-1888)** -- exact match to the parents already recorded in Robert's tree, both dying in Caledonia, Columbia Co WI (1894 and 1888 respectively), giving high confidence this is the correct family.
+- Henrietta died **27 May 1944, Reedsburg, Sauk Co WI**, buried **Merrimac, Sauk Co WI** -- corroborated by Find A Grave, a submitted obituary ("Aged 85"), and a newspaper obituary index entry, all independently agreeing.
+- Husband **William** was alive well past 1900 -- this source gives his death as **"abt 1937, Wisconsin"** and a residence chain running 1880 through 1930, all in Caledonia/Merrimac WI -- fully consistent with (and much more complete than) the 1910 census already in Robert's own tree showing him alive and widowed in 1910. **The "d. 1900" figure from the session-27 member tree is now doubly disproven.**
+
+**Naming/identity note (flagged, not changed in Robert's tree)**: this richer source gives the husband's full name as **William Frederick Edward Schultz (1858-1937)**, vs. "William Scholtz b. 1846 Germany" already in Robert's tree and "William J Schultz b. 1847" from the session-27 source -- three different birth years (1846/1847/1858) across three sources for what looks like the same man (same wife, same children, same place). This is common where a family went by "Wm." and researchers filled in different guessed years; the 1858 figure comes with by far the deepest record trail (5 census years) so is probably the most reliable, but **not overwritten in Robert's tree pending Robert's own review**.
+
+**MAJOR: full sibling set for Herman found.** This source lists **13 children** of William & Henrietta, all born Caledonia/Wisconsin between 1878 and 1900 -- far beyond the two siblings (Clara, Paul) flagged last session:
+- Minna Augusta Schultz (Hein) (25 Feb 1878 – 7 Feb 1934, Baraboo WI)
+- Paul Christian Carl Schultz (19 Dec 1879 – 1968) -- matches last session's "Paul Schultz" census lead
+- Powell Shultz (abt 1880 –, no death found)
+- William Ferdinand Schultz (8 Apr 1882 – 1948)
+- Julius Frederick Herman Schultz (1 Jan 1884 – 1962)
+- Martha Schultz (Oct 1886 – 1975)
+- **Herman John Schultz (14 Jun 1889 –)** -- almost certainly the same person as Robert's tree's **Herman August Schultz (b. 15 Dec 1888, Appleton WI, d. 1950 Santa Maria CA)**: same parents, same era, only a year/day and middle name apart, which is ordinary cross-record noise (a compiled member tree vs. Robert's own sourced facts). Flagging as the same person rather than a 14th sibling -- not merged, just noted.
+- Frederick Charles Schultz (abt Jul 1891 – 1974)
+- Louise Elvira Schultz (Apr 1894 – 1981) -- matches the "Louise Schultz" child seen on Henrietta's own 1920 census hint
+- Charles Schultz (Jan 1896 – 1980) and Carl Albert Schultz (21 Jan 1896 – 1980) -- **same birth month/year and same death year for both**, almost certainly the same child entered twice under name variants in this compiled tree, not twins; treat as one person pending a cleaner source
+- Earl Schultz (abt 1896 –) -- a third "1896" child alongside Charles/Carl Albert; likely more of the same duplication, but not confirmed either way
+- Frank Lewis Louis Schultz (7 Jan 1900 – 1980) -- matches last session's Wisconsin-births-index "Frank Louis Schultz" lead
+
+**Open discrepancy**: last session's own 1900-census hint on Herman's page named a sibling **"Clara M Schults"** -- no "Clara" appears anywhere in this fuller 13-child list. Not resolved either way; could be a genuine 14th child this compiled tree simply missed, or a mis-transcription (e.g. of "Carl"). Left as an open flag rather than dropped or force-matched.
+
+**Not yet added to Ancestry** (write dialogs still down, 11th+ session unresponsive) -- ready-to-enter backlog once the UI recovers: all ~10-12 distinct siblings above (treating the Charles/Carl Albert/Earl trio as needing their own cleanup first), full source citations available on the tree-63646862 profile.
+
+Committed and pushed. This is the single largest new-people discovery of the whole autonomous run so far by count, and a strong example of one thin hint (last session's "Baby Girl Jarvis" tree) leading via a chain of two more cross-tree jumps to a genuinely excellent source.
