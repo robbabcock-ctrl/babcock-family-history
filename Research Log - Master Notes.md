@@ -1235,3 +1235,21 @@ Despite the Keown/Perry line having been marked "largely exhausted," paging deep
 Not yet added to Ancestry (write outage still in effect, confirmed broad per session 33) -- ready-to-enter backlog: the 5 solid new Keown siblings (John Henry, William Bedford, Phoebe E, Mary E, Baby Girl), with Nancy and Ann held back pending a cleaner source given the date conflicts.
 
 Committed and pushed. Lesson reinforced: "largely exhausted" lines should still get an occasional All-Hints-feed check, since new hints keep surfacing over time even on well-trodden branches.
+
+## 🌙 AUTONOMOUS SESSION 35 (2026-09-11, continued) — "Margaret Littel" resolved as Margaret Suydam (2 marriages, divorce, 2 more children); Schlottach line connects to a well-documented Missouri family via Clara Jane Sewell
+
+Paging further into the All Hints feed (page 8) turned up two major, well-sourced finds.
+
+**"Margaret Littel" (3rd great-grandmother, Robert's tree pid 252810755821) is really Margaret "Maggie" Suydam** -- 13 real record hints (not just member-tree guesses) resolve her completely:
+- Born **13 Sep 1857, Fairview, Fulton Co, Illinois**; died **13 Jun 1945, Los Angeles, CA**; buried Glendale, Los Angeles Co CA. Confirmed independently by an 1870 census, a California Death Index entry, and Find A Grave, all agreeing on the same dates.
+- **"Littel" was her FIRST husband's surname, not her own maiden name** -- an Illinois marriage record shows "Maggie Suydam" married **John H. Littel** 17 Jul 1875, Fulton Co IL. She then married (or moved on to) **Orlie/Orley W. Bickhart** on **26 Oct 1880, Reed City, Osceola/Wexford Co, Michigan** -- and a Michigan divorce record shows **the Bickharts divorced 8 Jul 1903, Wexford Co MI**. (What happened to the first husband John H. Littel between 1875 and the 1880 remarriage isn't shown by these records -- divorce or death, not determined.)
+- Her parents, already flagged as "Potential (DNA)" in Robert's tree, are now independently confirmed by name: **Charles S. Suydam and Catharine Ann Suydam** (maiden name possibly **Pardun**, per one source) -- corroborated by the 1870 census (Fairview, Fulton Co IL, where a sibling **Alfred Suydam** also appears) and by Find A Grave.
+- **Two more children with Orlie Bickhart found, beyond the already-known Myrtle**: **Jacob Vernon (Vern) Bickhart** and **Milford Charles Bickhart** -- both appear in multiple independent vital records (Michigan and Washington state).
+- Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: corrected identity (Suydam, not Littel), first marriage to John H. Littel, the 1903 divorce from Orlie Bickhart, confirmed Suydam parents, and 2 new Bickhart children.
+
+**Clara Jane Sewell (1878-1971, 2nd great-grandmother, pid 252811776625) -- previously only had one recorded child and no spouse in Robert's tree.** A well-sourced cross-tree profile (7 sources on birth, full 1880-1940 census run, marriage/birth/death records, Find A Grave, an obituary, WWII draft card, SSDI) fills in:
+- Husband: **Robert C. Schlottach (1872-1922)**, not in Robert's tree at all before now -- almost certainly a son of **Ferdinand Heinrich Schlottach (1841-1916)**, the son of **Wilhelm "William" Schlottach (b. 1801, Komsow, Pomerania)** already found in sessions 30/32, given the matching Gasconade Co, Missouri location and generational fit. This connects Clara Jane Sewell's marriage directly into the Schlottach immigrant line already being tracked.
+- **6 more children beyond the already-known Estella "Stella" Caroline Sophia Schlottach**: Alma N. (1901-1987), Helen Maria (1904-), Alfred Paul (1908-1958), Amiel Otto (1911-1911, died at 1 day old), Forrest "Pete" Lionel (1913-2008), and Ruth Pearl (1915-2006).
+- Clara's own parents (Pleasant Sewell 1855-1921, Mary E. Miller 1844-1884) were already correctly in Robert's tree.
+
+Committed and pushed. Two strong finds this session, both from continuing to page deeper into the All Hints feed as planned -- reinforces that paging further genuinely surfaces new material rather than just repeats.
