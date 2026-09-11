@@ -1042,3 +1042,19 @@ Traced the rest of this branch looking for Ewing/Ringle/Scholtz without success:
 **Minor addition**: Jacob Emil Brand's own hints reveal his daughter Marietta Brant's (pid 252810758426, David Brand's sister) married surname is **Rohlfing** -- not yet reflected in the tree. Not added to Ancestry (UI still down).
 
 Committed and pushed.
+
+## 🌙 AUTONOMOUS SESSION 24 (2026-09-11, continued) — MAJOR ORGANIZATIONAL FIND: the whole tree's shape finally clarified, Ewing/Ringle/Scholtz located
+
+**Ancestry UI check**: "Add fact" tried once on Franklin Sylvester Kimball -- still unresponsive (8th session).
+
+While chasing the long-elusive Ewing/Ringle/Scholtz line, made a genuinely important discovery about how this entire tree is organized -- worth recording clearly since it's been a source of confusion across many sessions:
+
+**Robert's own blood ancestors** (the line worked on for most of this research push -- Rawson-family-of-Anson-George, Chapman, Kimble/Kimball, Brand, Blackwell) run through his father Stanley Ross Babcock (Rawleigh Oliver Babcock + Mary Ella Chapman -> Fredrick Wallace Chapman + Mary Louise Kimble) and his mother Bernadine Brand (David Brand + Estella Schlottach; Jacob Emil Brand + Marietta Blackwell, Marietta being **Ann Blackwell's own daughter**).
+
+**"cynthia rawson" (1949-2002) is Robert's late WIFE, not a blood ancestor of his own** -- this is the key fact that had been implicitly assumed wrong for a while. The tree includes her ancestors too (a common, sensible practice for a comprehensive family tree), and this is where the previously-unlocated Ewing/Ringle/Scholtz names live: Cynthia Rawson's father was **John Rawson (1922-2008)**, whose parents are **Silas Asher Rawson + Margaret E. Ewing**; Margaret's parents are **John Westley Ewing (1847-1925) + Sarah E. Ringle (1857-1925)**; Sarah's parents are **Matthias Ringle + Margaret Keesy**. Separately, Cynthia's mother was **Marjorie "Margerie" (Schultz) Rawson (1921-2008)**, whose parents were **Herman August Schultz (b.1888) + Edna Matilda Keown (1886-1974)** -- and Edna Matilda Keown is **Thomas H. Keown's own daughter**, tying this whole branch directly back to the extensively-researched Keown/Perry line from much earlier in this research push. (A family-provided note on Marjorie's own profile, dated 2026-09-08, records that she and John Rawson divorced and later remarried each other in 1983 -- worth knowing if it ever comes up.)
+
+**This means the massive Rawson-sibling investigation (Anson George Rawson's 9 children, sessions 14-19), the Keown/Perry research (Thomas H. Keown's family), and now the Ewing/Ringle/Schultz names are ALL on Cynthia Rawson's side of the family** -- i.e., they belong to Robert's late wife's ancestry, included in this tree alongside Robert's own Babcock/Chapman/Brand/Blackwell blood line. Both halves are equally "family" in the sense that matters for this archive (Cynthia was Robert's wife and the mother of his son), but it's useful going forward to know which side a given research thread sits on.
+
+**Hint status on the newly-located branch**: John Westley Ewing (27 of 38 hints already accepted -- well-documented) and Sarah E. Ringle (11 of 16 already accepted) both show only minor remaining hints, mostly AI-extracted newspaper items of uncertain reliability (a "Sarah Ewing" married to "John Earing" with children "Roy" and "Hattie" that don't match the known family -- likely an unrelated namesake, not attached). This branch appears to have already been thoroughly researched in an earlier session, contrary to the standing assumption that it was untouched -- no major new findings here, just successful location and confirmation.
+
+Committed and pushed. This resolves a piece of standing confusion that's persisted across many autonomous sessions and should make future navigation much easier.
