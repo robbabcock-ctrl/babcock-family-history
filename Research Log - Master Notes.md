@@ -1142,3 +1142,20 @@ Continuing straight from session 27, reviewed **Heneyatta Maria Kapitzky's** (Ro
 **Not yet added to Ancestry** (write dialogs still down, 11th+ session unresponsive) -- ready-to-enter backlog once the UI recovers: all ~10-12 distinct siblings above (treating the Charles/Carl Albert/Earl trio as needing their own cleanup first), full source citations available on the tree-63646862 profile.
 
 Committed and pushed. This is the single largest new-people discovery of the whole autonomous run so far by count, and a strong example of one thin hint (last session's "Baby Girl Jarvis" tree) leading via a chain of two more cross-tree jumps to a genuinely excellent source.
+
+## 🌙 AUTONOMOUS SESSION 29 (2026-09-11, continued) — Kapitzke immigrant origin traced to Mecklenburg-Vorpommern, Germany, via Bremen; one more generation back (Kapitzky + Schreider)
+
+Continuing the same evening's thread, reviewed **William Kapitzke's** (Robert's tree pid 252811777303, Henrietta's father) own hints page: 8 unreviewed hints, all real records.
+
+**CONFIRMED new facts (from Wisconsin vital/death records and an 1869 passenger-list hint, both real record hints, not member trees)**:
+- **William's own parents**: father's surname **"Kapitzky"** (given name not recorded) and mother's maiden name **"Schreider"** -- per the Wisconsin Death Records index. This extends the Kapitzke line back one more generation, though only surnames survive (no given names or dates yet).
+- **Immigration record found**: William departed **Bremen, Germany**, arriving **New York, 16 Apr 1869** (age ~53) -- a real passenger-list hint. Bremen was the primary emigration port for northern/northeastern Germany in this era, consistent with the family's origin.
+- Burial confirmed at **Durwards Glen, Columbia County, Wisconsin** (a historic Catholic hermitage/shrine site near Baraboo) -- worth knowing if a headstone or parish burial record search is ever wanted there.
+
+**Cross-tree find (tree ID 173504099, person 352575898750, "William Kapitzky")** -- messier than session 28's source (several exact-duplicate child entries for what looks like one daughter recorded 5 times with slightly different year/spelling guesses -- "Hannah E Schulz" / "Hannah E. 'Anna' Kapitzke" x4), but it supplies one genuinely new and valuable detail: the family's pre-emigration children are recorded as born in **Mecklenburg-Vorpommern, Germany** (rather than just "Prussia"), giving a real, specific German state/region of origin -- this is the Kapitzke-line equivalent of the still-unsolved Ann Blackwell Irish-county question, and here it has actually been resolved via a real (if imperfectly compiled) source. One entry in this same source lists Heneyatta's own birthplace as "Netherlands," which conflicts with every other record (Prussia/Germany) and is almost certainly a data-entry error in that specific compiled tree -- not adopted.
+
+**Two more siblings for Henrietta surfaced** (beyond "Hannah/Anna" already noted): **Minnie Kapitzky (b. abt 1853, Mecklenburg-Vorpommern)** and **Johanna Kapitzke (b. abt 1855, Prussia)** -- both UNCONFIRMED (single compiled-tree source only), added here as leads rather than facts.
+
+**Not yet added to Ancestry** (write dialogs still down) -- ready-to-enter backlog: William Kapitzke's parents (surnames only), the Bremen departure/1869 arrival fact, Mecklenburg-Vorpommern as birthplace detail for the pre-1869-born children, and the Minnie/Johanna sibling leads for Henrietta.
+
+Committed and pushed. Between sessions 27-29 tonight, the Kapitzke/Schultz branch (Cynthia Rawson's side, via Marjorie Schultz Rawson -> Herman August Schultz) has gone from a single thin, unsourced hint to: a corrected death-year understanding for William Scholtz, a fully identified wife (Kapitzke, with her own death/burial confirmed), a specific German region of origin with an exact emigration port and date, one more generation of Kapitzke ancestors (surnames), and roughly a dozen newly-identified Schultz siblings for Herman -- a strong parallel win to the still-open Ann Blackwell Irish research, on the other side of the "trace immigrant origins" mandate.
