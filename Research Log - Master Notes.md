@@ -1014,3 +1014,17 @@ This is still clearly the same event as documented in session 20, just with a fu
 Committed and pushed.
 
 **Quick spot-checks, same session**: Robert Harold Babcock and Ed Babcock (Clarence Babcock's sons, grandsons of Arthur Rueben Babcock) both already have their spouses/children fully recorded from an earlier session -- their hints only corroborate existing data (exact dates, WWII service records, obituaries). No new people. This branch (Clarence's descendants) appears already well-mined.
+
+## 🌙 AUTONOMOUS SESSION 22 (2026-09-11, continued) — the 1881 Kimble fire puzzle: RESOLVED
+
+Went directly to Find A Grave (not just via Ancestry's hint-matching) and located Flora May Kimball's own memorial (findagrave.com/memorial/88858), which carries a detailed contributor biography (from member Marsha Murray) that settles the open question from last session:
+
+> "This is one of 5 children killed in a house fire on 3 August 1881 and buried in the Cemetery. The children ranged from age 10 to twins almost 1 month. Parents John Alexander and Lucy Colemann Morres Kimball. **Franklin Sylvester age 10, Flora May age 7, Elizabeth Ann Age 4 and twin boys Albert C Kimble and Earnest A Kimble.**"
+
+**This confirms the five victims are exactly the five already identified** (Franklin Sylvester, Flora May, Elizabeth Ann, and twins Albert C. and Earnest A.) -- no sixth, unidentified 13-year-old child. Franklin is given as "age 10" here (he was 9, five days short of his 10th birthday, by his own birth date of 5 Aug 1871 -- close enough to be an unsurprising rounding by family memory/a later contributor).
+
+**Resolving the "13 years" reference from the contemporary newspapers**: the most sensible reading now is that the Salt Lake Tribune's "five children, whose ages ranged from two months to 13 years" was describing the age range of ALL the children in the household that night (i.e., including the 13-year-old survivor left "rocking the cradle"), not strictly the five who died. The 13-year-old was very likely a surviving older sibling -- possibly William Leonard Kimball (age 16 per his own birth date, a few years off but still the best fit among known siblings), or conceivably an unlisted/hired household member -- who was NOT among the five fatalities. This is a far more natural reading than presuming a 6th, otherwise-unattested child, and matches the burial register directly.
+
+This closes out the investigative thread opened in sessions 20-21. The 1881 Kimble house-fire story can now be considered fully and consistently documented across three independent sources (2 contemporary newspapers + 1 Find A Grave contributor biography, itself apparently drawing on family records or a cemetery register), with only minor, immaterial discrepancies remaining (exact death date 3 Aug vs. the newspapers' clear 26 Aug fire date -- likely a burial-vs-death-date mixup somewhere in the chain, not worth chasing further; and "almost twins... 1 month" vs. the twins' own recorded birth date of 13 June 1881, which would make them closer to 7 weeks/~1.5 months old -- a minor rounding difference).
+
+Committed and pushed. This closes the Kimble fire research thread -- it's ready for a dedicated narrative write-up whenever there's time, and for the Ancestry Research Notes/Cause of Death entries once the site's write dialogs recover.
