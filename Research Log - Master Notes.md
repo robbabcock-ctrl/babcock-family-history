@@ -1253,3 +1253,17 @@ Paging further into the All Hints feed (page 8) turned up two major, well-source
 - Clara's own parents (Pleasant Sewell 1855-1921, Mary E. Miller 1844-1884) were already correctly in Robert's tree.
 
 Committed and pushed. Two strong finds this session, both from continuing to page deeper into the All Hints feed as planned -- reinforces that paging further genuinely surfaces new material rather than just repeats.
+
+## 🌙 AUTONOMOUS SESSION 36 (2026-09-11, continued) — John Brisby (5th great-grandfather): War of 1812 veteran, wife and 8 more children found
+
+Paging further into the All Hints feed (page 12) turned up a rich new lead on a previously very thin profile: **John Brisby (1783-1852)**, Robert's 5th great-grandfather (only one child, William K. Brisby, was recorded in Robert's tree, with parents marked "Potential"). A well-sourced cross-tree profile (13 sources: 1820-1850 census run, Tennessee tax lists and marriage records, and genuine **War of 1812 pension application and service records**) resolves him substantially:
+
+- **Wife: Rose F. "Fisher?" Clendennin (1783-1873)**, married 1805, Tennessee -- not previously in Robert's tree at all.
+- **Military service: War of 1812**, with three dated entries (1812, 13 Nov 1814, 13 May 1815) plus an actual pension application file and service record citation -- a genuine documented veteran in the direct line.
+- **8 additional children beyond the already-known William K. Brisby (1824-1909)**: John Jr. (b. 1805), David (1806-1850), Nancy McKee (1811-1853), Anne (1815-1897), Harriet Pettus (1823-1869), Fanny H. (1825-1897), Evaline (b. 1829), plus two more names (Mary C. and a second "Ann") listed without dates in this source -- possibly duplicates of the already-listed Anne, not confirmed as distinct, so held back pending a cleaner source.
+- **Parents independently confirmed** (already in Robert's tree as "Potential" via a member-tree guess, now backed by real census/tax records): **John Odllon Brisby (1755-1845) and Loretta (1755-)**.
+- **Caution flag**: this source tree also attaches a Revolutionary War compiled-service-record citation to this John Brisby's timeline, but given his birth year (1783) he'd have been an infant when that war ended (1783) -- that record almost certainly belongs to his father, John Odllon Brisby (b. 1755, old enough to have served), and has been mis-attached to the son in this compiled tree. Not adopted for John Brisby (1783); worth checking John Odllon Brisby's own record for a genuine Revolutionary War service lead instead.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: wife Rose Clendennin, the War of 1812 military facts, and the 7 solidly-dated new children (holding back "Mary C." and the second "Ann" pending clarification).
+
+Committed and pushed. A good example of the "keep paging deeper" strategy continuing to pay off -- this lead was 12 pages into the feed, well past where earlier sessions stopped.
