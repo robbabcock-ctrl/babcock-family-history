@@ -741,3 +741,34 @@ Robert asked for a one-page visual (names + birth/death dates only, no photos) t
 - 2 merge pages failed to load (Marietta 50054, retried once) — left as pending hints.
 - Unprocessed hint queues: Margretha Brand, John/Lucy Kimball, Julia Ann Kenney, David/Catharin Ringle, John/Elizabeth Keseay, Edna/Herman remaining PersonMatch tree hints.
 - Fold3/Newspapers.com content locked behind All Access upgrade (noted on most hint pages).
+
+## 🔥 KIMBLE FAMILY HISTORY — 1881 Stockton, Utah house fire that killed 5 of Mary Louise Kimble Chapman's siblings (found 2026-09-11)
+Robert uploaded a PDF titled "Kimble" to Google Drive — a family-history writeup on **John Alexander Kimble** and **Lucy Coleman Moores**, the parents of **Mary Louise Kimble**, who is already in our tree as the wife of **Fred(erick) Chapman Sr.** (the Chapman line documented in "The Chapman Family Album" findings). Downloaded, read in full, and saved to the repo at `Research Images and Documents/Kimble Family - John Alexander Kimble and Lucy Coleman Moores (1881 Stockton UT fire).pdf`.
+
+**The story:** On August 3, 1881, a kerosene lamp exploded in the Kimble family's cabin in Stockton, Tooele County, Utah, and burned five of John & Lucy's children to death before their parents could get them out: Franklin Sylvester Kimble (10), Flora May Kimble (7), Elizabeth Ann Kimble (4), and infant twin boys Albert C. and Earnest A. Kimble (about 7 weeks old). All five are buried together in Stockton Cemetery under a marker (now broken/partly illegible) reading "In Memory of Frank, Flora, Lizzie and two Babies, children of Lucy and John KIMBLE." Lucy could not go on living there afterward and returned to her daughter (Mary Louise, i.e. the Chapman line) in Kansas; John continued on to California with their two remaining children.
+
+**John Alexander Kimble** — b. 12 Aug 1833, New York State; raised from age 2 in Kirtland, Ohio (recalled seeing Mormon pioneers pass through); m. **Lucy Coleman Moores** 5 Jan 1856, New York; blacksmith by trade, later a windmill manufacturer (Kimble & Greene, Traver, CA) and rancher; d. 18 Apr 1924, Dinuba, Tulare Co., CA (obituary quoted in full in the source).
+
+**Lucy Coleman Moores** — b. 5 Oct 1840, Westfield, Chautauqua Co., NY, daughter of Samuel Stillman Moores and Mary Colman; d. 18 Oct 1920, Dinuba, Tulare Co., CA.
+
+**All 13 children of John & Lucy** (family moved MN → VA → WI → IL → KS → UT → CA as John chased blacksmithing/ranching work):
+1. Fanny Caroline Kimble (b. 23 Aug 1857) — m. Francis Rudolph Hoyer, 10 Sep 1875, Glasco, Cloud Co., KS. Several of her own children also died young (Edward Rudolph, Bennie F., Ora M. — all infant deaths). Fanny d. 30 Jun 1895, Kansas, buried Glasco Cemetery.
+2. **Mary Louise Kimble** (b. 21 Nov 1858) — m. **Frederick Chapman**, a farmer — **source gives TWO CONFLICTING marriage dates: "September 10, 1875" (first mention) vs. "December 21, 1874" (second mention), both "in Kansas" — UNCONFIRMED which is correct, flagged rather than picked.** 11 children, all born Glasco, Cloud Co., KS (only 6 named in this source: William Henry b. 24 Jan 1876 d. 24 Jan 1890; Stella Christina b. 25 Dec 1877; Edward Franklin b. 17 Aug 1881; Fred b. 8 Sep 1884; John Arthur b. 20 Dec 1886; Daniel b. 21 Jul 1889). Widowed 1915; moved to Dinuba/Tulare Co., CA; d. 30 May 1948, Dinuba.
+3. Ella M. Kimble (b. 22 May 1860, Fairfax, VA) — never married; d. 10 Jul 1910, Tulare Co., CA.
+4. John Edward Kimble (b. 12 Mar 1862, WI) — d. 30 Jul 1874, Glasco, KS, age 12, **killed by a rattlesnake bite**.
+5. William Leonard Kimble (b. 5 Mar 1865, Iowa City, Wright Co., IA) — m. Maria Jane Pangborn, 9 Nov 1892, Cottage Grove, OR; mechanic; d. 15 Apr 1950, Bend, Deschutes Co., OR, buried Taylor Lane Cemetery.
+6. Lucy Voadicia Kimble (b. 5 Jan 1867, Crystal Lake, McHenry Co., IL) — d. 20 Feb 1867 (infant), buried Lake Avenue Cemetery, Crystal Lake.
+7. An unnamed son (b. 3 Mar 1869, Crystal Lake, IL) — d. 19 Mar 1869 (infant), buried Lake Avenue Cemetery, Crystal Lake.
+8. **Franklin Sylvester Kimble** (b. 5 Aug 1871, KS) — d. 3 Aug 1881, Stockton, UT (**house fire**).
+9. **Flora May Kimble** (b. 17 May 1874 per one passage / "age 7" in 1881 per the other — internally inconsistent birth year, UNCONFIRMED, KS) — d. 3 Aug 1881, Stockton, UT (**house fire**).
+10. **Elizabeth Ann Kimble** (b. 28 Apr 1877, Stockton, Tooele Co., UT) — d. 3 Aug 1881 (**house fire**).
+11. **Albert C. Kimble** (twin, b. 13 Jun 1881, Stockton, UT) — d. 3 Aug 1881, ~7 weeks old (**house fire**).
+12. **Earnest A. Kimble** (twin, b. 13 Jun 1881, Stockton, UT) — d. 3 Aug 1881, ~7 weeks old (**house fire**).
+13. Frank Alexander Kimble (b. 21 Aug 1882, Glasco Co. [sic, likely Cloud Co.], KS) — m. Julia Adelaide Voss (herself b. Tooele, UT, to Warren Voss & Janet A. Smith; previously married a man named Fry, 3 children from that marriage: Kyle, Bernice, Melvin Fry), 11 Mar 1893, Fresno, CA; d. 14 Jan 1953, San Joaquin Co., CA.
+
+**Source-quality notes (flag, don't silently fix):**
+- The two conflicting Mary Louise/Frederick Chapman marriage dates above (10 Sep 1875 vs. 21 Dec 1874) — the 10 Sep 1875 date is suspicious because the source separately assigns that *exact same date* to Fanny Caroline Kimble's wedding to Francis Hoyer, suggesting a transcription mix-up in the original document between two sisters' wedding dates. Needs an independent record to resolve.
+- Flora May Kimble's birth year is given twice, inconsistently (implied 1874 by age math elsewhere in the piece vs. a implied ~1871 "age 7" at time of the 1881 fire the way the opening paragraph groups her with Franklin "both in Kansas" born "5 Aug 1871" — the opening paragraph's phrasing is itself ambiguous about whether that birth date belongs to both children or just Franklin).
+- Original source has a few obvious name-spelling slips (John's wife's maiden name given as both "Moores" and "Moorse"; "Coleman" vs "Colman").
+
+**Not yet done:** these 13 children/2 parents are not yet added as person records on Ancestry, and Mary Louise Kimble's existing Ancestry card has not yet had its Research Notes updated with this parentage/sibling/tragedy information. Natural next step if Robert wants it.
