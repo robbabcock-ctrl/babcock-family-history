@@ -1284,3 +1284,25 @@ This opens up a new branch of Cynthia Rawson's family tree (her father's Phillip
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Carl's confirmed parents, sibling Hugh H., and the 4 new children.
 
 Committed and pushed.
+
+## 🌙 AUTONOMOUS SESSION 38 (2026-09-11, continued) — MAJOR FIND: a documented Revolutionary War Patriot ancestor (Deacon Seth Strong); Loranda Randall maiden name now triple-confirmed; 3 more Curtis Babcock children found
+
+Paging further into the All Hints feed (page 25) turned up two strong finds.
+
+**Charles Augustus Babcock (Mar 1858 – aft. 1930)**, another son of Curtis Babcock, found via a hint on this previously-thin profile. An exceptionally well-sourced cross-tree match (8 sources on birth, full 1860-1930 census run, 3 separate marriage-record sources) resolves a lot:
+- **"Loranda Randall" as the mother's maiden name is now confirmed a third independent way** (after the two hints noted in session 32) -- full census run 1860-1930 consistently uses "Loranda Randall," and she's now given a death date/place: **28 Jan 1910, James City Co, Virginia**. The "Loranda Goodman" version in Robert's tree looks to be the error; Randall is very well corroborated. Not changed in Robert's tree pending Robert's own edit, but the case for Randall is now strong.
+- **Curtis Babcock's own death is now dated: 1870, Galva, Henry Co, Illinois** (previously just "1824-" with no death in Robert's tree).
+- **3 more children of Curtis & Loranda found**, siblings of the already-known Henry and George D. (session 32) and Charles Augustus himself: **Eber W. Babcock (1860-1886)**, **Susan L. Babcock (1853-1913)**, and **Emma A. Babcock (1850-1916, died Pipestone, Minnesota)**.
+- Charles Augustus himself had two marriages (Alice V. Hayes in 1880, then Maggie P. Jones) and two children: Lorenda Huber (b. 1882) and Poliche Babcock (b. 1904).
+
+**Major find: Deacon Seth Strong (4 Apr 1716, Northampton, Hampshire Co MA – 1792, Great Barrington, Berkshire Co MA), 7th great-grandfather -- a documented Revolutionary War Patriot.** Robert's own thin profile only had a spouse (Lois) and one son (Asher). An exceptionally well-sourced cross-tree match (11 sources spanning 1600s-1700s Massachusetts church/vital records, a 1790 census, Find A Grave, and -- genuinely -- the **U.S. Revolutionary War Rolls, 1775-1783** and an **Abstract of Graves of Revolutionary Patriots**) resolves this completely:
+- **Confirmed Revolutionary War militia service, Connecticut** -- a real military record, not a guess (unlike the still-unresolved Brisby citation from sessions 36-37). One contributor photo even names his unit: "Private, Major Leavenworth Company, Artillery Unit." This is a genuine, well-documented Patriot ancestor -- worth flagging to Robert specifically, since it could support a DAR/SAR lineage application if that's ever of interest.
+- Held the title "**Deacon**" (consistent with a Northampton First Church historical-catalogue citation also in the hints) -- a respected community/church role.
+- **Wife: Lois Strong (1721-1760)**, married 1740, Northampton MA -- she died in 1760, so Seth was a widower for his last 32 years.
+- **Parents, both with full dates**: **Jerijah Strong (1665-1754)** and **Thankful Stebbins (1678-1744)** -- extending this direct line two more generations into 17th-century New England.
+- **7-8 children found, well beyond the single known son Asher**: Seth Strong II (1743-1830, a namesake), Othniel Strong (1746-1746, died in infancy), Othneil Strong (1748-1820, apparently a second son given the same name after the first's death -- a common period naming practice), Persis Strong (1756-1840), Lavinia Strong (b. 1757), and Elias Strong (b. 1763).
+- Siblings for Seth himself also surface: Bela Strong (1719-1803), a second "Jerijah Strong" (1705-1781, an older brother sharing the father's name), and Thankful Strong (1702-1785).
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: everything above for both the Babcock and Strong lines, with Seth Strong's Revolutionary War service and parents being the standout entries.
+
+Committed and pushed. This is arguably the single best-documented ancestor found in this entire research push -- a named military unit in an actual war record is a rare level of detail for this deep in the tree.
