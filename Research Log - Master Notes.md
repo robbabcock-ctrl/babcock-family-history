@@ -1604,3 +1604,17 @@ Continuing the same technique: **Fred "Fritz" Jr. Chapman (Frederick Wallace Cha
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Fred Jr.'s marriage and both sons.
 
 Committed and pushed. **This completes the "blank spouse field" pass through Fredrick Wallace Chapman & Mary Louise Kimble's known children**: Ethel Mae (session 57), John A. (session 58), Stella (session 59), and Fred Jr. (this session) all resolved; Edmund confirmed to have no hints available (session 59); Roy, Arthur, and Daniel were already resolved in session 41. Still open: the newly-noticed "William H. Chapman" (session 59) and the "Emma E. Harris" / "Willie Chapman" names seen in the full sibling list but not yet individually checked -- good candidates for a future session.
+
+## 🌙 AUTONOMOUS SESSION 61 (2026-09-12, continued) — "Willie Chapman" confirmed as the same William H. Chapman (died age 14, 1890); Fredrick Wallace Chapman's own English parents found with 2 more children
+
+Two follow-up checks from session 59's open questions.
+
+**"Willie Chapman" and the previously-unidentified "William H. Chapman" sibling (session 59) are the same person, now fully resolved**: **William "Willie" Homer/Henry Chapman (24 Jan 1876, Glasco, Cloud Co, Kansas – 24 June 1890, same place)**, son of Fredrick Wallace Chapman & Mary Louise Kimble. He died at age 14 -- which is exactly why he shows "No spouse" and no children (he never reached adulthood). A genuine period newspaper piece exists: "Death of Willie Chapman," Glasco Sun, 28 Jun 1890. Not a missing sibling needing more research -- a childhood death already well documented, just filed under a name variant that obscured the connection to the earlier hint. Case closed.
+
+**"Emma E. Harris" turned out NOT to be one of Fredrick Wallace Chapman's siblings at all -- she's his mother.** Her tree relationships show "Spouse: No spouse; Fredrick Wallace Chapman" (i.e., mother of, not married to), and her own parents are listed as George Harris and Judith Ann Harper. 14 hints resolve her:
+- **Emma Harris (b. 1832/1833, Bethnal Green, Middlesex or Hemblington, Norfolk, England – d. 1898, Glasco, Cloud Co, Kansas)** married **James Chapman** in Norfolk, England (exact date not given in the hint snippets) -- both immigrated to Kansas, consistent with the already-known "Fred Chapman (1851-1915, born London, England)" detail from earlier sessions. This also clarifies that "James Chapman," previously assumed to possibly be a sibling when his name turned up in a family-list query, is actually **Fredrick Wallace Chapman's own father**.
+- **Two more children found beyond the already-known Fredrick Wallace**: **Walter John Chapman** and **Emma Caroline Chapman** (married name Merritt).
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: James Chapman + Emma Harris as Fredrick Wallace Chapman's confirmed English parents, and the two new children (Walter John, Emma Caroline).
+
+Committed and pushed. This closes out the "blank spouse field" pass through the immediate Chapman family for now -- the technique correctly surfaced both a resolved non-mystery (Willie's childhood death) and a genuine new generation (Fredrick Wallace's own English parents and 2 more siblings), showing it works both for filling gaps AND for catching relationship mis-assumptions before they become log errors.
