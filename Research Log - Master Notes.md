@@ -1666,3 +1666,15 @@ This source also gives Louisa's full name as "Louisa Oler Kimble" — UNCONFIRME
 **Session assessment**: a quieter iteration, similar to Sessions 56 and 64 — mostly confirmed existing knowledge rather than surfacing major new material, plus one useful process correction (retiring the stale "Kimble fire date" research flag) and one modest new lead (2 Kimble siblings). Honest outcome given how thoroughly this push has already mined the tree.
 
 Committed and pushed.
+
+## 🌙 AUTONOMOUS SESSION 66 (2026-09-12, continued) — Chapin Book of Genealogical Data v.2 searched for Rawson/Strong connections: negative result
+
+Searched the previously-untouched second volume of "The Chapin Book of Genealogical Data" (Gilbert Warren Chapin, 1924, HathiTrust mdp.39015071169307, 1502 pages) using its full-text search, following up on v.1's search (sessions 54-55) which only covered part of the book.
+
+- **"Rawson"**: 35 matches. Spot-checked several (a Sara/Frank/Albert Rawson family that married into the Otis & Abigail (Hayward) Chapin line, a "Sara Rawson" married to a Chapin descendant b.1839 Worcester Mass, an "Albert Rawson" b.1859 who married a Chapin descendant b.1821 Monson/Rockville). None of these Rawsons match names, dates, or locations from Robert's own Rawson line (Anson George Rawson, Silas Anson Rawson, Barbara Crone Rawson) -- they appear to be a coincidentally same-surname family that married into a completely different, unconnected branch of the wider Chapin descendant network covered by this book.
+- **"Polly Strong"**: no verbatim match as a name -- the 11 "hits" are all separate occurrences of the words "Polly" and "strong" (the adjective) in unrelated sentences, not the name together.
+- **Conclusion**: this book does not appear to document the specific Rawson/Strong ancestors in Robert's own line. The previously-flagged "possible Thwing/Chapin 1698 marriage connection" (sessions 52-55, explicitly UNCONFIRMED/speculative) is not corroborated by this search either. No connection adopted; nothing changed in the tree. Logging as a negative result so a future session doesn't re-run the same search.
+
+**Session assessment**: another quiet iteration -- the well-mined nature of this research push (66 sessions in) means negative results are increasingly the norm, which is itself useful signal that the easy material has mostly been found. No changes to the ready-to-enter backlog this session.
+
+Committed and pushed.
