@@ -2093,3 +2093,21 @@ This extends the confirmed Ringle-side ancestry one full generation further back
 Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: **Henricus Henry Giese Keesy (1762-1856) + Nancy Keesey (1782-) as John Keesy's parents**; the "Giese" original-surname note; John & Elizabeth's exact marriage date/place (3 Apr 1828, Lancaster PA) and John's exact birthplace (Moreland Twp, Lycoming Co PA); and the 10 new Keesy siblings listed above.
 
 Committed and pushed. A strong validation of the broad cross-tree search technique on a line that had never received it before -- worth trying on the still-thin Ewing line next, per the standing priority list.
+
+## 🌙 AUTONOMOUS SESSION 91 (2026-09-12, continued) — Rev. William Allen Keesy confirmed as a documented Civil War veteran (two enlistments); independently corroborates and cleans up session 90's Keesy findings
+
+Follow-up to session 90's queued lead: checked **Rev. William Allen Keesy (1843-1910)** on Find A Grave (memorial 59698253, Bethel Cemetery, Willard, Huron Co, OH), marked VETERAN. First, the Ewing-line cross-tree search technique was re-tried on **Elam Ewing** per the standing priority list, but turned up only the same already-known "Truhn-Jordan" source with no new names or parents -- **already a confirmed dead end from session ~27/61**; not re-flagged as a fresh finding, just re-confirmed as exhausted.
+
+**Rev. William Allen Keesy's memorial is a major, well-documented source**:
+
+**Civil War service confirmed** -- Allen served **twice** in the Union Army: first in the **55th Ohio Infantry (24 Oct 1861 - 11 Dec 1862)**, then in the **64th Ohio Infantry (23 Sept 1864 - 18 June 1865)**. This makes him **Robert's second documented Union Civil War veteran** found in this entire research push (after John Henry Keown, 21st Missouri Infantry, session 82) -- on the extended Keesy/Ringle line rather than a direct-line ancestor, but a genuine addition to the tree's growing military record.
+
+**Independently corroborates session 90's new findings from a completely different source** (Find A Grave, not the Ancestry cross-tree search): confirms parents **John Keesy (1804-1859) + Elizabeth Gons Keesy (1808-1875)**, and the same 9-sibling list (Harriet, John Henry, Margaret [Ringle], Peter Benjamin Franklin, Noah Miles "Miley", Catharine Jane "Kate" [Hershiser], Mary Ann [Fink], George Washington, Sarah Elizabeth [Riddle]) -- two independent sources now agreeing on this whole generation.
+
+**Resolves session 90's flagged duplicate**: session 90 flagged "Katherine Kate Jane Keesy (1840-1864)" and "Catharine Jane Hershiser (1840-1863)" as possibly the same person listed twice. This Find A Grave source lists only **one** such sibling -- **Catharine Jane "Kate" Keesy Hershiser (1840-1863)** -- confirming they are indeed the same person (Hershiser being her married surname; 1863, not 1864, is the correct death year).
+
+**New personal/family details**: physical description (5'6½", fair complexion, blue eyes, brown hair, likely from a military enlistment record); two marriages -- 1st to **Margaret Jane "Maggie" Lane** (7 July 1868, Wyandot Co OH; she d. 1873), 2nd to **Harriet Augusta "Hattie" Charles** (9 Feb 1875); and 12 children across both marriages (Minerva "Minnie" McKee, Mary Wheeler, Maggie L., Flora B. Rettig, Oceola "Ola" Smith, Vesta Leona Byrer, Edith Kesler, Ethel Smith, Leon Castle, Fern Elizabeth Arters, Helen Lucille Weller, Robert Ivan) -- extended-family detail, not direct-line additions, but useful corroborating context for the whole Keesy generation.
+
+Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Rev. William Allen Keesy's Civil War service (55th & 64th Ohio Infantry) as a documented veteran note; the corrected single "Catharine Jane Hershiser (1840-1863)" entry replacing the flagged possible duplicate.
+
+Committed and pushed. The Keesy generation (session 90-91) is now doubly-sourced and internally consistent -- a strong, clean addition to the tree.
