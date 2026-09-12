@@ -1549,3 +1549,16 @@ Fresh pass of the All Hints feed (page 1) shows the same set of items already re
 **Confirmed a structural limitation**: both "Charles S. Suydam" (Margaret Littel/Suydam's father, session 35) and "Silas Rawson" (Rev. Daniel Rawson's father, session 53) remain marked "Potential" (DNA-suggested) rather than fully-linked person records in Robert's tree, meaning neither has their own hints page that can be checked directly -- Ancestry only shows hints for actual linked person records. This explains why some "obvious next generation back" checks aren't currently possible without the write functionality (still down) to formally accept these Potential parent matches first.
 
 No new facts to add this session. Committed and pushed. Given the All Hints feed is currently showing no fresh material and several natural next-steps are blocked by the write outage and the "Potential parent" limitation, the next iteration should try a different technique -- e.g., checking specific already-linked family members not yet reviewed (Chapman siblings beyond Roy/Arthur/Daniel, or Peleg Sr.'s other sons Maxson/John/Joseph P./Jared for their own descendant lines) -- rather than re-running searches that have already returned everything they're going to return.
+
+## 🌙 AUTONOMOUS SESSION 57 (2026-09-12, continued) — Ethel Mae Chapman's full married life found: 3 marriages, 2 children
+
+Checked **Ethel Mae Chapman (1 Aug 1897, Glasco, Cloud Co, Kansas – 12 Sep 1988, El Dorado/Monrovia, California)**, one of Fredrick Wallace Chapman & Mary Louise Kimble's children (sister to Roy, Arthur, Daniel, John A., etc. from sessions 41/56), who had **no spouse or children at all recorded** in Robert's tree. 11 real hints (census 1920-1950, marriage/death indexes, Social Security application) reveal a full life:
+
+- **First marriage: John W. Kizer**, abt 1919, Glasco, Kansas -- daughter **Margaret ("Margrett") L. Kizer**.
+- **Second marriage: Edward W. Coons**, 9 Jun 1937, Los Angeles, California -- daughter **Mary Etta Coons**.
+- **Third marriage: Ira C. Estes**, 15 Sep 1958, Los Angeles, California (no children found from this marriage).
+- Lived out her life in the Los Angeles area (Monrovia, then El Dorado Co) after starting out in Kansas -- consistent with the broader Chapman family's westward migration already documented for her siblings.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: all three marriages and both daughters.
+
+Committed and pushed. A good example of checking an already-known person with a completely blank spouse/children field -- sometimes the most productive next check isn't a "new" ancestor at all, just an existing one nobody had gotten around to yet.
