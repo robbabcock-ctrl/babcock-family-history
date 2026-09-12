@@ -1481,3 +1481,21 @@ This is a real, dateable, narrative primary-source description of **Peleg Babcoc
 Not yet added to Ancestry (write outage ongoing) -- this narrative passage and citation are ready to fold into a future written family history/narrative document, exactly the kind of "documents, information, and stories" Robert's original directive asked for.
 
 Committed and pushed. A satisfying example of tracking a photographed hint back to its full original public-domain source for the complete story.
+
+## 🌙 AUTONOMOUS SESSION 52 (2026-09-11, continued) — MAJOR FIND: the Seth Strong Revolutionary War Patriot line connects directly to the Rawson line via Polly Strong; Anson George Rawson found to be a documented War of 1812 veteran; a "Rev." ancestor
+
+Checked **Anson George Rawson (4 May 1797, Scipio, Cayuga Co NY – 1 Sep 1860, Allen Twp, Noble Co IN)**, father of the already-researched Robert Ira Rawson (sessions 42/48/49), and found 21 rich hints.
+
+**Another major thread-merge, just like session 49's Babcock discovery**: Anson George Rawson's mother, **Polly Strong (1780-1825)**, has her own profile in Robert's tree already listing HER father as **Asher Strong (1741-1813)** -- and this is the exact same Asher Strong already found in session 38 as the son of **Deacon Seth Strong (1716-1792), the documented Revolutionary War Patriot** on Cynthia Rawson's side! **This confirms Seth Strong is Anson George Rawson's great-grandfather**, directly connecting the Strong Patriot line into the main Rawson line researched across sessions 42/48/49. Two separately-developing research threads (the Strong military line and the Rawson family line) turn out, once again, to be the same family.
+
+**Anson George Rawson himself is a documented War of 1812 veteran**: two separate real records -- "New York, War of 1812 Certificates and Applications of Claim and Related Records, 1858-1869" and "New York, U.S., Military Equipment Claims, War of 1812" -- both under his name, residence Noble County (where he'd relocated to Indiana by then, but the claim was filed against his earlier New York service). This is the family's second documented War of 1812 veteran found in this research push (after John Brisby, session 36).
+
+**His own father carries a notable title**: one hint calls him **"Rev. Daniel Rawson" (1770-1824)** -- a Reverend, not yet otherwise elaborated in Robert's tree. Worth a future look at what denomination/church he served.
+
+**4 more siblings found for Robert Ira Rawson** (children of Anson George + Frances Isbell, beyond the already-known Loretta Laura, Robert Ira, Richard "Myron," and Silas A.): **Julia, Mary Frances, Albert M.** (already independently known from earlier "Albert M. Rawson" research per this project's history), and **Phebe Ann Rawson**.
+
+**Three published genealogy/family-history books surfaced as hint sources**, worth a HathiTrust/Internet Archive lookup in a future session using the same successful technique from session 51: *The Rawson Family* (linked via openlibrary.org/books/OL7054544M), *The Chapin Book of Genealogical Data* by Gilbert Warren Chapin, and *Isbell Family in America* (covering Frances Isbell's own line).
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Anson George's War of 1812 service, the Rev. Daniel Rawson title, and the 4 new Rawson siblings.
+
+Committed and pushed. This is the second time in this research push that two independently-developed threads have turned out to be the same family (after session 49's Babcock/Solomon connection) -- a good reminder that this whole tree is more tightly interconnected than it first appears, and worth periodically checking whether a "new" ancestor on one branch is secretly already documented on another.
