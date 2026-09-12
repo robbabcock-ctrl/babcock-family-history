@@ -1512,3 +1512,20 @@ Checked **Rev. Daniel Rawson (13 Feb 1770, Conway/Colrain, Franklin Co, Massachu
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Silas Rawson + Abigail Chapin as confirmed (not just potential) parents, the "Reverend" title, and children Chloe Ann and Horace Strong Rawson.
 
 Committed and pushed. This extends the confirmed Rawson/Strong chain one more generation: Silas Rawson + Abigail Chapin -> Rev. Daniel Rawson (1770-1824) + Polly Strong (Seth Strong's great-granddaughter) -> Anson George Rawson (1797-1860, War of 1812 veteran) -> Robert Ira Rawson (1829-1901) -> the already fully-documented later Rawson generations.
+
+## 🌙 AUTONOMOUS SESSION 54 (2026-09-11/12, continued) — found Silas Rawson & Abigail Chapin's actual genealogy-book entry: both sets of their parents now known, plus a Bunker Hill soldier in the extended family
+
+Followed up on session 53 by applying the HathiTrust technique (session 51) to **"The Chapin Book of Genealogical Data"** by Gilbert Warren Chapin (1924), a genuine 2-volume published Chapin family genealogy, full view on HathiTrust (https://babel.hathitrust.org/cgi/pt?id=mdp.39015071169299). An in-text search for "Rawson" (26 matches) found the exact entry, page 291:
+
+> "ABIGAIL CHAPIN. dau. Joseph & Mary (Nelson) Chapin. b. May 10, 1732, Mendon, d. Conway, Mass. m. Jan. 5, 1762, Mendon, Silas Rawson, son of Nathaniel & Mary (Thwing) Rawson, b. Nov. 17, 1739, Mendon, d. Aug. 26, 1819, æ. 80, Palmyra, N.Y."
+
+This resolves both sides of the previous "Potential parents" flag on Robert's tree at once:
+- **Abigail Chapin's parents: Joseph Chapin and Mary Nelson.**
+- **Silas Rawson's parents: Nathaniel Rawson and Mary (Thwing) Rawson** -- extending the confirmed Rawson line one more generation back (Nathaniel & Mary Thwing Rawson -> Silas Rawson & Abigail Chapin -> Rev. Daniel Rawson (session 53) -> Anson George Rawson (session 52, War of 1812 veteran) -> Robert Ira Rawson (1829-1901) -> the already fully-documented later generations).
+- **Silas Rawson's death is specifically located**: Palmyra, New York, 26 Aug 1819, age 80.
+
+**A collateral Revolutionary War soldier noted**: the page's text immediately above this entry, describing a "Samuel [Chapin]" (likely one of Abigail's brothers, based on the family numbering), states: **"Mr. Chapin was a Revolutionary Soldier. Tradition says he was at the Battle of Bunker Hill."** This is not a direct-line ancestor (a sibling of Abigail, not Abigail herself), so not adopted into the confirmed-Patriot count, but worth noting as further evidence of how deeply this extended family was involved in the Revolutionary War, alongside the already-confirmed Seth Strong and Oliver Babcock Jr.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Silas Rawson's and Abigail Chapin's now-confirmed parents, and Silas's specific death location/age.
+
+Committed and pushed. A clean confirmation that the "search the full published genealogy book on HathiTrust" technique (first used session 51) continues to be one of the most productive methods in this whole research push -- three uses so far, three solid hits.
