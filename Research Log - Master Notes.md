@@ -1837,3 +1837,28 @@ This closes out the last open thread on the David Ringle branch first flagged in
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: two new children for David Ringle Sr. (John Ringle, 1826–1832; Elizabeth Ringle, 1838–1842), Sarah Ringle's married surname Boyle, and the half-sibling Samuel Lewis (optional context, not a Ringle-line addition).
 
 Committed and pushed.
+
+## 🌙 AUTONOMOUS SESSION 77 (2026-09-12, continued) — "Clara M Schults" discrepancy resolved: she's real, confirmed via primary 1900 census
+
+Revisited the session 28 open flag: a 1900 census hint had named a sibling "Clara M Schults" for Herman August Schultz, but the fuller 13-child compiled source tree used later that same session didn't include her, leaving it unresolved whether she was a genuine 14th child or a mis-transcription (e.g. of "Carl").
+
+Pulled the actual 1900 U.S. Federal Census record directly (Sherman, Dunn Co, Wisconsin; Ancestry collection 7602, record 63210960) rather than relying on the hint's summary. The full household:
+
+| Name | Age | Relationship |
+|---|---|---|
+| Matilda J Schults | 49 | Head |
+| Louis E Schults | 23 | Son |
+| Fred Schults | 19 | Son |
+| Joseph Schults | 16 | Son |
+| George Schults | 14 | Son |
+| **Clara M Schults** | **12** | **Daughter** |
+| August Schults | 12 | Son |
+| Ella Schults | 9 | Daughter |
+
+**Clara M. Schults (b. Nov 1887, Wisconsin) is confirmed as a real, independently-documented child** of this family via a primary federal census record -- not a mis-transcription of "Carl" (the already-known 1896-born Charles/Carl Albert/Earl trio is a different, later-born set of children entirely; no chronological overlap). The household head is recorded as "**Matilda J Schults**," almost certainly the same woman known elsewhere in the tree as "Heneyatta Maria Kapitzke" or "Henriette" -- consistent with this family's pattern of using varied first-name forms across different records (already flagged in session 27's log for the mother, and now apparently true of at least one child too: "**August Schults**," age 12" in this household is almost certainly **Herman August Schultz** himself, recorded here under his middle name rather than "Herman" -- his own known birth date (15 Dec 1888) would make him 11 at a June 1900 enumeration, one year off from the recorded age 12, a normal-sized census age discrepancy).
+
+**Conclusion**: Clara M. Schults is a genuine, previously-unresolved 14th sibling for Herman August Schultz, born about November 1887 -- roughly 13 months older than Herman, not a twin despite the matching recorded age of 12. This closes out the last open discrepancy from session 28's otherwise-thorough Schultz sibling discovery.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Clara M. Schults (b. abt Nov 1887) as a confirmed child of William Scholtz + Heneyatta Maria Kapitzke, sourced to the 1900 census.
+
+Committed and pushed.
