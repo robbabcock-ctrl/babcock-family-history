@@ -1801,3 +1801,13 @@ Followed up on the "Crone, Barbara" Member photo hint (a gravestone photo, Sunfi
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: the 5 new Rawson children above (Clara Irene, Herbert W., Laura Loretta, George Elder, Walter Crone), all UNCONFIRMED pending a primary-source cross-check (Find A Grave alone, while generally reliable for family-group data, is still a single secondary source) -- and the William Harrison/Herbert W. discrepancy for Robert's own review.
 
 Committed and pushed.
+
+## 🌙 AUTONOMOUS SESSION 74 (2026-09-12, continued) — William Harrison Rawson discrepancy resolved: he's real, Find A Grave's contributor just missed him
+
+Follow-up to session 73's flagged discrepancy (William Harrison Rawson missing from Barbara Crone Rawson's Find A Grave family list). Checked William Harrison's own profile in Robert's tree (pid 252807340039) directly.
+
+**Resolved cleanly**: William Harrison Rawson is a genuine, well-documented person, independently sourced by **2 birth sources, the 1900 U.S. Federal Census, the 1910 U.S. Federal Census, and a Michigan County Marriage Record** -- born 21 Nov 1868, Noble County, Indiana; married Myrtle Bickhart in 1900; residence Cadillac, Wexford Co MI (1900, Bookkeeper) then Grand Rapids, Kent Co MI (1910, Salesman); a son, Silas Asher Rawson (1895–1967, later died in Fresno, California -- fitting the same Kansas/Illinois-to-California migration pattern already noted for other branches in this research push, e.g. sessions 21-22's Kimble family and the Chapman line). No contradiction with session 73's new Find A Grave children -- William Harrison simply lived and (presumably) was buried away from the Sunfield, Eaton Co MI family plot where Barbara and most of her other children are memorialized, which is the most likely reason Find A Grave's contributor never listed him among her children.
+
+**Conclusion**: Silas Anson Rawson + Barbara Crone had (at least) **8 children total**: William Harrison (already known, now reconfirmed solid), Frances Annetta, Mable (both already known), plus the 5 new ones from session 73 (Clara Irene, Herbert W., Laura Loretta, George Elder, Walter Crone). No further action needed on William Harrison himself -- already fully sourced in the tree.
+
+No changes to the ready-to-enter backlog beyond what session 73 already flagged. Committed and pushed for continuity -- a clean resolution that avoided second-guessing a well-sourced existing record based on a single secondary source's omission.
