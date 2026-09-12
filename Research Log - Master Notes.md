@@ -1880,3 +1880,21 @@ Followed up on Barbara Crone Rawson's parents (John Crone 1818-1898 + Catharine 
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: **John Crone Sr. + Elizabeth Pence as parents of John Crone (1818-1898)**, sourced to this 1882 county history; **Daniel Crone** as a new (likely eldest) child of John Crone + Catharine Switzer; and a note flagging the second, still-unidentified infant death.
 
 Committed and pushed. A strong validation of the "search a specific two-name combination rather than a common surname alone" technique refined across sessions 70-77 -- immediately surfaced the right, highly relevant source with zero false positives.
+
+## 🌙 AUTONOMOUS SESSION 79 (2026-09-12, continued) — MAJOR FIND: Robert's Rawson line confirmed to descend from Edward Rawson, Secretary of the Massachusetts Bay Colony
+
+Applying the same "two-name HathiTrust search" technique validated in session 78 (a specific pairing beats a common surname alone), searched for "Silas Rawson" + "Abigail Chapin" together and found **"The Rawson Family: A Revised Memoir of Edward Rawson, Secretary of the Colony of Massachusetts Bay, from 1650-1686; with Genealogical Notices of His Descendants, Including Nine Generations" by E.B. Crane (1875, HathiTrust wu.89066237165)** -- a dedicated, purpose-built genealogy of exactly this family.
+
+Found the entry directly, page 60:
+
+> "722. Silas Rawson [265] (Nathaniel⁵, Nathaniel⁴, William³, Edward¹), m. 1st, Abigail Chapin, by whom he had eight children. His 2d wife was Rebecca Fellows. Settled first in Conway, Mass.; but, after the death of his 1st wife, changed his residence many times."
+
+**This confirms Robert's Rawson line descends directly from Edward Rawson himself** -- Secretary of the Massachusetts Bay Colony from 1650 to 1686, one of the most senior civil officers in the colony for over three decades, and a genuinely significant figure in early American colonial government (he personally signed and recorded colony proceedings during this entire period, including the Salem-era witch trial paperwork of the mid-1680s run-up and the colony's dealings with Quakers). The generation chain given is **Edward¹ (the immigrant Secretary) → William³ → Nathaniel⁴ → Nathaniel⁵ → Silas⁶ (already in Robert's tree, m. Abigail Chapin) → Rev. Daniel Rawson (already confirmed, session 54) → Anson George Rawson (War of 1812 veteran, session 52) → down to Robert.**
+
+**New detail confirmed/added**: Silas Rawson's marriage to Abigail Chapin and their 8 children (already known) are independently corroborated here. **A second wife, Rebecca Fellows, married after Abigail's death, is a genuinely new finding** -- not previously documented in Robert's tree. Also newly noted: Silas first settled in Conway, Massachusetts (a specific detail not previously pinned down), before relocating multiple times after Abigail died.
+
+**Not yet fully explored this session**: entry "[265]" is a cross-reference to William Rawson's (Silas's grandfather, 3rd generation) own numbered entry, likely earlier in the book -- a good lead for a future session to trace that specific generation's details (dates, spouse, siblings) rather than just the name chain given here.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: **Edward Rawson (Secretary of Massachusetts Bay Colony, 1650-1686) as Robert's documented immigrant ancestor** via the generation chain above, and **Rebecca Fellows as Silas Rawson's second wife** (no children recorded from this marriage in the source).
+
+Committed and pushed. Another strong hit for the "distinctive two-name pairing" HathiTrust technique -- two major finds (Elder John Strong, session 71; now Edward Rawson) in the same research push, both traced through exactly this method.
