@@ -1811,3 +1811,15 @@ Follow-up to session 73's flagged discrepancy (William Harrison Rawson missing f
 **Conclusion**: Silas Anson Rawson + Barbara Crone had (at least) **8 children total**: William Harrison (already known, now reconfirmed solid), Frances Annetta, Mable (both already known), plus the 5 new ones from session 73 (Clara Irene, Herbert W., Laura Loretta, George Elder, Walter Crone). No further action needed on William Harrison himself -- already fully sourced in the tree.
 
 No changes to the ready-to-enter backlog beyond what session 73 already flagged. Committed and pushed for continuity -- a clean resolution that avoided second-guessing a well-sourced existing record based on a single secondary source's omission.
+
+## 🌙 AUTONOMOUS SESSION 75 (2026-09-12, continued) — John Henry Keown's 1862 Georgia death: no Civil War record found this pass
+
+Attempted to resolve the long-open question of whether John Henry Keown's death (abt 1844–1862, age ~18, Warren, Georgia -- flagged since session 34 as possibly Civil War-related) can be tied to an actual military record.
+
+- **Ancestry advanced search** (name + birth ~1844 + Georgia death + "civil war" keyword): zero good matches.
+- **Ancestry broad search** (name + "Confederate" keyword, no location filter): 6,270 results, dominated by unrelated same-named or coincidentally-initialed people. One superficially interesting hit -- a "John H Keown, b. 1845 Kentucky" in the 1860 census, Clay Township, Adair Co, Missouri -- shares the right birth state (the Keown family's known home was Ohio County, Kentucky) but a different specific county and a different state of residence by 1860 (Missouri, not Georgia) -- not adopted as a match; too speculative without more corroboration.
+- **Newspapers.com** ("Keown" + "Warren" + Georgia, 1862; "John Keown" alone, 1862): both searches returned mostly unrelated results (Irish/Australian papers matching "Keown" as a common Ulster surname, or Missouri/Louisiana Civil-War-era papers matching "Warren" as a common word/place name unrelated to Georgia). No Georgia-specific casualty notice or muster record found.
+
+**Conclusion**: the name is too common and the available identifying detail (age, approximate death year, one Georgia county) too thin to confidently isolate a specific service record from general search alone. This would need either a middle name/exact death date, a specific regiment, or a Fold3-specific search (not attempted this session -- Fold3 access wasn't confirmed available) to make further progress. Not resolved -- logging the specific search strategies tried so a future session doesn't repeat them identically; a more promising angle would be checking whether Ohio County, Kentucky's own Confederate or Union muster rolls (Kentucky raised regiments on both sides) list a Keown, rather than searching Georgia records directly.
+
+No changes to the tree this session. Committed and pushed for continuity.
