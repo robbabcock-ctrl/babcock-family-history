@@ -1699,3 +1699,23 @@ Not yet changed in Ancestry (write outage ongoing) -- ready-to-enter backlog: co
 **Session assessment**: a genuine win after 3 sessions of technical friction (63, 64 touched on this without progress) -- both the specific obituary-reading blocker AND a real substantive discovery (a death-date correction plus new unidentified children) came out of finally getting a clean read. Exactly the kind of "make it worth the subscription" deep-newspapers.com research the original directive asked for.
 
 Committed and pushed.
+
+## 🌙 AUTONOMOUS SESSION 68 (2026-09-12, continued) — "James Chapman Jr." identified: it's James H. Chapman, b. abt 1869
+
+Follow-up to session 67's obituary discovery (a son named James Chapman, at whose Glasco home the elder James Chapman died in 1908, not yet a documented child). Pulled the full 1880 U.S. Federal Census household record for James Chapman (Solomon, Cloud Co., Kansas, dwelling #97) directly from Ancestry's record page rather than the image viewer (the record page's "Household Members" table lists everyone cleanly without needing to zoom into the handwritten image):
+
+| Name | Age | Relationship |
+|---|---|---|
+| James Chapman | 52 | Self (Head) |
+| Emma Chapman | 46 | Wife |
+| Emma C. Chapman | 15 | Daughter |
+| **James H. Chapman** | **11** | **Son** |
+| John W. Chapman | 7 | Son |
+
+**James H. Chapman (b. abt 1869, likely in Illinois given the family's 1867 emigration and 1870 move to Kansas)** is almost certainly the "son, James Chapman" at whose home the elder James Chapman died in Glasco in 1908 (session 67) -- by 1908 he'd be about 39, a plausible age to be the head of his own household hosting an aging parent. This is a previously undocumented child, found and confirmed via a primary source (1880 census). **John W. Chapman, age 7** in this record is very likely the already-known **Walter John Chapman** (name order reversed, a common census-transcription quirk) -- consistent with his known existence, not a new person. **Emma C. Chapman, age 15**, is the already-known Emma Caroline (later Merritt). Fredrick Wallace Chapman (b. 1852) does not appear -- expected, since he'd have been 28 in 1880 and almost certainly already had his own household (he's Robert's own direct ancestor and separately well documented).
+
+**Still open** (from session 67): the obituary's claim of 8 total children (3 died in infancy, 5 survived) is not yet fully reconciled. Identified so far: Fredrick Wallace (survived), Emma Caroline (survived), Walter John/"John W." (survived), James H. (survived) = 4 of the 5 survivors. One more surviving adult child, and all 3 infant deaths, remain unidentified -- worth checking an 1870 Illinois census (the family's brief window there before the 1870 Kansas move) or Illinois vital records for infant deaths in the Chapman household circa 1867-1870.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: **James H. Chapman (b. abt 1869) as a new son of James Chapman + Emma Harris**, sourced to the 1880 census; a note cross-referencing him as the likely "son James Chapman" from the 1908 obituary.
+
+Committed and pushed.
