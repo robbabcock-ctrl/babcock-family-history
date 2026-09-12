@@ -2004,3 +2004,22 @@ Checked Find A Grave directly for "Nathaniel Rawson," death 1803 (the father ide
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: **Nathaniel Rawson I (1689-1731) as Nathaniel Jr.'s father**; Nathaniel Jr.'s confirmed Revolutionary War Minuteman service at the Lexington Alarm; the corrected spelling **Thwing** (not Twing) for Silas's mother; and the extended sibling/half-sibling list above.
 
 Committed and pushed. An outstanding follow-up to sessions 79-83's Rawson research -- this single Find A Grave check both fully corroborated the prior HathiTrust-sourced findings AND delivered a genuine new Revolutionary War Patriot plus another generation of confirmed lineage.
+
+## 🌙 AUTONOMOUS SESSION 86 (2026-09-12, continued) — MAJOR FIND: a FOURTH Revolutionary War Patriot, with an exceptionally detailed pension-documented combat record (Fort Stanwix, Saratoga, Stony Point)
+
+Follow-up to session 85's lead: checked Find A Grave for **Corp. Moses Rawson (1753-1833)**, Silas Rawson's half-brother (both sons of Nathaniel Rawson Jr., Moses via 2nd wife Rachel Daniels, Silas via 1st wife Mary Thwing). Found his memorial (findagrave.com/memorial/85225694) -- also flagged as a **VETERAN**, with an exceptionally rich, well-documented service record:
+
+> "Moses was a Veteran of the American Revolution -- Corporal Moses Rawson fought four and one-half years in the American Revolution and was with 'Mad Anthony Wayne' at Stony Point. According to Revolutionary War Pension Files at the National Archives, he enlisted in the Ninth Regiment of the Massachusetts Line in April, 1777 and was discharged at Camp West Point on April 21, 1780. He participated in the siege of Fort Stanwix, and the battles of Stony Point and Saratoga."
+
+**This is the fourth confirmed Revolutionary War Patriot ancestor found in this entire research push** (after Deacon Seth Strong, Lieut. Oliver Babcock Jr., and Nathaniel Rawson Jr. himself, session 85), and by far the most specifically documented -- actual National Archives pension file records naming his exact regiment (9th Massachusetts Line), enlistment date (April 1777), discharge date and place (Camp West Point, 21 Apr 1780), and three specific, historically significant engagements:
+- **Siege of Fort Stanwix** (1777) -- part of the Saratoga campaign, a pivotal defense that helped block British General Barry St. Leger's advance down the Mohawk Valley.
+- **Battle of Saratoga** (1777) -- widely regarded as the war's turning point, the American victory that convinced France to formally ally with the United States.
+- **Battle of Stony Point** (1779) -- General "Mad Anthony" Wayne's celebrated night bayonet assault, one of the most daring and successful American operations of the war.
+
+The memorial explicitly confirms the family relationship: "**Moses-5 was the son of Nathaniel-4 Rawson (1716-1803)**" (matching session 85's Nathaniel Rawson Jr. exactly) and lists half-sibling "**Silas Rawson Sr, 1739-1819**" -- confirming Moses and Silas (Robert's direct ancestor) as half-brothers. The full published generation chain given here is: **Moses-5 Rawson, Nathaniel-4 Rawson, Nathaniel-3 Rawson, William-2 Rawson, Edward-1 Rawson** -- independently corroborating the entire confirmed line back to Edward Rawson, Secretary of the Massachusetts Bay Colony (session 79), from a completely different source (a dedicated Rawson family archivist's research, credited to "Alison Franks, 2013" and "Mary E. Warner, 2013").
+
+Also newly confirmed: Moses's own marriage (Sarah Bussey, 1780) and 6 children (Oliver, Thomas [d. in infancy], Luther, Electa, Mary/Polly, Sarah) -- not direct-line additions for Robert, but useful extended-family context, plus his own birthplace (Milford, Worcester Co, MA) and baptism record (5 May 1753, First Church Congregational, Mendon).
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Corp. Moses Rawson's confirmed Revolutionary War service (9th Massachusetts Line, Fort Stanwix/Saratoga/Stony Point) as a documented Patriot in the extended family, noted as Silas Rawson's half-brother rather than a direct-line ancestor.
+
+Committed and pushed. This research push has now documented an extraordinary FOUR Revolutionary War Patriots plus a Revolutionary War POW death, TWO War of 1812 veterans, and a Union Civil War Corporal -- a remarkable concentration of confirmed military history across Robert's family tree.
