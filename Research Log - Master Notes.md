@@ -1764,3 +1764,17 @@ This confirms: **Seth Strong's father is Jerijah Strong**, and his mother is **T
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: **Jerijah Strong + Thankful Stebbins as Seth Strong's parents**, and **Elder John Strong + Abigail Ford as Jerijah's parents** (with the birth-year caveat noted above), both sourced to Dwight's 1871 book quoting the 1777 Caleb Strong letter.
 
 Committed and pushed. This is exactly the kind of "follow all family lines further into the past" result the original research directive asked for, and validates sticking with the Strong genealogy-book thread across two sessions despite session 70's initial difficulty.
+
+## 🌙 AUTONOMOUS SESSION 72 (2026-09-12, continued) — Jerijah Strong's birth date confirmed: 1665, not 1693 (session 71 caveat resolved)
+
+Follow-up to session 71's Elder John Strong discovery. Searched the same book (Dwight, 1871) for "Jerijah Strong" directly and found his formal entry on **page 19**, in a complete, cleanly formatted list titled "[2d Gen.] Children of Elder John Strong" -- all 18 children (2 by his first wife, 16 by second wife Abigail Ford) listed in birth order with full dates:
+
+> "35-6. xviii. **JERIJAH Strong b. Dec. 12, 1665, d. April 24, 1754, aged 88.**"
+
+This **confirms the session 71 suspicion that "1693" was an OCR/reading misread** -- the true birth date is **1665**, which resolves the chronological tension cleanly: Jerijah, born 1665, was 23 when his mother Abigail Ford died in 1688, and his death in 1754 "aged 88" is arithmetically exact (his 89th birthday, Dec. 12, hadn't yet occurred by his April 1754 death). The page even includes the author's own note confirming the family's wide age spread: "The two eldest and youngest children of Elder John Strong were 39 years apart in age. His wife Abigail was probably not more than 16 or 17 years of age at her marriage in 1636, at which time he was himself but 25" -- meaning Elder John Strong was born about 1611 and married Abigail Ford about 1636, both new, precise details.
+
+**Robert's confirmed Strong lineage, now fully dated and internally consistent**: Elder John Strong (b. ~1611, England – d. 14 Apr 1699, Northampton MA, age ~94) + Abigail Ford (m. ~1636, d. 6 Jul 1688) → **Jerijah Strong (b. 12 Dec 1665, d. 24 Apr 1754, aged 88)** + Thankful Stebbins (m. 10 Jul 1700) → Deacon Seth Strong (Revolutionary War Patriot, already confirmed session 38) + Lois Strong → down to Robert.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog update: correct Jerijah Strong's birth date to 12 Dec 1665 (not the earlier tentative 1693), add his death date 24 Apr 1754, and add Elder John Strong's own approximate birth year (~1611) and marriage year (~1636) to Abigail Ford.
+
+Committed and pushed. A clean, satisfying close to the session 71 thread -- good discipline paid off (flagging the uncertainty instead of guessing, then verifying it directly) rather than either adopting the wrong date or abandoning the lead.
