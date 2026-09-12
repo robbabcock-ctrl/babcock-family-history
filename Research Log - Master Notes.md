@@ -1618,3 +1618,16 @@ Two follow-up checks from session 59's open questions.
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: James Chapman + Emma Harris as Fredrick Wallace Chapman's confirmed English parents, and the two new children (Walter John, Emma Caroline).
 
 Committed and pushed. This closes out the "blank spouse field" pass through the immediate Chapman family for now -- the technique correctly surfaced both a resolved non-mystery (Willie's childhood death) and a genuine new generation (Fredrick Wallace's own English parents and 2 more siblings), showing it works both for filling gaps AND for catching relationship mis-assumptions before they become log errors.
+
+## 🌙 AUTONOMOUS SESSION 62 (2026-09-12, continued) — James Chapman's own parents confirmed (John Chapman + Elizabeth Baker), extending the English Chapman line one more generation; a real obituary found
+
+Checked **James Chapman (14 Feb 1830, Norfolk, England – 23 Oct 1908, Glasco, Cloud Co, Kansas)**, Fredrick Wallace Chapman's father (session 61), for his own hints. 12 hints confirm and extend what Robert's tree already had:
+
+- **His own parents, already in Robert's tree, are independently confirmed**: **John Chapman (1796-1868) and Elizabeth Baker (d. 1830)** -- both from Norfolk, England. Elizabeth Baker's death year matching James's own birth year (1830) suggests she may have died shortly after childbirth, though not confirmed.
+- **A real obituary exists**: "Obituary for James Chapman (Aged 78)," submitted as a member photo -- a genuine period document, not yet read in full detail this session but a strong candidate for a future close read (may contain immigration story details, English hometown specifics, or family narrative).
+- **This makes Norfolk, England the fifth distinct, specifically-pinpointed immigrant-origin region found in this research push** -- alongside the four German regions (Kapitzke/Mecklenburg-Vorpommern, Brand/Freudenberg-Baden, Schlottach/Komsow-Pomerania) and the still-unresolved Irish county for Ann Blackwell. Unlike the Irish thread, this one came together easily: exact county (Norfolk), exact birth date, and a real marriage record (Church of England banns/marriage register) all agree.
+- Confirms his marriage to Emma Harris and children Fredrick Wallace, Walter John, and Emma Caroline (Merritt) -- consistent with session 61.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: nothing new to add here since John Chapman + Elizabeth Baker were already correctly in Robert's tree; this session's value was independent confirmation plus locating the obituary for future reading.
+
+Committed and pushed. A good candidate for a follow-up session: actually read the full James Chapman obituary image, which may contain the kind of rich immigration narrative that Robert's original directive specifically asked for.
