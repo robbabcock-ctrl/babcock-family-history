@@ -1529,3 +1529,13 @@ This resolves both sides of the previous "Potential parents" flag on Robert's tr
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Silas Rawson's and Abigail Chapin's now-confirmed parents, and Silas's specific death location/age.
 
 Committed and pushed. A clean confirmation that the "search the full published genealogy book on HathiTrust" technique (first used session 51) continues to be one of the most productive methods in this whole research push -- three uses so far, three solid hits.
+
+## 🌙 AUTONOMOUS SESSION 55 (2026-09-12) — a possible further-back Thwing/Chapin connection, unconfirmed
+
+Continuing to mine "The Chapin Book of Genealogical Data" (session 54) for the Rawson line: searched the same volume for "Thwing" (Mary Thwing being Nathaniel Rawson's wife and Silas Rawson's mother). Found a plausible but not fully confirmed further connection at page 20:
+
+> "...[a daughter of] David & Lydia (Crump) Chapin, of Boston... m. Jan. 26, 1698, Boston, Mass., William Thwing, son [of] Benjamin Thwing, shipwright, b. Dec. 28, 1656. Children: [Thwing] 1. Benjamin, b. Sept. 22, 1699. d...."
+
+This shows a Chapin daughter marrying a **William Thwing (son of Benjamin Thwing, a Boston shipwright, b. 1656)** in 1698 -- timing that would fit as the parents' generation for a Mary Thwing born in the 1710s (Nathaniel Rawson's wife, Silas Rawson's mother, sessions 53-54). **This is UNCONFIRMED** -- the snippet only explicitly names one child (Benjamin, 1699), not a "Mary," so this may or may not be the same Thwing family; it's a plausible lead given the surname, timeframe, and the existing pattern of Chapin/Rawson/Thwing families intermarrying repeatedly in this same corner of colonial Massachusetts, but not adopted as fact. Flagging for a future session with more time to read the surrounding pages in full rather than just the search snippet.
+
+No other new material found this pass. Committed and pushed. This branch (Rawson/Chapin/Thwing/Strong, sessions 42/48/49/52/53/54/55) is now extremely well-developed for a multi-day autonomous push -- likely worth pausing further deep-generation digging here and letting the "All Hints" feed or other branches take priority for a while, unless a stronger lead appears.
