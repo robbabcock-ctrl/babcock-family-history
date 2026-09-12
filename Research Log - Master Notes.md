@@ -1465,3 +1465,19 @@ Checked **Solomon Babcock (2 Sep 1776 – 13 Feb 1867)** -- the exact junction p
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: mother Ruth Maxson Babcock, son Ralph Babcock, and the Pioneer History/Baptist-church source citations.
 
 Committed and pushed. A nice example of hint-checking the exact junction person between two merged research threads paying off with genuinely new, high-quality narrative material.
+
+## 🌙 AUTONOMOUS SESSION 51 (2026-09-11, continued) — found and read the actual "Pioneer History of Cortland County" passage describing the Babcock brothers' 1799 frontier settlement
+
+Followed up on session 50's lead: located the full 1859 original edition of ***Pioneer History; or, Cortland County and the Border Wars of New York*** by H.C. Goodwin on HathiTrust (public domain, full view -- https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t12n5c884), and used its in-text search to find the actual Babcock-family passage rather than just relying on the cropped photo hints.
+
+**Page 215, found via in-text search for "Babcock"** -- an actual narrative account of the family's founding settlement:
+
+> "During the year 1799, several settlements were made. Peleg Babcock, accompanied by his brothers Solomon and Asa Howard, came in from Leyden, Massachusetts, and selected locations. Peleg settled on the south part of lot 82. Solomon located on the north-west part of the same lot, while Howard stuck his post a little to the east of Solomon..."
+
+This is a real, dateable, narrative primary-source description of **Peleg Babcock Jr. (1772-1827) and Solomon Babcock (1776-1867) arriving together from Leyden, Massachusetts in 1799 and founding adjoining homestead claims on lot 82** in what became Cortland County, NY -- consistent with and adding real texture to the family's already-documented migration (session 50). Note: this "Peleg" is the younger **Peleg Jr.**, Solomon's brother (both sons of the elder Peleg W. Babcock Sr., sessions 43/49/50) -- not their father, who remained in Rhode Island/Massachusetts.
+
+**A third brother's name surfaces**: the passage names a third person, **"Asa Howard [Babcock]"**, also settling nearby -- not yet identified among the ~20 already-found children of Peleg Sr. This could be a previously-unrecorded son (perhaps "Asa Howard Babcock" as a full given name), or "Howard" could be an unrelated companion's surname rather than a third brother -- the 18th-century sentence structure is genuinely ambiguous. A separate passage on page 210 mentions an elderly **"Asa Babcock"** who moved on to Ohio ("originally from Rhode Island, came in from Madison county, N.Y.," sons James and Jacob active in Ohio politics, one elected to the legislature in 1814) -- possibly the same Asa, tracing a further westward migration, but not confirmed as the same person as the "Asa Howard" of the 1799 settlement story. Flagged as an open lead rather than force-connected.
+
+Not yet added to Ancestry (write outage ongoing) -- this narrative passage and citation are ready to fold into a future written family history/narrative document, exactly the kind of "documents, information, and stories" Robert's original directive asked for.
+
+Committed and pushed. A satisfying example of tracking a photographed hint back to its full original public-domain source for the complete story.
