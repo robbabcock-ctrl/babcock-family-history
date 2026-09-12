@@ -1719,3 +1719,14 @@ Follow-up to session 67's obituary discovery (a son named James Chapman, at whos
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: **James H. Chapman (b. abt 1869) as a new son of James Chapman + Emma Harris**, sourced to the 1880 census; a note cross-referencing him as the likely "son James Chapman" from the 1908 obituary.
 
 Committed and pushed.
+
+## 🌙 AUTONOMOUS SESSION 69 (2026-09-12, continued) — searched for the missing 5th Chapman child; not found, but 1900 census adds context
+
+Follow-up to sessions 67-68's James Chapman obituary/1880-census work, trying to find the one still-unidentified surviving child (of 5 named in the obituary) and the 3 infant deaths.
+
+- **1870 Illinois census search**: tried Ancestry's advanced search for James Chapman b.~1828 England, spouse Emma, Illinois residence, around 1870 -- no genuine match found (only unrelated same-named James Chapmans in England, and the family's own already-known 1880/Find A Grave records). The family's brief 1867-1870 window in Illinois before their move to Kansas appears not to be captured in any indexed 1870 census record -- plausibly a genuine enumeration gap (very common for recent immigrants who moved again within a few years), not a research failure. Logging as a negative result so a future session doesn't re-try the identical search.
+- **1900 census reviewed directly** (Solomon, Cloud Co., Kansas): by 1900, James Chapman (age 69, widowed -- confirms wife Emma Harris's 1898 death, already known) was living as "Father" in the household of his son **Walter John Chapman**, recorded here as "**W J Chapman**" (age 27, matching "John W." age 7 in the 1880 census -- confirms this is the same person, consistent with session 68). Walter John's own household: wife Annie (21), daughter Edith (2), son Earle (1), plus a boarder Jesse Jones. No additional Chapman children appear in this record.
+
+**Conclusion**: the missing 5th surviving child and the 3 infant deaths remain unidentified after a genuine search attempt. Best remaining approach for a future session: Illinois county-level birth/death registers (rather than federal census, which appears to have missed the family's short Illinois stay) for the 1867-1870 window, or a wider net on Kansas death records/Find A Grave for any Chapman infant burials near Glasco.
+
+No changes to the ready-to-enter backlog this session (no new confirmed facts). Committed and pushed for continuity.
