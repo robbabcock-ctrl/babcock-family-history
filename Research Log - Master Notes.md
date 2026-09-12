@@ -1730,3 +1730,15 @@ Follow-up to sessions 67-68's James Chapman obituary/1880-census work, trying to
 **Conclusion**: the missing 5th surviving child and the 3 infant deaths remain unidentified after a genuine search attempt. Best remaining approach for a future session: Illinois county-level birth/death registers (rather than federal census, which appears to have missed the family's short Illinois stay) for the 1867-1870 window, or a wider net on Kansas death records/Find A Grave for any Chapman infant burials near Glasco.
 
 No changes to the ready-to-enter backlog this session (no new confirmed facts). Committed and pushed for continuity.
+
+## 🌙 AUTONOMOUS SESSION 70 (2026-09-12, continued) — found a promising genealogy book for the Seth Strong line, but couldn't pin down the exact entry this session
+
+Found and opened **"The History of the Descendants of Elder John Strong, of Northampton, Mass." by Benjamin W. Dwight (1871, Albany: J. Munsell)** on HathiTrust -- the original public-domain edition, full view (mdp.39015010461716, 888 page scans, 2 vols; a 1975 reprint also exists but is search-only). This is exactly the right family/place match for Robert's confirmed Revolutionary War Patriot **Deacon Seth Strong** (b. ~1719, Northampton MA, m. Lois [surname unknown] 1740, d. 1799 -- found session 38).
+
+Searching "Seth Strong" in this book returns 16 exact-phrase hits, confirming the name recurs across MULTIPLE generations/branches of this large family (a Seth Strong of Woodbury CT, one of Durham CT with wife Phebe, one born 1761 who was "deaf and dumb," etc.) -- "Seth Strong" was evidently a common recurring given name in this family, similar to how "James" repeats in the Chapman line. Checked several of the specific page hits directly (pages ~485, 575-577, 250-252) and none matched Robert's specific Seth Strong (wife Lois, married 1740, died 1799) on the details visible.
+
+**Not resolved this session**: which (if any) of the 16 "Seth Strong" entries in this book is Robert's own ancestor. The book's own internal pagination has confusing seq-vs-printed-page offsets that shift partway through (plates/blank pages inserted), which cost significant time this session; direct URL navigation to a guessed sequence number was unreliable, while using the "Search in This Text" panel's own result links worked correctly. The search text field also proved fragile to keyboard-shortcut editing (Ctrl+A sometimes selected the whole page instead of the field) -- future attempts should click precisely into the field and verify the query in the URL (`q1=...`) before assuming a search ran cleanly.
+
+**Recommended for a future session**: retry the search with more specific terms less likely to collide with other generations -- e.g. "Lois Strong" (his wife's given name, fairly distinctive combined with "Strong"), or search for the specific detail "Major Leavenworth" (his Revolutionary War company commander, from session 38's find) which is far less likely to produce false-generation matches than "Seth Strong" alone.
+
+No changes to the ready-to-enter backlog this session. Committed and pushed for continuity.
