@@ -1451,3 +1451,17 @@ Checked Peleg W. Babcock (1748-1834), Oliver Babcock Jr.'s son (session 43), for
 Not yet added to Ancestry (write outage ongoing) -- this is now a very large ready-to-enter backlog for the whole Babcock colonial line. Committed and pushed.
 
 This is a strong candidate for the single best outcome of the entire multi-day research push: not just new names, but the literal joining of two previously-separate research threads into one confirmed, deeply-documented, multi-generation military family line running from a 1612 immigrant through at least four documented or plausible military patriots down to Robert's own known 19th-century ancestors.
+
+## 🌙 AUTONOMOUS SESSION 50 (2026-09-11, continued) — Solomon Babcock's mother identified, a published local-history account of the family's migration to Cortland County NY found, plus a Baptist church baptism record
+
+Checked **Solomon Babcock (2 Sep 1776 – 13 Feb 1867)** -- the exact junction point confirmed in session 49 between the deep colonial Babcock line and Robert's already-known 19th-century ancestors -- and found 20 rich hints.
+
+- **Mother identified**: **Ruth (Maxson) Babcock** -- Peleg's second wife (session 49) -- confirmed via Find A Grave as Solomon's mother, consistent with Solomon's September 1776 birth coming soon after Peleg and Ruth's January 1776 marriage. Robert's tree currently shows "Unknown mother" for Solomon; this closes that gap.
+- **A genuine published local-history source**: several hints are photographed pages from ***Pioneer History; or Cortland County and the Border Wars of New York*** by Hermon Camp Goodwin, specifically describing **"Solomon Babcock move to Cortland County, NY"** and a companion piece on his brother **"Maxson Babcock move to Cortland Co. NY."** This is exactly the kind of narrative family-history material Robert asked for -- a real, citable, published local-history book with a specific account of this family's migration -- and is a strong candidate for tracking down the full book (via HathiTrust/Internet Archive, following the same pattern as the other public-domain volumes already in this archive's Source Texts folder) for a fuller narrative in a future session.
+- **A Baptist church record**: "A Catalogue of Baptisms administered by Elder Alfred Bennett, Pastor of the Baptist Church in Homer, N.Y." names Solomon (or a family member) -- consistent with the Babcock family's known Seventh Day Baptist / Baptist religious affiliation already reflected in this archive's Sabbath Recorder source volumes.
+- **Full residence chain confirmed by census** (1800-1867): Fabius/Manlius, Onondaga Co NY (1800) -> Scott, Cortland Co NY (1820-1850) -> Homer, Cortland Co NY (1855-1867) -- a specific, well-documented internal New York migration, consistent with the "Pioneer History" narrative above.
+- **A previously-unrecorded child found: Ralph Babcock** (per U.S. Family History Books), joining the already-known Curtis, Hulda, Austin P., and Luke P.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: mother Ruth Maxson Babcock, son Ralph Babcock, and the Pioneer History/Baptist-church source citations.
+
+Committed and pushed. A nice example of hint-checking the exact junction person between two merged research threads paying off with genuinely new, high-quality narrative material.
