@@ -1362,3 +1362,20 @@ Robert's own tree already had the bones of this correctly (father, wife, one son
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: mother Susanna Clark(e), the Lieutenant/SAR military service note, and children Ezra and Deborah.
 
 Committed and pushed. **This is likely the single most exciting find of the whole research push for Robert specifically** -- a documented, SAR-recognized Revolutionary War Patriot on his own Babcock name line, one generation past an already-known Colonel father, with a direct tie to the family's own published genealogy book.
+
+## 🌙 AUTONOMOUS SESSION 44 (2026-09-11, continued) — following the Babcock military line back further: Col. Oliver Sr.'s mother found, a second wife, and a French & Indian War lead; line already reaches the 1612 immigrant ancestor
+
+Following up on session 43's major Oliver Babcock Jr. find, checked his father's page next.
+
+**Col. Oliver Babcock Sr. (31 Aug 1683, Westerly RI – 11 Nov 1773, Hopkinton, Washington Co RI)** -- already in Robert's tree as Oliver Jr.'s father, but with "Unknown mother." 20 hints (Find A Grave, Family History Books, an actual **U.S. Sons of the American Revolution Membership Applications** record, New England Historical & Genealogical Register, colonial census records) fill in:
+- **Mother identified: Mary Lawton** (consistent across 2 independent sources -- one Find A Grave entry gives a conflicting "Mary Elizabeth Babcock," almost certainly a data error since "Mary Lawton" is the far more consistently repeated answer).
+- **First wife (already correctly linked as Oliver Jr.'s mother): Susanna Clark(e).**
+- **A second wife found: Deborah Knowles, married 2 Dec 1761, Hopkinton RI** -- Oliver Sr. would have been about 78, so this is very likely a late-life remarriage after Susanna's death; not yet in Robert's tree (which currently shows "No spouse" despite having a listed child, an existing gap in the tree worth Robert's attention).
+- **A "French and Indian War" lead**: two separate contributor-submitted hints are titled "French Indian War" and "French and Indian War 1," both attached to this profile -- suggesting Col. Oliver Sr. (not just his son) may have his own pre-Revolutionary colonial military record from that conflict (1754-1763), fitting his lifetime (he'd have been 71-80 during the war -- plausible for a militia command/colonel-rank role rather than front-line service). Not yet opened/confirmed in detail -- a lead for a future session.
+- The SAR application record attached to Oliver Sr.'s profile appears to be the same application found on Oliver Jr.'s page (session 43) simply carrying the parent-generation data -- i.e., **Oliver Jr. remains the actual Patriot** or qualifying ancestor; Oliver Sr. (who died in 1773, before the Revolutionary War began) is not himself the applicant's qualifying service member.
+
+**Checked one generation further back**: John Babcock Sr. (1644-1684) -- Oliver Sr.'s father -- turns out to already be fully and correctly documented in Robert's tree, including HIS parents: **James Babcock "the Blacksmith" (1612-1679) and Sarah (d. 1665)** -- the well-known, extensively documented immigrant founder of the Rhode Island Babcock line. So **this whole colonial Babcock line, from the 1612-born immigrant ancestor down through six further generations to Robert, is already solidly built and sourced** -- session 43-44's real contribution was filling in the two missing mothers (Susanna Clark(e) for Jr., Mary Lawton for Sr.), the second wife Deborah Knowles, and confirming/highlighting the Revolutionary War Patriot documentation on Oliver Jr.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Mary Lawton as Oliver Sr.'s mother, Deborah Knowles as his second wife.
+
+Committed and pushed. Between sessions 43-44, this Babcock research push has now confirmed a documented Revolutionary War Patriot (Oliver Jr., with actual SAR paperwork) sitting within an already very well-sourced colonial Rhode Island lineage running back to 1612 -- probably the strongest, deepest, best-documented single line found in this entire multi-day push.
