@@ -1778,3 +1778,26 @@ This **confirms the session 71 suspicion that "1693" was an OCR/reading misread*
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog update: correct Jerijah Strong's birth date to 12 Dec 1665 (not the earlier tentative 1693), add his death date 24 Apr 1754, and add Elder John Strong's own approximate birth year (~1611) and marriage year (~1636) to Abigail Ford.
 
 Committed and pushed. A clean, satisfying close to the session 71 thread -- good discipline paid off (flagging the uncertainty instead of guessing, then verifying it directly) rather than either adopting the wrong date or abandoning the lead.
+
+## 🌙 AUTONOMOUS SESSION 73 (2026-09-12, continued) — 5 new Rawson children found via Barbara Crone Rawson's Find A Grave page; one discrepancy flagged
+
+Followed up on the "Crone, Barbara" Member photo hint (a gravestone photo, Sunfield Cemetery, Eaton Co MI) sitting unread in recent All Hints sweeps. The photo itself was just a headstone image with no new inscription text visible at this resolution, but it linked to the source Find A Grave memorial (findagrave.com/memorial/71669656/barbara-rawson), which has a much fuller "Family Members" section than what's in Robert's tree.
+
+**Robert's tree currently shows only 3 children** for Silas Anson Rawson (1837–1908) + Barbara Crone (1843–1919): William Harrison Rawson (1868–), Frances Annetta (m. Witherell), and Mable (m. Reames).
+
+**Find A Grave lists SEVEN children**, of which **5 are new**:
+- Clara Irene Rawson Hunter (1863–1950) -- NEW
+- Frances Annetta "Nettie" Rawson Witherell (1864–1943) -- already known
+- **Herbert W. Rawson (1865–1949) -- NEW**
+- **Laura Loretta Rawson Figg (1870–1948) -- NEW**
+- **George Elder Rawson (1873–1945) -- NEW**
+- **Walter Crone Rawson (1877–1958) -- NEW**
+- Mabel A. Rawson Reames (1885–1976) -- already known
+
+**A genuine discrepancy, flagged rather than silently resolved**: Robert's tree lists a child "**William Harrison Rawson (1868–)**" that does **NOT appear anywhere** in Find A Grave's family list for this couple -- instead, Find A Grave shows a different son, Herbert W. Rawson, born the adjacent year (1865). These are not an obvious match (different given names, though close birth years), so this is NOT being treated as a same-person name correction. Possibilities: (a) William Harrison is a real child Find A Grave's contributor simply omitted, (b) William Harrison belongs to a different, misattributed family entirely, or (c) a data-entry error somewhere upstream conflated two different Rawson children. Not resolved this session -- flagging for a closer look at whatever original source justified "William Harrison Rawson" in the first place before assuming either version is correct.
+
+**Also confirmed independently** (not new, but corroborating what's already in the tree): Barbara Crone's parents John Crone (1818–1898) + Catharine Switzer Crone (1821–1907), and her 8 siblings (Elizabeth, Joseph W., Mary Jane, John Switzer, William H., Sarah Ann "Annie," Amy R., Laura Irene, plus an unnamed infant who died in 1869) -- consistent with session 12's earlier partial confirmation of the same parents.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: the 5 new Rawson children above (Clara Irene, Herbert W., Laura Loretta, George Elder, Walter Crone), all UNCONFIRMED pending a primary-source cross-check (Find A Grave alone, while generally reliable for family-group data, is still a single secondary source) -- and the William Harrison/Herbert W. discrepancy for Robert's own review.
+
+Committed and pushed.
