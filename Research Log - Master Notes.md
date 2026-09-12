@@ -1395,3 +1395,21 @@ No other genuinely new material turned up on this final page -- the remaining it
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Anson J. Babcock as a 7th child of Curtis & Loranda, and (a labeling decision for Robert) whether to record Loranda under her maiden name Randall with a second-marriage note about Goodman, or keep the current Goodman entry with a first-marriage note about Randall/Curtis.
 
 Committed and pushed. This closes out the current pass of the All Hints feed sweep technique that has driven sessions 27-45.
+
+## 🌙 AUTONOMOUS SESSION 46 (2026-09-11, continued) — found Ann Blackwell's actual obituary; new age/Utica-residence detail, but Irish county still not named
+
+Took a fresh run at the long-stalled Ann Blackwell Irish-origin question (untouched since session 27) by searching Newspapers.com directly for her death notice rather than waiting for an Ancestry hint.
+
+**Found and read her actual obituary**: *Daily Sentinel* (Rome, NY), Tuesday, **31 October 1905**, page 2 -- the day of her death:
+
+> "Anna Blackwell. Anna Blackwell aged 52, died in this city at 7 a.m. today from a complication of diseases. The remains were taken to Utica, where she formerly resided, for interment."
+
+Two new, genuine facts from this primary source:
+- **Age at death: 52** -- implying a birth year of about **1852-1853**, a third distinct birth-year candidate alongside the "1846" and "1848" figures already circulating across different trees (sessions 30, 35). Obituary ages are sometimes approximate, so this doesn't resolve the birth-year question outright, but it's now three independent (and mutually inconsistent) estimates on record -- flagged, not adopted as final.
+- **She formerly resided in Utica, NY (also Oneida Co, like Rome), and was buried there**, not in Rome. This is new geographic detail -- previous research focused on Rome NY records; a burial and prior residence in Utica opens a parallel line of record-searching (Utica city directories, Utica-area church/parish burial records, Utica cemetery records) not yet tried.
+
+**Unfortunately, the obituary itself is very short and generic** -- no birthplace, no county of origin, no next-of-kin, no maiden name confirmation, nothing pointing toward Ireland at all. It does not advance the core Irish-county question.
+
+**Checked Find A Grave for a Utica burial record**: no matching memorial found for "Ann/Anna Blackwell" who died 1905 in Utica or anywhere within +/-5 years under that name -- she currently has **no Find A Grave memorial at all**, so a headstone inscription (which sometimes names an Irish home county on period Catholic/immigrant headstones) can't be checked remotely. This would require either finding which Utica cemetery she's buried in through city burial permits/records, or a future in-person or local-genealogical-society lookup.
+
+Committed and pushed. **Next concrete step for this thread**: search Utica (not just Rome) city directories and Catholic parish burial registers around 1905 for "Anna/Ann Blackwell," and/or search Utica-based newspapers (not just the Rome Daily Sentinel) for a fuller obituary that a bigger city paper might have run with more biographical detail.
