@@ -1499,3 +1499,16 @@ Checked **Anson George Rawson (4 May 1797, Scipio, Cayuga Co NY – 1 Sep 1860, 
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Anson George's War of 1812 service, the Rev. Daniel Rawson title, and the 4 new Rawson siblings.
 
 Committed and pushed. This is the second time in this research push that two independently-developed threads have turned out to be the same family (after session 49's Babcock/Solomon connection) -- a good reminder that this whole tree is more tightly interconnected than it first appears, and worth periodically checking whether a "new" ancestor on one branch is secretly already documented on another.
+
+## 🌙 AUTONOMOUS SESSION 53 (2026-09-11, continued) — Rev. Daniel Rawson confirmed with parents Silas Rawson + Abigail Chapin; 2 more children found
+
+Checked **Rev. Daniel Rawson (13 Feb 1770, Conway/Colrain, Franklin Co, Massachusetts – 17 Sep 1824, Washington Co, Indiana)**, Anson George Rawson's father (session 52), and found 22 hints that independently confirm and extend what Robert's tree already had flagged as "Potential" (DNA-suggested) parents.
+
+- **Parents confirmed by multiple independent primary-adjacent sources** (Massachusetts vital/town records, Family History Books, North America Family Histories, all agreeing): **Silas Rawson and Abigail Chapin** -- upgrading them from "Potential" to well-corroborated. This also explains why "The Chapin Book of Genealogical Data" by Gilbert Warren Chapin surfaced as a hint source on both Daniel's and Anson's profiles -- it's Abigail Chapin's own family history book.
+- **Confirmed "Reverend" title** -- multiple sources independently call him "Rev." or "Reverend" Daniel Rawson, though his denomination/congregation isn't yet identified.
+- **2 more children found beyond the already-known Anson George**: **Chloe Ann Rawson** and **Horace Strong Rawson** (the middle name "Strong" nodding to his mother Polly Strong's family, consistent with the session 52 discovery that Polly was Seth Strong's great-granddaughter).
+- Confirms his marriage to Polly Strong on **1 Sep 1796**, and burial in Monroe Township, Washington Co, Indiana.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Silas Rawson + Abigail Chapin as confirmed (not just potential) parents, the "Reverend" title, and children Chloe Ann and Horace Strong Rawson.
+
+Committed and pushed. This extends the confirmed Rawson/Strong chain one more generation: Silas Rawson + Abigail Chapin -> Rev. Daniel Rawson (1770-1824) + Polly Strong (Seth Strong's great-granddaughter) -> Anson George Rawson (1797-1860, War of 1812 veteran) -> Robert Ira Rawson (1829-1901) -> the already fully-documented later Rawson generations.
