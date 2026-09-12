@@ -1592,3 +1592,15 @@ Continuing the blank-spouse-field technique (sessions 57-58) through Fredrick Wa
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Stella's marriage and all four children.
 
 Committed and pushed. Three Chapman children now resolved this way (Ethel Mae, John A., Stella) with a fourth (Edmund) confirmed to have nothing available -- continuing to Fred "Fritz" Jr. Chapman and the two newly-noticed names (Emma E. Harris, Willie Chapman) next.
+
+## 🌙 AUTONOMOUS SESSION 60 (2026-09-12, continued) — Fred "Fritz" Jr. Chapman's family found (2 sons); the one sibling who stayed in Kansas
+
+Continuing the same technique: **Fred "Fritz" Jr. Chapman (Frederick Wallace Chapman Jr., 8 Sep 1884, Glasco, Cloud Co, Kansas – 13 Feb 1963, Beloit/Simpson, Mitchell Co, Kansas)** -- previously blank. 22 hints (full 1900-1950 census run, Find A Grave, obituary index, Family History Books) reveal:
+
+- **Married Serena "Rena" Carlena Chapman.**
+- **Two sons: Dale H. Chapman and Glen(n) R. Chapman.**
+- Unlike most of his siblings (who migrated to California -- Roy, Arthur, Daniel, Stella, John A.), **Fred Jr. stayed in Kansas his whole life**, living in Solomon/Simpson, Cloud/Mitchell Co, Kansas from birth to death -- a useful contrast for the family's migration story.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Fred Jr.'s marriage and both sons.
+
+Committed and pushed. **This completes the "blank spouse field" pass through Fredrick Wallace Chapman & Mary Louise Kimble's known children**: Ethel Mae (session 57), John A. (session 58), Stella (session 59), and Fred Jr. (this session) all resolved; Edmund confirmed to have no hints available (session 59); Roy, Arthur, and Daniel were already resolved in session 41. Still open: the newly-noticed "William H. Chapman" (session 59) and the "Emma E. Harris" / "Willie Chapman" names seen in the full sibling list but not yet individually checked -- good candidates for a future session.
