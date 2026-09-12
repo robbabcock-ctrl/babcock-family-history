@@ -1978,3 +1978,13 @@ Follow-up to session 81's inconclusive search. This time, instead of searching "
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Nathaniel Rawson (d. Aug 1803) + Mary Twing as Silas Rawson's parents; Silas's exact birthdate (17 Nov 1739); half-siblings Rachael, Elias (d. young), Nathaniel Jr., Simeon, and Mary from Nathaniel's second marriage to Rachael Daniels.
 
 Committed and pushed. A clean, satisfying resolution to the thread left open in session 81 -- validates the lesson that searching for a distinctive PLACE NAME (Conway) rather than the recurring personal name (Nathaniel) was the key to finding the right entry.
+
+## 🌙 AUTONOMOUS SESSION 84 (2026-09-12, continued) — searched a Pence family genealogy for Elizabeth Pence (John Crone Sr.'s wife); negative result
+
+Attempted to extend the Crone line (session 78: John Crone Sr. + Elizabeth Pence, Pennsylvania natives, married at "Little York, Penn.," moved to Richland Co, Ohio in 1832) using the "distinctive place name" HathiTrust technique validated in session 83. Searched for "Pence" + "Little York" and found a promising-looking dedicated genealogy: **"The History of Judge John Pence and Descendants, born in Shenandoah County, Virginia, January 15, 1775"** (Kingsley Adolphus Pence, 1912, HathiTrust uiug.30112070501447).
+
+Searched within this book for "Crone" -- **zero results**. Also searched "Elizabeth Pence" directly -- 33 results, but all describe a completely different, Shenandoah County, Virginia-based Pence family (John Pence's own descendants, several generations, including multiple unrelated women also named "Elizabeth Pence" -- the name recurs in this family too). None connect to a Crone marriage or to Pennsylvania.
+
+**Conclusion**: this specific book documents a different, geographically distinct Pence family (Virginia origin) from our Elizabeth Pence (Pennsylvania origin, "Little York, Penn." per session 78's source) -- "Pence" (a German-American surname, various spellings Pentz/Pence/Pentz) was evidently common enough that multiple unrelated families share it, similar to the "common surname" trap already seen with Randall and Keown. Not adopting anything from this book. This does not disprove John Crone Sr. + Elizabeth Pence's own parentage -- it simply means this particular published genealogy isn't the right source; a different, Pennsylvania-focused Pence family history (if one exists) would be needed to push that line further.
+
+No changes to the tree this session. Committed and pushed for continuity -- logging the negative result so a future session doesn't re-try this specific book.
