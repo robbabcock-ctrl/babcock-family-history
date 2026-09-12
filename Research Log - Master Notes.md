@@ -1562,3 +1562,16 @@ Checked **Ethel Mae Chapman (1 Aug 1897, Glasco, Cloud Co, Kansas – 12 Sep 198
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: all three marriages and both daughters.
 
 Committed and pushed. A good example of checking an already-known person with a completely blank spouse/children field -- sometimes the most productive next check isn't a "new" ancestor at all, just an existing one nobody had gotten around to yet.
+
+## 🌙 AUTONOMOUS SESSION 58 (2026-09-12, continued) — John Arthur Chapman's full family found: 2 wives, 2 children, WWI & WWII draft cards
+
+Checked **John Arthur Chapman (20 Dec 1887, Glasco, Cloud Co, Kansas – 11 Jun 1957, Salinas, Monterey Co, California)**, another of Fredrick Wallace Chapman & Mary Louise Kimble's children, also recorded with **no spouse or children** in Robert's tree. 20 hints (census 1900-1950, WWI and WWII draft registration cards, death index, marriage index) reveal:
+
+- **First wife: Cody E. Smith** (daughter of Loren Smith), married by about 1909. **Two children: Gladys M. Chapman** (b. ~1909, appears in the 1910 and 1920 census) and **Arnold Chapman** (appears in the 1930 census).
+- **Second wife: Vernie Allena Alcorn**, married about 1943 -- consistent with Cody having died or the marriage ending sometime before then.
+- **Military registrations**: WWI draft card (1917-18, Merced Co, CA) and WWII draft card (1942, Salinas, CA) -- confirms he registered for both wars, though no service record found (draft registration alone doesn't confirm actual service).
+- Lived in the Salinas/Monterey Co area of California for most of his adult life, consistent with the broader Chapman family's California migration.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: both marriages (Cody E. Smith, Vernie Allena Alcorn) and both children (Gladys M., Arnold).
+
+Committed and pushed. Two sessions in a row (57, 58) now confirm that checking already-known Chapman siblings with blank spouse/children fields is currently the most reliably productive technique available -- worth continuing through the remaining Chapman children (Stella, Edmund, Fred Jr. per the family-album notes) in upcoming iterations.
