@@ -1575,3 +1575,20 @@ Checked **John Arthur Chapman (20 Dec 1887, Glasco, Cloud Co, Kansas – 11 Jun 
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: both marriages (Cody E. Smith, Vernie Allena Alcorn) and both children (Gladys M., Arnold).
 
 Committed and pushed. Two sessions in a row (57, 58) now confirm that checking already-known Chapman siblings with blank spouse/children fields is currently the most reliably productive technique available -- worth continuing through the remaining Chapman children (Stella, Edmund, Fred Jr. per the family-album notes) in upcoming iterations.
+
+## 🌙 AUTONOMOUS SESSION 59 (2026-09-12, continued) — Stella Chapman's full family found (4 children); a new sibling "William H. Chapman" surfaces; Edmund Chapman has no hints at all
+
+Continuing the blank-spouse-field technique (sessions 57-58) through Fredrick Wallace Chapman & Mary Louise Kimble's remaining children.
+
+**Stella "Estelle" Christine Chapman (25 Dec 1877, Glasco, Cloud Co, Kansas – 15/22 May 1968, Fresno, California)** -- previously blank in Robert's tree. 18 hints (census 1880-1930, Find A Grave, Social Security application, Family History Books) reveal:
+- **Married Joseph Homer Thompson.**
+- **Four children found**: William Miller Thompson, Mary A. Thompson, Ruth E. Thompson, and Elma Florence Thompson (later Damico).
+- Lived in Kansas, then Dinuba (Tulare Co) and Bakersfield, California, before settling in Fresno -- consistent with the wider Chapman family's California migration already well documented.
+
+**A previously-unknown sibling surfaced in passing**: the 1880 census hint on Stella's own page lists a sibling **"William H. Chapman"** not previously named anywhere in this research (not among the already-known Roy, Arthur, Daniel, John A., Ethel Mae, or Stella). Worth a dedicated check in a future session once/if he exists as his own person record, or worth Robert adding him to the family-album list.
+
+**Edmund Chapman checked**: zero hints available at all ("There aren't any hints available for Edmund Chapman yet") -- a clean negative result, not for lack of trying. His thin profile (no dates at all currently) likely needs a birth year estimate added before Ancestry's hint algorithm can find anything for him.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Stella's marriage and all four children.
+
+Committed and pushed. Three Chapman children now resolved this way (Ethel Mae, John A., Stella) with a fourth (Edmund) confirmed to have nothing available -- continuing to Fred "Fritz" Jr. Chapman and the two newly-noticed names (Emma E. Harris, Willie Chapman) next.
