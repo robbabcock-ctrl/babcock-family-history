@@ -1898,3 +1898,28 @@ Found the entry directly, page 60:
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: **Edward Rawson (Secretary of Massachusetts Bay Colony, 1650-1686) as Robert's documented immigrant ancestor** via the generation chain above, and **Rebecca Fellows as Silas Rawson's second wife** (no children recorded from this marriage in the source).
 
 Committed and pushed. Another strong hit for the "distinctive two-name pairing" HathiTrust technique -- two major finds (Elder John Strong, session 71; now Edward Rawson) in the same research push, both traced through exactly this method.
+
+## 🌙 AUTONOMOUS SESSION 80 (2026-09-12, continued) — Silas Rawson's full 22-child family mapped; Rev. Daniel Rawson's exact birthdate confirmed
+
+Follow-up to session 79's Edward Rawson discovery. Read the continuation of Silas Rawson's entry (pages 60-61 of "The Rawson Family," E.B. Crane, 1875) to get the complete children list, split across his two marriages:
+
+**By 1st wife, Abigail Chapin (8 children, entries 723-730)**:
+1. Mary, b. 10 Nov 1762
+2. Esther, b. March 1764
+3. Silas Jr., b. 12 Oct 1765, m. 1st Berthana Green, 2d Cyrene Thurston
+4. Elias, died in infancy
+5. Elias, b. 4 Apr 1768
+6. **Daniel, b. 13 Feb 1770** -- this is Robert's own ancestor, **Rev. Daniel Rawson (previously known only as "1770-1824")** -- now precisely dated to 13 February 1770
+7. Abigail, b. 4 March 1772
+8. Jesse, b. 9 July 1774 -- **died a prisoner at Halifax during the Revolutionary War**
+
+**By 2nd wife, Rebecca Fellows (14 children, entries 731-744)**:
+Luther (b. Aug 1751 -- date as printed, likely a typo in the original for ~1781 given his siblings' dates; served as a **soldier in the War of 1812**, "had two children; left all and went to the Isle of Cuba, and not heard of since" -- a dramatic, unresolved family mystery even in this 1875 source), Calvin, Moses, Elihu, Anna, Theodore, Rebecca (died in infancy), Olive, Adaline, Jonas, Zenas Adams, Lois (died young), Abial, and Laura (b. 24 Feb 1801).
+
+**Headline confirmation**: Rev. Daniel Rawson's birthdate is now precisely dated to **13 February 1770**, independently sourced to this dedicated 1875 Rawson family genealogy -- consistent with the already-known "1770-1824" and giving an exact day for the first time.
+
+**Two genuinely striking historical details** surfaced in this same family, worth keeping for any future narrative write-up: a son (Jesse) who died as a Revolutionary War prisoner at Halifax, and a son (Luther) who served in the War of 1812 before vanishing to Cuba mid-19th century, "not heard of since" even by the 1875 compiler -- both siblings of Robert's direct ancestor Daniel.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Rev. Daniel Rawson's precise birthdate (13 Feb 1770); the full sibling set above for a future pass if Robert wants the extended family documented (not direct-line additions, but siblings of a direct ancestor).
+
+Committed and pushed.
