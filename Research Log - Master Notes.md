@@ -1631,3 +1631,9 @@ Checked **James Chapman (14 Feb 1830, Norfolk, England – 23 Oct 1908, Glasco, 
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: nothing new to add here since John Chapman + Elizabeth Baker were already correctly in Robert's tree; this session's value was independent confirmation plus locating the obituary for future reading.
 
 Committed and pushed. A good candidate for a follow-up session: actually read the full James Chapman obituary image, which may contain the kind of rich immigration narrative that Robert's original directive specifically asked for.
+
+## 🌙 AUTONOMOUS SESSION 63 (2026-09-12, continued) — James Chapman's obituary located but not fully read (viewer UI friction)
+
+Attempted to read the full text of "Obituary for James Chapman (Aged 78)" (flagged in session 62) via Ancestry's media viewer. The obituary image was located and partially visible (a single newspaper column headed "Obituary of James Chapman"), but repeated attempts to zoom in for a clean read kept navigating away from the image (to the tree gallery, then accidentally to the Ancestry homepage) rather than magnifying it -- a UI/automation friction issue, not a data problem. No transcription was captured cleanly enough to trust, so nothing new is being added to the record from the obituary text itself this session.
+
+No new facts this session. Committed and pushed (no content changes, logging for continuity). **Flagging for a future session or for Robert's own manual review**: the obituary is saved at Ancestry media item accessible via James Chapman's profile (tree 101867177, person 252811776897) -- worth a direct look next time using a fresh browser session/full-screen zoom, since it likely contains genuine biographical/immigration narrative detail (English hometown specifics, arrival story, family names) that the structured hint fields don't capture.
