@@ -1823,3 +1823,17 @@ Attempted to resolve the long-open question of whether John Henry Keown's death 
 **Conclusion**: the name is too common and the available identifying detail (age, approximate death year, one Georgia county) too thin to confidently isolate a specific service record from general search alone. This would need either a middle name/exact death date, a specific regiment, or a Fold3-specific search (not attempted this session -- Fold3 access wasn't confirmed available) to make further progress. Not resolved -- logging the specific search strategies tried so a future session doesn't repeat them identically; a more promising angle would be checking whether Ohio County, Kentucky's own Confederate or Union muster rolls (Kentucky raised regiments on both sides) list a Keown, rather than searching Georgia records directly.
 
 No changes to the tree this session. Committed and pushed for continuity.
+
+## 🌙 AUTONOMOUS SESSION 76 (2026-09-12, continued) — David Ringle cemetery-plot mystery fully resolved: 2 new children found, "Sarah Boyle" confirmed
+
+Revisited the session 26 flag: "John" and "Elizabeth Ringle" from David Ringle Sr.'s Find A Grave page were seen only as unexplained names in a "surrounding plots" note, and "Sarah Boyle" was suspected but unconfirmed as daughter Sarah Ringle's married name. Checked David Ringle Sr.'s Find A Grave memorial directly (findagrave.com/memorial/16918016) -- the page has clearly been updated/expanded since session 26 with a full, proper "Family Members" section (rather than just the old "surrounding plots" note), which resolves everything:
+
+- **"Sarah Boyle" CONFIRMED**: listed plainly as "**Sarah Ringle Boyle, 1830–1853**" -- exactly the already-known daughter Sarah Ringle, her married surname now confirmed as Boyle.
+- **"John Ringle" and "Elizabeth Ringle" are BOTH previously-unrecorded children of David Ringle**, not unrelated neighboring plots as session 26 speculated: **John Ringle (1826–1832, d. age 6)** and **Elizabeth Ringle (1838–1842, d. age 4)** -- both child deaths, both now listed directly under "Children" alongside the 9 already-known ones (John, Sarah, Matthias, Lucinda, David Jr, Elizabeth, William, Simon, Finley, Samantha, Sophia -- 11 total children now identified for David Ringle across both marriages).
+- **Bonus context**: the page also now names David's own mother as "**Charlotte Yockey Lewis (1773–1853)**" (not just "Charlotta Yockey") and lists a half-sibling, **Samuel Lewis (1816–1902)** -- implying Charlotte remarried a Mr. Lewis after David's father Mathias Ringle Jr. died in 1810. Also confirms David's full siblings: John Ringle (1798–1864), George Ringle (1803–1879), and Elizabeth "Betsy" Ringle Snively (1805–1854).
+
+This closes out the last open thread on the David Ringle branch first flagged in sessions 25-26 -- exactly the kind of case where checking a previously-visited source again later paid off, since the source itself had been improved by another Find A Grave contributor in the meantime.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: two new children for David Ringle Sr. (John Ringle, 1826–1832; Elizabeth Ringle, 1838–1842), Sarah Ringle's married surname Boyle, and the half-sibling Samuel Lewis (optional context, not a Ringle-line addition).
+
+Committed and pushed.
