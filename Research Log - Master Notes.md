@@ -1379,3 +1379,19 @@ Following up on session 43's major Oliver Babcock Jr. find, checked his father's
 Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Mary Lawton as Oliver Sr.'s mother, Deborah Knowles as his second wife.
 
 Committed and pushed. Between sessions 43-44, this Babcock research push has now confirmed a documented Revolutionary War Patriot (Oliver Jr., with actual SAR paperwork) sitting within an already very well-sourced colonial Rhode Island lineage running back to 1612 -- probably the strongest, deepest, best-documented single line found in this entire multi-day push.
+
+## 🌙 AUTONOMOUS SESSION 45 (2026-09-11, continued) — MYSTERY SOLVED: "Loranda Goodman" vs "Loranda Randall" was never an error -- she remarried a David Goodman in 1873; one more Curtis Babcock child found; All Hints feed now fully sampled end-to-end
+
+Reached the final page (128 of 128) of the All Hints feed, completing a full sample of the entire feed across this multi-session push (pages 1, 5, 8, 12, 18, 25, 32, 40, 60, 100, 115, 120, 128 all checked).
+
+**The "Loranda Goodman" vs "Loranda Randall" discrepancy (flagged sessions 32 and 38) is now fully resolved, and it was never an error at all**: a Wisconsin marriage record shows **Loranda (Randall) Babcock married a second husband, David Goodman, on 4 Mar 1873, Monroe, Green Co, Wisconsin** -- about 3 years after first husband Curtis Babcock's 1870 death (session 38). So "Randall" is correctly her maiden name and "Goodman" is correctly her second married surname; Robert's tree simply has her recorded under her second husband's surname rather than her maiden name, which is a labeling/consistency choice for Robert to make, not a factual error to fix. This is a satisfying capstone to a thread that ran across three sessions.
+
+**One more child of Curtis & Loranda found**: an 1870 census (Oneco, Stephenson Co IL -- the same year as Curtis's death) lists a son **Anson J. Babcock**, joining the now seven identified children of this couple: Henry, George D., Charles Augustus, Eber W., Susan L., Emma A., and Anson J.
+
+No other genuinely new material turned up on this final page -- the remaining items (more Oliver Babcock and Mary Colman hints) all reconfirmed sessions 43-44's and earlier work.
+
+**All Hints feed assessment**: after sampling roughly a dozen pages spanning the full 1-128 range, the feed appears thoroughly mined for this pass -- most remaining unreviewed hints are repeat confirmations of already-resolved people (Kimble, Babcock/Oliver, Loranda) rather than fresh leads. Future sessions should either wait for new hints to accumulate naturally, or shift primary technique to checking individual family members' hint pages directly (especially newly-discovered names from this session, once they exist as person records) rather than continuing to re-page the same global feed.
+
+Not yet added to Ancestry (write outage ongoing) -- ready-to-enter backlog: Anson J. Babcock as a 7th child of Curtis & Loranda, and (a labeling decision for Robert) whether to record Loranda under her maiden name Randall with a second-marriage note about Goodman, or keep the current Goodman entry with a first-marriage note about Randall/Curtis.
+
+Committed and pushed. This closes out the current pass of the All Hints feed sweep technique that has driven sessions 27-45.
