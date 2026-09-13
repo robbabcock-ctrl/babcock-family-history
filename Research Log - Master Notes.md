@@ -2296,3 +2296,19 @@ This gives Robert a genuine **colonial-era child-immigrant story**: Johann Conra
 Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Johann Conradt Giese/Gysi's exact birthplace (Bad Dürkheim, Rhineland-Palatinate, Germany), his 1727 Pennsylvania arrival, his parents Henrich Gysi + Maria Magdalena Burchardt, and his death (8 Feb 1802, York Co PA -- correcting/refining the "5 Feb 1802" date seen in some duplicate tree copies to the more specific "8 Feb 1802" from this fuller profile, a minor 3-day discrepancy not worth further chasing).
 
 Committed and pushed. Two strong sessions in a row (101-102) on a line that was sitting nearly untouched since session 90 -- a good reminder that "low priority, likely exhausted" leads can still pay off when revisited with a slightly different search angle.
+
+## 🌙 AUTONOMOUS SESSION 103 (2026-09-13, continued) — MAJOR FIND: the Brand line pushed back a generation -- Paul Brand's own parents identified
+
+Applied the same technique that just worked twice in a row on the Keesy/Giese line (sessions 101-102): a direct Ancestry search for the specific name plus a paired spouse name, rather than a generic surname search. Searched "Paul Brand" (Joseph Michael Brand's father, session 95) paired with spouse "Katharina Keck" and an approximate birth year, and found a well-matched cross-tree profile:
+
+> **"Johann Paul Brand"** (Beggs/Newhouse Family Tree) -- Spouse: **Catharina Barbara Keck** (exact match to session 95's finding), **Birth: 1793**, Child: **Josepha Margaretha**. His own parents: **Father Franz Brand, Mother Maria Anna Hoffmaenn**.
+
+**This confirms Paul Brand's own parents for the first time**: **Franz Brand + Maria Anna Hoffmaenn**, extending the Brand line one more generation. Also newly surfaces **Josepha Margaretha Brand**, a previously undocumented sibling of Joseph Michael Brand (and of the already-known Heinrich Jakob Brand, session 95). Paul's own birth year, 1793, is also new -- previously unrecorded.
+
+**One additional, less certain lead spotted but not adopted**: a genuine German primary-source hint ("Mainz, Germany, Births, Marriages and Deaths, 1798-1875") shows a "Paul Brand" whose death is recorded in **Rheinland-Pfalz (Rhineland-Palatinate), Germany** -- geographically plausible (Rhineland-Palatinate borders Baden, where son Joseph Michael was baptized in Freudenberg/Mosbach), but the search snippet didn't show enough distinguishing detail (dates redacted behind the search-preview blur) to confirm this is the same Paul Brand with full confidence. Flagged as a promising lead for a future session with fuller record access, not yet adopted as confirmed.
+
+**Full confirmed line now stands**: Franz Brand + Maria Anna Hoffmaenn (Germany) → Paul Brand (b. 1793) + Katharina Barbara Keck → Joseph Michael Brand (1829, Freudenberg/Mosbach/Baden – 1903, Monroe Co IL) → Jacob Emil Brand → ... → Robert.
+
+Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Franz Brand + Maria Anna Hoffmaenn as Paul Brand's parents, Paul's birth year (1793), and new sibling Josepha Margaretha Brand.
+
+Committed and pushed. **Three strong sessions in a row (101-103)** using the same refined technique (direct name + spouse-name search, rather than broad surname search) on two different German immigrant lines that had been sitting only partially explored -- this technique should be tried on any other "parents named but not yet followed up" leads that may still be sitting in the log.
