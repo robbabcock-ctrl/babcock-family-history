@@ -2595,3 +2595,18 @@ Followed up on the "Estella B. Cowan" lead (flagged session 113, downgraded to u
 **Correcting the record**: "Estella B. Cowan" is **not** a previously-undocumented 8th child of Thomas H. Keown — she is the same person as the already-fully-documented **Bertha Stella (Keown) Perry** (m. Allen W. Perry). No new person to add. This closes out the last remaining loose thread from the Keown-family research arc (sessions 113-115, 123-124) with a clean, confident answer rather than a lingering "UNCONFIRMED" flag.
 
 Committed and pushed. A satisfying final chapter to this thread: what began in session 113 as an apparently-new discovery, was corrected in session 115 to a probably-separate-but-unconfirmed person, and is now resolved in session 124 as a straightforward 19th-century transcription error pointing right back to a person already well documented in the tree.
+
+## 🌙 AUTONOMOUS SESSION 125 (2026-09-13, continued) — Mary Viola Keown's married name confirmed: "Kenyon," closing the last thread of the whole Keown arc (open since session 2)
+
+Applied the same targeted birth-year+place search refinement that worked in sessions 123-124 to the one remaining loose end from the original session-2 flag: **Mary Viola Keown's** married name, tentatively "Kenyon of Stockton" but never once corroborated by any source across three prior sessions (113-115) that all showed her with "No spouse."
+
+Searching "Mary Kenyon" with birth year 1881 and an added death year 1939 (her already-confirmed death year) turned up an exact match, corroborated by two independent sources:
+
+- **California, U.S., Death Index, 1905–1939**: "**Mary V Kenyon**," birth abt 1881, death **9 Sep 1939, Santa Cruz** — the death date matches Mary Viola Keown's already-confirmed death date (9 Sep 1939) exactly.
+- **U.S., Newspapers.com™ Obituary Index**: "**Mary Z. Kenyon**," birth abt 1881, death abt 1939, Santa Cruz, Santa Cruz, California — **Residence: Nebraska, USA**, consistent with the Keown family's documented years in Sheridan County, Nebraska.
+
+Both sources independently agree on birth year (~1881), death year (1939), and place (Santa Cruz, CA) — and Santa Cruz is exactly where her sister **Edna Matilda (Keown) Schultz** is separately documented as having lived and died (per session 114). The original session-2 flag's "Stockton" detail appears to have been simply mistaken (or referred to an unrelated same-named Stockton "Mary Kenyon," of which there are many, per session 113's 123,440-result dead end) — Santa Cruz, not Stockton, is where she actually spent her final years, alongside her sister.
+
+**CONFIRMED**: **Mary Viola (Keown) Kenyon**, b. abt 1881, Kansas — d. 9 Sep 1939, Santa Cruz, California, married name **Kenyon**. This closes the very last open thread from the original session-2 flag (Thomas H. Keown's daughters "not yet searched individually"), a full research arc that has now run from session 2 through sessions 113-115 and 123-125 — 123 sessions from first mention to final resolution.
+
+Not yet added to Ancestry (write outage ongoing) — ready-to-enter backlog: Mary Viola Keown's married name (Kenyon) and death details (9 Sep 1939, Santa Cruz, CA). Committed and pushed. With this, the entire multi-generation Keown research arc opened in session 2 is now fully and completely closed — every daughter of Thomas H. Keown has a confirmed identity, married name (where applicable), and set of life dates.
