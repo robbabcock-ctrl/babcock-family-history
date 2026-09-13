@@ -2409,3 +2409,16 @@ Continued the log audit into the sessions 41-78 range. Checked two candidate "st
 **Audit conclusion for sessions 41-78**: no additional genuinely-actionable "quietly resolved" or "newly worth re-attempting" flags surfaced in this pass beyond what's already been checked. This range appears to have been kept reasonably clean already (most flags either got same-or-next-session follow-up, consistent with this push's general diligence). The log audit technique (sessions 109-111) has now covered sessions 1-78 in total; the audit itself is reaching diminishing returns as a source of new material, though it remains a safe default for quiet iterations.
 
 No tree changes this session. Committed and pushed (log audit only).
+
+## 🌙 AUTONOMOUS SESSION 112 (2026-09-13, continued) — Peter J. Kimble/Louisa Oler origins: fourth negative result; All Hints counts unchanged
+
+Per the standing "try one genuinely new technique if it occurs" guidance for the deprioritized Peter J. Kimble thread, tried two fresh HathiTrust full-text book searches this session (distinct from the three previously-tried techniques):
+
+- `"Peter Kimble" "Louisa"` (full-text, all collections) — 84 results, none relevant on inspection; the OCR corpus is large enough that this common first-name/surname/first-name combination surfaces only unrelated works (DAR lineage books, an unrelated Gehlmann family history, naval records volumes) with no genealogical connection to our family.
+- `"Louisa Oler"` (Louisa's probable maiden name, per the "Kimble, Louisa"/Louisa Oler Kimble hint already logged session 65) — exactly 1 result: *Garner-Keene families of Northern Neck, Virginia* (Ritchie & Wood, 1952). Checked for relevance: this is almost certainly a coincidental match of the two words appearing separately in a large volume, not a record of our Louisa — our Louisa Oler Kimble was born abt 1797 in **Massachusetts**, not Virginia's Northern Neck, and the book's subject families (Garner/Keene) have no evident connection to the Kimble line. Not pursued further.
+
+**Conclusion**: this is a fourth negative result for Peter J. Kimble's/Louisa Oler's own origins, using two more search variations beyond the three already tried. The name is common enough, and the couple's known window narrow enough (married by ~1830, likely NY or MA), that general full-text book search continues to not converge. Leaving this deprioritized as before — genuinely still open, but not worth further effort without a fundamentally different source type (e.g. a Massachusetts town vital-records volume specifically, if one is ever identified for the right town) rather than another keyword variation.
+
+**All Hints feed re-check**: counts remain unchanged at 2553 Records / 1857 Photos / 437 Stories / 61 Member trees / 198 New collections — no new collections added since the last several checks. The "Louisa Oler Kimble" and other hints currently at the top of the feed are all already-logged items from session 65 (Louisa A. Kimble, Maria P. Kimble as additional children) — nothing new to act on.
+
+Committed and pushed. The research push remains at its declared plateau (post-session 111); this was one more honest, low-yield-but-legitimate attempt at the one still-technically-open lead, per the standing instruction not to manufacture findings or repeat exhausted techniques.
