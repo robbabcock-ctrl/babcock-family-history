@@ -2374,3 +2374,17 @@ Self-correction, caught while checking session 107's own suggested "next priorit
 **This entire James Chapman thread (obituary + all children) is now fully retired from the active priority list** -- do not revisit unless a genuinely new record type or search technique becomes available.
 
 No new tree research this session -- a log-accuracy correction only. Committed and pushed.
+
+## 🔍 AUTONOMOUS SESSION 109 (2026-09-13, continued) — log audit: checked several early "still open" flags for quiet later resolutions
+
+Following up on session 108's lesson, spent this iteration auditing early-session flags (sessions 4-14) rather than doing new external research, specifically checking whether any had been quietly resolved by a later session without an explicit cross-reference (the same failure pattern caught in sessions 99 and 108).
+
+**Confirmed already resolved (no action needed, safe to keep off future priority lists)**:
+- **Claude Perry / Ed Perry / Lester Perry newspaper searches** (flagged open sessions 4-11): all individually attempted in sessions 12-13 with negative results (zero matches, or a clear name/timeline mismatch correctly ruled out) -- session 13 explicitly closed this out as "unresolvable." Already properly retired.
+- **"Phoebe L. Ruggles" vs "Phebe Ann Rawson" naming question** (flagged session 11): resolved the very next session (14) -- they're the same person, apparently a twin who also went by "Phoebe L."; only the twin sibling's own identity remains genuinely unnamed (a separate, minor, still-open detail).
+- **Charles Perry (Woodland, CA) identification** (flagged sessions 11-12): explicitly closed out in session 13's own title, "Charles Perry lead closed out as unresolvable."
+
+**Confirmed genuinely still open (correctly so, not a research gap)**:
+- **Wallace Weaver's wife's name** ("Jerry/Jerrie" per two family accounts vs. "LoJuanda" per one funeral register) -- this was correctly flagged as a question **for Robert or family members to answer directly**, not something more Ancestry/newspaper searching can resolve (it's a direct conflict between living-family recollection and a single document). Appropriately left open pending human input; not a candidate for further autonomous research.
+
+**Session assessment**: this kind of periodic log audit is a useful, low-risk way to spend an iteration when new external research leads are thin -- it directly prevents the kind of wasted duplicate effort session 108 had to correct. No tree changes or new external findings this session; three old flags confirmed properly closed, one confirmed properly still-open-for-Robert. Committed and pushed (log audit only).
