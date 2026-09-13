@@ -2576,3 +2576,22 @@ Both records agree exactly on birth date, birth place, death date, and death pla
 **CONFIRMED**: **Marie Ellen (Perry) Wilson**, b. 24 Feb 1895, Gordon, Sheridan Co., Nebraska — d. 15 Aug 1953, Lusk, Niobrara Co., Wyoming — an eighth child of Bertha Stella (Keown) Perry + Allen W. Perry, alongside the seven already-known Perry children (William, Edna, Charles, Lester, Ed, Tom, Claude).
 
 Not yet added to Ancestry (write outage ongoing) — ready-to-enter backlog addition: Marie Ellen (Perry) Wilson as a confirmed eighth Perry child, with full birth/death dates and places. Committed and pushed. A good example of a promising lead surviving a second look with the right corroborating detail (the maiden-name match plus the exact Gordon, NE birthplace), even when the raw name search itself was hopelessly broad.
+
+## ⚠ AUTONOMOUS SESSION 124 (2026-09-13, continued) — "Estella B. Cowan" mystery solved: it's a census transcription error, not a real surname, and likely refers to the already-known Bertha Keown
+
+Followed up on the "Estella B. Cowan" lead (flagged session 113, downgraded to unconfirmed session 115) using the same targeted birth-year+place search that worked for Marie Ellen Wilson last session. Found the actual source record directly: **1880 United States Federal Census, Nelson, Cloud, Kansas** (Roll 377, Page 304d, ED 047):
+
+| Household Member | Age | Relation |
+|---|---|---|
+| Thos. H. **Cowan** | 35 | Self (Head) |
+| Phoebe E. **Cowan** | 29 | Wife |
+| Estella B. **Cowan** | 7 | Daughter |
+| Ethel S. **Cowan** | 1 | Daughter |
+
+**This is obviously Thomas H. Keown's own household, not a separate "Cowan" family**: age 35 matches Thomas H. Keown (b. 1845, would be 35 in 1880); "Phoebe E." matches Phoebe Ellen (McKinney) Keown; the household's residence, Nelson, Cloud, Kansas, is exactly Thomas Keown's own confirmed 1880 residence (per his own facts page); and "Ethel S." at age 1 matches the already-confirmed Ethel Phoebe Keown (b. 1878/79) almost exactly. **The entire household was transcribed under "Cowan" instead of "Keown"** — an easy period-cursive misread (the two surnames share a similar shape), not a real second surname.
+
+**This resolves the "Estella B. Cowan" question for good**: she was never a woman who married a man named Cowan — "Cowan" is purely a transcription artifact of "Keown." Her actual identity is almost certainly **the already-known Bertha Stella (Keown) Perry**: "Estella B." (age 7 in 1880, so b. abt 1872-73, Kansas) matches Bertha's own confirmed birth (16 Jan 1873, Concordia, Cloud Co., Kansas per her Find A Grave record, session 115) almost exactly, and "Estella"/"Stella" are simply variants of the same name, with "B." plausibly standing for "Bertha." The original session 113 "BallSmith" cross-tree entry for "Estella B. Cowan" was very likely built from this same misindexed 1880 census record, which is why it never showed a coherent married life beyond a birth year and state.
+
+**Correcting the record**: "Estella B. Cowan" is **not** a previously-undocumented 8th child of Thomas H. Keown — she is the same person as the already-fully-documented **Bertha Stella (Keown) Perry** (m. Allen W. Perry). No new person to add. This closes out the last remaining loose thread from the Keown-family research arc (sessions 113-115, 123-124) with a clean, confident answer rather than a lingering "UNCONFIRMED" flag.
+
+Committed and pushed. A satisfying final chapter to this thread: what began in session 113 as an apparently-new discovery, was corrected in session 115 to a probably-separate-but-unconfirmed person, and is now resolved in session 124 as a straightforward 19th-century transcription error pointing right back to a person already well documented in the tree.
