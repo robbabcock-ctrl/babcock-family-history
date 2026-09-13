@@ -2234,3 +2234,28 @@ Searched Ancestry broadly for "Ann Keown" b.1872 and found the same problematic 
 No tree changes this session -- the underlying chronological problem from session 34 is unchanged, but this session adds confirmation that "Ann Keown" is a real person worth eventually placing correctly, rather than a total fabrication.
 
 Committed and pushed.
+
+## 📋 MILESTONE NOTE FOR ROBERT — 100 autonomous sessions, a natural pause point (2026-09-12)
+
+A brief status note, not a new research finding, for whenever you're back and reading through this log.
+
+This autonomous research push has now run 100 sessions overnight/continuously, and it has reached a genuine, honest high-water mark rather than a manufactured stopping point. A quick summary of what this push has built, all backed by primary or near-primary sources unless explicitly flagged UNCONFIRMED:
+
+**Major lineage breakthroughs, fully traced and verified:**
+- **Rawson line** traced back to **Edward Rawson, Secretary of the Massachusetts Bay Colony** (1650-1686), through William Rawson, Nathaniel Rawson I, and Nathaniel Rawson Jr. -- a confirmed **Revolutionary War Minuteman at the Lexington Alarm** -- with a bonus fourth Patriot found along a half-brother's line, **Corp. Moses Rawson**, whose pension file documents service at Fort Stanwix, Saratoga, and Stony Point.
+- **Strong line** traced back to **Elder John Strong**, first ruling elder of the Northampton, MA church -- a second major colonial-founder connection.
+- **Isbell line** (Frances Isbell, Anson George Rawson's wife) traced back to **Eleasor Isbell, killed in action at the Battle of Stillwater** during the Saratoga campaign, October 1777 -- Robert's only ancestor confirmed to have died in Revolutionary War combat, plus a charming English surname-origin legend ("Bell" becoming "Isbell") and the family's Yorkshire origin.
+- **Babcock surname line** confirmed back to the 1612 Westerly, RI founder James Babcock, with **Lieut. Oliver Babcock Jr.**, a documented, SAR-recognized Revolutionary War Patriot, sitting directly on Robert's own paternal surname line.
+- **Keown line**: John Henry Keown's long-mysterious "Georgia" death location was resolved as an error -- he was actually a documented **Union Corporal, 21st Missouri Infantry**, who died of illness after the Shiloh campaign.
+- **Ringle/Keesy line** pushed back a generation, revealing the family's original surname was **"Giese"** (German), plus a second documented Union Civil War veteran, **Rev. William Allen Keesy**.
+- **Brand line**: pinned to Freudenberg, Mosbach, Baden, Germany, with parents now confirmed and a genuine tree-correction identified (two different wives had been conflated into one profile).
+- **Three more German immigrant-surname origins pinpointed** (Schlottach/Pomerania, Kapitzke/Mecklenburg-Vorpommern) alongside Brand's Baden origin.
+
+**What's still genuinely open** (not for lack of trying -- these are real dead ends or access-blocked, not abandoned):
+- **Ann Blackwell's Irish county of origin** -- still unresolved, resting since session 48 per your own guidance; the one thread this push was originally built around that remains unsolved.
+- **Peter J. Kimble's own origins** (John Alexander Kimble's father) -- three separate negative results across different techniques.
+- A handful of minor sibling/date discrepancies (documented, flagged UNCONFIRMED, not force-resolved) -- e.g., "Ann Keown" (b.1872) confirmed as a real person via census records but her exact parentage still unclear, blocked by an Ancestry subscription-tier paywall this session declined to purchase around.
+
+**The single biggest remaining task is not research -- it's data entry.** Ancestry's "Add fact" / hint-review write UI has been broken since roughly session 33 (confirmed broad, not just one dialog) and was last retested session 42. Every one of the findings above, across 100 sessions, is sitting in this log and the private memory file as a "ready-to-enter backlog" that has never actually been written back into your Ancestry tree. Once that UI recovers, a large, dedicated data-entry session (probably several hours) will be needed to actually enter everything -- this is likely the highest-value next step whenever you're back, even before more new research.
+
+This research push will keep running per your original "don't quit until I tell you to stop" instruction, checking periodically for new hints and revisiting the Ann Blackwell and Kimble threads if a genuinely new angle appears -- but expect future sessions to be quieter, since the well-trodden ground has been thoroughly covered.
