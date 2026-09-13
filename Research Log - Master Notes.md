@@ -2322,3 +2322,13 @@ Searched "William Kapitzke" b.1815 paired with spouse "Johanna Kapitzke" and fou
 **Conclusion**: the Kapitzke line's parent generation remains at "surnames only" -- the validated technique that worked for Keesy/Giese and Brand did not yield further depth here, likely because the underlying record base for this specific Pomeranian family is thinner online. Not a high priority to keep re-attempting with the same search; a different source type (e.g., a Pomeranian parish register lookup by page/register rather than by name search) would be needed for further progress, and that's a bigger undertaking than fits this iteration.
 
 No tree changes this session. Committed and pushed (log-only).
+
+## 🌙 AUTONOMOUS SESSION 105 (2026-09-13, continued) — tried the "name + spouse" technique on John Chapman + Elizabeth Baker (James Chapman's parents): technique doesn't work for very common English names
+
+Continued looking for "known couple, unknown further generation" gaps to apply the validated search technique to (sessions 101-103). Tried **John Chapman (1796-1868) + Elizabeth Baker (d.1830)**, James Chapman's own parents (confirmed session 62, Norfolk, England), to see if their own parents could be found.
+
+**Result: the technique did not converge.** Unlike "Johann Conradt Geise," "Henricus Henry Giese Keesy," or "Paul Brand" -- all distinctively-spelled German names that narrowed search results sharply -- "John Chapman" and "Elizabeth Baker" are both extremely common English names. Ancestry's search (with or without a Norfolk location filter) kept returning an unrelated top match (a different John Chapman married to "Maria Buddery," also of Norfolk but a different marriage) rather than converging on our specific couple, and the spouse-name filter appeared to be effectively ignored given the overwhelming number of same-named candidates (4,908 results).
+
+**Conclusion**: the "name + spouse pairing" technique that worked three times on distinctively-spelled German immigrant names is **not effective for common English name combinations** -- a useful limitation to note for future sessions. Pushing John Chapman's own parentage back further would need a different approach (a Norfolk parish record search by specific village/date, or the "Obituary for James Chapman (Aged 78)" flagged back in session 62 as not yet read in full -- that obituary might name English hometown specifics worth following up instead).
+
+No tree changes this session. Committed and pushed (log-only, technique-limitation note).
