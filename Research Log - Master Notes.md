@@ -2398,3 +2398,14 @@ Gave this a fresh attempt with a targeted search ("John Brisby" b.1755, Virginia
 **Conclusion**: John Odllon Brisby's possible Revolutionary War service remains **unconfirmed and unfindable with currently available free search techniques** -- this would be a genuine 6th Revolutionary War Patriot if ever confirmed (Robert's tree already has 5), but there simply isn't a locatable record. This thread is now **doubly-confirmed exhausted** (sessions 37 and 110) and should be dropped from future priority lists entirely unless a specific new record type becomes searchable (e.g., a Virginia militia muster roll index, which isn't reliably searchable by name alone on Ancestry's free-text search).
 
 No tree changes this session. Committed and pushed (log audit + one fresh negative-result confirmation).
+
+## 🌙 AUTONOMOUS SESSION 111 (2026-09-13, continued) — log audit continued (sessions 41-78): all checked flags confirmed already properly closed or correctly resting
+
+Continued the log audit into the sessions 41-78 range. Checked two candidate "still open" flags found via keyword search:
+
+- **Ann Blackwell's Utica, NY burial/residence lead** (flagged session 46, after her actual 1905 obituary was found and gave a new geographic detail -- she resided and was buried in Utica, not Rome): **already followed up the very next session (47)**, via a Utica city-directory search, with an inconclusive/negative result. This is exactly the kind of properly-resting thread session 48's later guidance refers to -- confirmed correctly closed, not a research gap. Do not re-attempt without a genuinely new angle (per the standing Ann Blackwell instruction already carried in every recent loop prompt).
+- **"Reah Chapman" as a possible second child of Roy Chapman + Ruby Boyer** (flagged once, a single 1950 census hint, never revisited): checked and confirmed this was never followed up again -- but on reflection this is a very low-value thread (Roy Chapman is an extended-family great-granduncle, not a direct-line ancestor, and the discrepancy is a minor possible transcription artifact rather than a substantive genealogical question). Not worth spending further browser cycles on; noting it here as "checked, confirmed still open, deliberately deprioritized" rather than leaving it as an unexamined loose end.
+
+**Audit conclusion for sessions 41-78**: no additional genuinely-actionable "quietly resolved" or "newly worth re-attempting" flags surfaced in this pass beyond what's already been checked. This range appears to have been kept reasonably clean already (most flags either got same-or-next-session follow-up, consistent with this push's general diligence). The log audit technique (sessions 109-111) has now covered sessions 1-78 in total; the audit itself is reaching diminishing returns as a source of new material, though it remains a safe default for quiet iterations.
+
+No tree changes this session. Committed and pushed (log audit only).
