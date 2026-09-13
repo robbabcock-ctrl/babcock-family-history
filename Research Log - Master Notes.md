@@ -2278,3 +2278,21 @@ This extends the confirmed line one more generation: **Johann Conradt Geise (Gÿ
 Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Johann Conradt Geise (Gÿsi) + Maria Agatha Bär (Baer) as Henricus's parents, and his corrected birthplace/baptism (York, York Co, PA, 2/25 Jul 1762) replacing the "origin unknown" placeholder from session 90.
 
 Committed and pushed. A good example of a "low-priority, likely dead-end" lead paying off on a fresh attempt -- worth not writing off exploratory leads permanently just because an earlier session didn't have time to pursue them.
+
+## 🌙 AUTONOMOUS SESSION 102 (2026-09-12, continued) — MAJOR FIND: the Keesy/Giese line traced to an exact German birthplace, plus a colonial-era child immigrant story
+
+Immediate follow-up to session 101's fresh Keesy/Giese generation: searched for Johann Conradt Geise (Henricus's father) directly, and found a well-populated cross-tree profile ("Cathell Family Tree") giving:
+
+> **Johann Conradt Giese**, born **27 Mar 1718, Bad Dürkheim, Rhineland-Palatinate, Germany**; died **8 Feb 1802, York, York Co, Pennsylvania**; residence **1727-1776, Pennsylvania** (i.e., arrived in the American colonies as a roughly 9-year-old child, decades before the Revolution); married **Maria Agatha Bär**; son **Henricus Giese** (matching session 101's Henricus Henry Giese Keesy exactly). His own parents are named: **Henrich Gysi + Maria Magdalena Burchardt.**
+
+**This is the fifth specifically-pinpointed German immigrant-origin town/region found across this entire research push** (alongside Freudenberg/Mosbach/Baden for the Brand line, Komsow/Pomerania for Schlottach, and Mecklenburg-Vorpommern for Kapitzke) -- and the only one where the immigrant himself (or rather, the immigrant *child*) is directly named with an exact birthplace, arrival era, and his own parents' names all in one connected record.
+
+This gives Robert a genuine **colonial-era child-immigrant story**: Johann Conradt Giese/Gysi, born in the Rhineland-Palatinate in 1718, was brought to Pennsylvania as a young child around 1727 (consistent with the large wave of German/"Palatine" immigration into colonial Pennsylvania in that era), grew up in the colony, married Maria Agatha Bär, and lived out his life in York County, PA -- his own son Henricus later moved the family west to Ohio, where the "Keesy" spelling took over from "Giese"/"Gysi."
+
+**Full confirmed line now stands**: Henrich Gysi + Maria Magdalena Burchardt (Germany, generation of the parents left behind or also emigrating -- not yet determined) → **Johann Conradt Giese/Gysi (1718, Bad Dürkheim, Germany – 1802, York Co, PA)** + Maria Agatha Bär → Henricus Henry Giese Keesy (1762, York Co PA – 1856, Huron Co OH) → John Keesy (1804-1859) → Margaret Keesy → ... → Robert.
+
+**Not yet fully resolved**: whether Henrich Gysi (Johann Conradt's father) himself emigrated to Pennsylvania alongside his young son, or stayed in Germany while young Johann Conradt came over some other way (e.g., with other relatives) -- the "Residence 1727-1776, Pennsylvania" fact is attached to Johann Conradt himself, not explicitly to his parents. A future session could look for Henrich Gysi's own death/residence record to settle this, though it's a minor point of color rather than a genealogical gap.
+
+Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Johann Conradt Giese/Gysi's exact birthplace (Bad Dürkheim, Rhineland-Palatinate, Germany), his 1727 Pennsylvania arrival, his parents Henrich Gysi + Maria Magdalena Burchardt, and his death (8 Feb 1802, York Co PA -- correcting/refining the "5 Feb 1802" date seen in some duplicate tree copies to the more specific "8 Feb 1802" from this fuller profile, a minor 3-day discrepancy not worth further chasing).
+
+Committed and pushed. Two strong sessions in a row (101-102) on a line that was sitting nearly untouched since session 90 -- a good reminder that "low priority, likely exhausted" leads can still pay off when revisited with a slightly different search angle.
