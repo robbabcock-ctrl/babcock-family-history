@@ -2162,3 +2162,19 @@ This is independently corroborated by two separate "U.S., Family History Books" 
 Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Frances Isbell's nickname "Fanny" and exact birthplace (Whitestown, Oneida Co, NY) as a Research Notes addition, alongside the already-flagged Eleasor Isbell/Joel Isbell backlog from sessions 92-93 (now to be entered as CONFIRMED rather than pending).
 
 Committed and pushed. A good example of why flagging an apparent discrepancy rather than either ignoring it or panicking over it pays off -- a 10-minute follow-up search fully resolved what could have looked like a serious problem with an otherwise exciting find.
+
+## 🌙 AUTONOMOUS SESSION 95 (2026-09-12, continued) — Joseph Michael Brand's parents confirmed (Paul Brand + Katharina Barbara Keck), a new sibling found, and his exact immigration year pinned down
+
+Chased a genuinely unreviewed hint spotted in an earlier All Hints sweep (session ~89's page-125 pass): Joseph Michael Brand's own parents, shown as "Father Paul Brand, Mother Katharina Barbara Keck" but never actually confirmed/logged. Searched Ancestry directly for "Joseph Michael Brand" b.1829 and found a rich, well-sourced cross-tree profile ("Lisa's Family Tree" -- almost certainly the same tree as Robert's known living cousin Lisa Brand Knierim, sessions 5/30) with **8 independent sources on his birth alone**, plus census records (1870, 1880, 1900), multiple marriage record collections, the already-known U.S. Civil War Draft Registration, and Find A Grave -- all fully consistent with what's already in Robert's tree (birth 24 Sep 1829, baptism Freudenberg/Mosbach/Baden, death 11 Jul 1903 Monroe Co IL).
+
+**Parents confirmed**: **Paul Brand + Katharina Barbara Keck** -- this cross-tree source lists them as parents but does not itself carry any further sourced dates/records for this generation, so the line isn't pushed back further yet; still, having Joseph's own parents' names now properly confirmed (rather than sitting as an unreviewed, unverified hint) is a real step forward for a future targeted search (e.g., a German church-record search for "Paul Brand" + "Katharina Keck" in Freudenberg, Mosbach, Baden specifically).
+
+**New finding**: a previously undocumented **sibling, Heinrich Jakob Brand (b. 13 Jul 1832)** -- three years younger than Joseph.
+
+**New finding**: Joseph Michael Brand's own **arrival in America is dated 1851** (one source) -- a specific immigration year not previously in Robert's tree, consistent with him marrying in St. Louis in 1862 and appearing in Missouri records by 1863.
+
+**Naming discrepancy flagged, not resolved**: this cross-tree source names Joseph's first wife (mother of Jacob Emil Brand, b.1877) as **"Elisabeth Regner Brand" (1838-1879)** -- her death date (3 October 1879, Monroe Co IL) matches exactly what session 31 already had recorded for "Margretha" Brand, confirming this is the same woman, but the given name differs ("Elisabeth Regner" here vs. "Margretha" in Robert's existing tree/session 31's note). Possibly a full name along the lines of "Margaretha Elisabeth Regner," with different records/trees preferring different parts of it -- not resolved this session, flagged for a future look at an actual primary record (marriage or death record) naming her in full.
+
+Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Paul Brand + Katharina Barbara Keck as Joseph Michael Brand's parents; new sibling Heinrich Jakob Brand (b. 13 Jul 1832); Joseph's 1851 immigration/arrival date; and a note on the Elisabeth Regner/Margretha name discrepancy for his first wife.
+
+Committed and pushed. The Brand line's own immigrant generation (Paul Brand + Katharina Barbara Keck) remains a good target for a future HathiTrust/German-church-record search now that the names are properly confirmed rather than sitting as an unreviewed hint.
