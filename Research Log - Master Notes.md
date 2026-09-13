@@ -2531,3 +2531,13 @@ While investigating a different old flag this session, re-read **Session 45** (2
 **Lesson, reinforcing sessions 99/108's standing guidance**: a full-log grep for a specific person's name should be run BEFORE investigating their cross-tree hints, not just a grep for the flag's own originating topic/thread name — searching only "Christie-Williams" (the specific cross-tree hint's name) missed the fact that the underlying person (George D. Babcock) had already surfaced independently under a completely different research thread (the All Hints feed sweep, session 45) with no shared search term to connect them. Going forward, when checking a specific person's hints page turns up a name, grep for THAT PERSON'S NAME specifically across the whole log before writing them up as new — not just the thread/topic that led to the check.
 
 No repo changes needed beyond this correction entry — Geo D. Babcock's status in the "ready to enter" backlog is unchanged (he was already flagged as ready-to-enter since session 45; session 116 didn't add or lose anything materially, just mischaracterized his novelty and confidence level). Committed and pushed for the honest record.
+
+## 🌙 AUTONOMOUS SESSION 120 (2026-09-13, continued) — quiet verification tick: All Hints unchanged, one old thread confirmed already closed
+
+Per the tightened session-119 verification discipline, did a full-log grep before investigating anything new this session. Checked the "OPEN THREAD — Darla and Dean" flag (from the early Chapman-album era, pre-numbered sessions) — a targeted search was suggested for "Darla Shipley" + Fresno furniture store and "Dean Shipley." A forward grep confirmed this was already fully resolved: Darla and Dean are **Gerald Arthur Babcock + Donna Johnston's children** (Hershel Babcock's grandchildren), already added to the tree with proper pids, and independently reconfirmed by Sandi in a later session. No new work needed — correctly not re-chased.
+
+Also checked the James Chapman "5th surviving child"/"3 infant deaths" sub-thread and the Daniel Crone/second-infant-death sub-thread — both sit under topics already marked CLOSED/RETIRED in this loop's standing list (James Chapman family sessions 67-69; Elizabeth Pence's parentage), so left untouched per the standing rule against reopening retired threads.
+
+**All Hints feed re-check**: counts remain unchanged at 2553 Records / 1857 Photos / 437 Stories / 61 Member trees / 198 New collections — identical to the last check (session 112). No new collections to sweep.
+
+No new findings this session — a legitimately quiet tick, consistent with the research push's mature, thoroughly-mined state after 119 prior sessions. Committed and pushed for continuity of the record.
