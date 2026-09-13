@@ -2553,3 +2553,13 @@ Following up on session 120's suggested next approach (sample already-documented
 **Assessment**: the pool of "real Ancestry person records that exist but have never had their own hints individually reviewed" is now genuinely thin after 121 sessions — most candidates that come to mind via a full-log review turn out to already be checked, or don't yet exist as real records due to the write outage. This is a natural consequence of the technique's own success: it has been applied so thoroughly and successfully (sessions 113-118 especially) that fewer untouched candidates remain each time. No new findings this session, but two more old notes confirmed properly resolved rather than left ambiguous.
 
 Committed and pushed for continuity. Given how much of the easily-reachable research surface has now been covered, future sessions may need to lean more on: (1) entering the substantial ready-to-enter backlog once the write outage resolves (which would unlock many NEW person records with their OWN fresh hints to check), (2) waiting for the All Hints feed to accumulate new material naturally, or (3) opportunistically returning to genuinely open threads (Mary Viola Keown/Kenyon, Estella Cowan, Marie Ellen Wilson) if a specific new technique idea occurs.
+
+## 🌙 AUTONOMOUS SESSION 122 (2026-09-13, continued) — write-UI outage retested: still broken
+
+Per standing guidance to retest the Ancestry write-UI outage roughly every 10+ iterations (last actually retested session 42, now 80 sessions ago — well overdue, though the loop's own carried-forward instructions had been mechanically repeating "don't retest yet" without anyone noticing how much time had actually passed), did a single retest this session given the size of the accumulated ready-to-enter backlog makes this a high-value check.
+
+Tried "Add family" on Solomon Babcock's profile (pid 252812663769) — clicked the button, waited, and confirmed via a zoomed screenshot and interactive page read that **no dropdown, modal, or menu appeared at all** — the button is visually present but produces no response, identical to every prior test since session 33. **The write-UI outage remains fully in effect.**
+
+Per the standing guidance, not retrying further this session — reverting to research/logging only. Resetting the retest counter: do not retest again for at least 10+ more iterations from this session (122).
+
+No new genealogical findings this session — a legitimate infrastructure-check tick. Committed and pushed for continuity of the record.
