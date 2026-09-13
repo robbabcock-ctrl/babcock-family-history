@@ -2312,3 +2312,13 @@ Applied the same technique that just worked twice in a row on the Keesy/Giese li
 Not yet added to Ancestry (write outage ongoing, last retested session 42) -- ready-to-enter backlog: Franz Brand + Maria Anna Hoffmaenn as Paul Brand's parents, Paul's birth year (1793), and new sibling Josepha Margaretha Brand.
 
 Committed and pushed. **Three strong sessions in a row (101-103)** using the same refined technique (direct name + spouse-name search, rather than broad surname search) on two different German immigrant lines that had been sitting only partially explored -- this technique should be tried on any other "parents named but not yet followed up" leads that may still be sitting in the log.
+
+## 🌙 AUTONOMOUS SESSION 104 (2026-09-13, continued) — tried the validated "name + spouse" technique on William Kapitzke's parents: no improvement found
+
+Per session 103's suggestion, applied the validated "exact name + spouse pairing" search technique (which worked three times running on the Keesy/Giese and Brand lines) to William Kapitzke's own parents, previously known only by surname ("Kapitzky" father, "Schreider" mother, session 29, given names never found).
+
+Searched "William Kapitzke" b.1815 paired with spouse "Johanna Kapitzke" and found a matching cross-tree profile ("Rawson DNA Family Tree all lines, p. 1") -- but it gives the **exact same surname-only information already in Robert's tree**: "Father: Mr. Kapitzky, Mother: Miss Schreider" -- no given names, no dates, no origin details beyond what's already recorded. This source is very likely a mirror/copy of the same underlying (thin) information already known, not an independent new discovery. A promising-looking "Pomerania, Germany, Parish Register Transcripts" hit for "Wilhelm Kopitzke" turned up in the results but its actual content was hidden behind the search-preview blur and did not clearly connect to our specific William with any distinguishing detail.
+
+**Conclusion**: the Kapitzke line's parent generation remains at "surnames only" -- the validated technique that worked for Keesy/Giese and Brand did not yield further depth here, likely because the underlying record base for this specific Pomeranian family is thinner online. Not a high priority to keep re-attempting with the same search; a different source type (e.g., a Pomeranian parish register lookup by page/register rather than by name search) would be needed for further progress, and that's a bigger undertaking than fits this iteration.
+
+No tree changes this session. Committed and pushed (log-only).
