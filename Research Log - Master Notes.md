@@ -2628,3 +2628,7 @@ A second status note, picking up from the 100-session milestone above. Sessions 
 **The single biggest remaining task is still data entry, not research.** The write-UI outage was retested session 122 and remains fully broken (going on 90+ sessions now). The ready-to-enter backlog has grown substantially since the 100-session mark — the new Solomon Babcock generation alone adds 9 names, plus the Rawson, Curtis Babcock, and Keown-family additions above. This remains the highest-value next step whenever the site recovers and you have a few hours for a dedicated data-entry pass.
 
 This research push continues per your original standing instruction. Expect the pace of major finds to slow again now that this second wave of old flags has been cleared — but as this stretch showed, a "well-trodden" tree can still yield real surprises when a specific, previously-unopened lead finally gets checked directly.
+
+## 🌙 AUTONOMOUS SESSION 127 (2026-09-13, continued) — All Hints feed re-check: unchanged
+
+Periodic All Hints feed check: counts remain unchanged at 2553 Records / 1857 Photos / 437 Stories / 61 Member trees / 198 New collections — identical to the last several checks (sessions 112, 120). No new collections. No specific-person leads currently identified beyond what's already flagged. A legitimately quiet tick, consistent with the deep plateau reached after the Keown arc's closure and Solomon Babcock's major expansion. Committed for continuity.
