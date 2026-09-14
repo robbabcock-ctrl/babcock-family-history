@@ -8,6 +8,350 @@ metadata:
   modified: 2026-09-10T12:24:48.839Z
 ---
 
+# Babcock, Rawson & Allied Families — Research Log and Family History
+
+## About this document
+
+This is the master research record for Robert Babcock's family history project (Ancestry.com tree "Robert Babcock Family Tree," tree ID 101867177). It covers Robert's own Babcock/Chapman/Brand/Blackwell ancestry, and — because the tree also documents the ancestry of Robert's late wife Cynthia Ann Rawson, included alongside his own line as a matter of course — the Rawson/Strong/Isbell/Keesy-Ringle/Ewing/Crone/Suydam/Brisby/Keown/Phillips/Looney families as well.
+
+The document is organized in three parts:
+
+1. **Family Histories** (below) — one section per surname line, written as a plain narrative of what is currently known: parents, children, dates, and sourcing, oldest generation first. Where the research corrected an earlier date or identity over time, only the final, corrected version is stated here as fact. Genuinely unresolved questions are flagged clearly within each family's own section.
+2. **Outstanding Tasks** — a checklist of concrete things someone (Robert, another family member, or a future researcher) still needs to actually go *do*: mail a letter, make a call, evaluate a DNA match, upload a photo. This is different from an open research question — it's an action item.
+3. **Session Log** — the complete, chronological, session-by-session research journal this project was originally built from (128 autonomous overnight research sessions plus the earlier live-editing sessions that preceded them). If you want to see exactly how a fact was found, corrected, or debated — the full back-and-forth — it's all there, in order. Nothing in the Family Histories or Outstanding Tasks sections above is meant to replace it; those are just a reader-friendly front door onto the same material.
+
+**A note on sourcing.** Facts below are sourced from a mix of primary records (census, vital records, church registers, military/pension files, published county histories) and secondary/compiled sources (other Ancestry members' trees, Find A Grave contributor pages). Where the research log itself flagged a fact as resting on a single thin or unsourced compiled tree, that's noted in parentheses. Absence of a note generally means the fact is corroborated by at least one primary or near-primary record. As the project's own standing rule puts it: state true facts plainly, and keep only genuinely open questions — not the twists and turns of how each one was found.
+
+---
+
+# Family Histories
+
+## Robert's Own Family (the anchor point)
+
+Robert Babcock (b. 29 Jun 1973, Fresno, CA) is the great-grandson of Rawleigh Oliver Babcock (paternal side, see the Babcock family below) and, through his late wife Cynthia, connected to the Rawson family covered later in this document.
+
+- **Robert Babcock (b. 1945)**, Robert's father, and **Cynthia Ann Rawson (1949–2002)**, Robert's mother, are the tree's "root couple" — Robert (1945) is the son of **Stanley Ross Babcock** (the Babcock line) and Cynthia is the daughter of **John Rawson Sr.** (the Rawson line). Robert Sr. served in the U.S. Coast Guard. He and Cynthia divorced around 1976; Robert Sr. remarried **Pamela Mae Schmitgal** on 9 Mar 1988 (her daughter, Robert's stepsister, is Janelle Ann Schmitgal — also seen as "Schultz," surname form unconfirmed).
+- Robert (b. 1973) has a sister, **Sandra Kay "Sandi" Babcock** (b. 6 May 1947, Reedley Hospital) — she married **Douglas Ross Munday** on 5 Apr 1969 (daughters **Kristine Ann "Kristi" Munday**, b. 30 Oct 1971, Big Spring TX, and **Karen Amy Munday**, b. 29 May 1975, Fresno), divorced in 1988, then married **Paul Norman Walsberg** on 5 Jul 1988 — she is known today as **Sandra Kay Babcock Walsberg**.
+- Robert graduated Moorpark High School (Moorpark, CA) in 1992 and was sworn into the California Air National Guard by his uncle Doug Munday. He married **Amberleigh "Amber" Phillips** (b. 22 Feb 1979, Tulare Co. CA — d. 16 Aug 2015, Hanford, Kings Co. CA) on 22 May 1999. Amber's own ancestry (Phillips/McDougal and Looney families) is covered later in this document. Robert and Amber had two sons: **Robert Shaun Babcock** (b. 25 Aug 1999, Visalia, CA — this date, confirmed directly by Robert, corrects two earlier conflicting dates that had circulated) and **Dylan Alan Babcock** (b. 12 Jul 2001, Tulare, CA). Robert later married **Adrienne Leigh Gross** (b. 1975); their daughter is **Danielle Leighann Babcock** (b. 2007).
+
+The rest of this document traces both sides of this family back through the generations: the Babcock surname line (Robert's father's side) and the Rawson/Strong/Isbell/Keesy-Ringle/Ewing/Crone/Suydam/Brisby/Keown/Phillips/Looney lines (Cynthia's and Amber's sides, included in the same tree).
+
+---
+
+## Babcock Family
+
+### The colonial Rhode Island trunk (1612–1834)
+
+The Babcock surname traces to **James Babcock, "the Blacksmith" (1612–1679)**, an early immigrant to Westerly, Rhode Island, married to **Sarah (Vose Brown Bourne, d. 1665)**. His son **John Babcock Sr. (1644, Portsmouth RI – 31 Dec 1684, Westerly RI)** fought in the Great Swamp Fight and married **Mary Lawton**.
+
+Their son **Col. Oliver Babcock Sr. (31 Aug 1683, Westerly RI – 11 Nov 1773, Hopkinton RI)** was, per family tradition and a documented SAR application citing him, a militia colonel. He remarried a second wife, **Deborah Knowles** (m. 2 Dec 1761, Hopkinton), after Mary Lawton's own generation.
+
+His son **Lieut. Oliver Babcock Jr. (16 Sep 1722, Westerly/Hopkinton RI – 24 Feb 1806, Leyden MA)** married **Susanna Clark(e)** and is a **documented Revolutionary War Patriot** — a U.S. Sons of the American Revolution (SAR) Membership Application already exists in his name, and he carried the rank of Lieutenant. He and Susanna had 17 other children besides the line below, including two more sons with their own military titles: Capt. Paul Babcock (1766–1840) and Capt. Luke Pendleton Babcock (1772–1844). His marriage to Patience Pendleton is dated variously 1744 or 1746 in different sources, and his own death is given as 1805 in a probate record vs. 1806 elsewhere — both variances are noted rather than resolved.
+
+Their son **Peleg W. Babcock, Esq. (4 Oct 1748, Hopkinton RI – 12 Nov 1834, West Leyden MA)** married three times — Lucy Maxson (1751–1775), then Ruth Maxson (1747–1823, likely Lucy's sister), then, at 75, Phebe Briggs Dennison (m. 1824) — and had 20 children besides Solomon (below). Peleg himself carries two separate SAR Membership Applications and his own War of 1812 service record, suggesting he — not just his father — may be a second documented Patriot in the family; this is flagged as worth a DAR/SAR follow-up, not yet pursued. In 1799, Peleg's sons **Peleg Jr. (1772–1827)** and **Solomon** left Leyden, Massachusetts together and founded adjoining homestead claims on lot 82 in what became Cortland County, New York — recorded directly in *Pioneer History; or, Cortland County and the Border Wars of New York* (H.C. Goodwin, 1859), p. 215: "Peleg Babcock, accompanied by his brothers Solomon and Asa Howard, came in from Leyden, Massachusetts, and selected locations." Whether "Asa Howard" was a third, previously unrecorded son of Peleg Sr. or an unrelated companion is unresolved.
+
+### Solomon Babcock's generation (Cortland County, NY)
+
+**Solomon Babcock (2 Sep 1776, Westerly RI – 13 Feb 1867, Homer, Cortland Co. NY)** married **Amy Anna Morgan (1783–1853)** and, after her death, **Ann Steadman (1786–1862)**. He and Amy had twelve children: Luke P. (1805–1878), Morgan M. (1806–1883), Ross (1809–1878), Ralph William (1810–1897), Anson A. (1813–1885), Cornelius (1815–1820), Cornelia (1816–1830), Ira (1818–1902), Frederick (1820–1882), **Curtis** (see below), Hulda (b. abt 1825, m. Charles Kinyon 1849), and Austin P. (b. abt 1825). Solomon was a deacon of the First Seventh Day Baptist Church in Scott, NY, and was baptized 25 Jul 1807 by Elder Alfred Bennett of Homer, NY.
+
+A name once suspected as a possible thirteenth child, "Harriet Babcock" (from a stray line in the same Goodwin county history calling her "the first child born in town"), does not appear anywhere in a thorough, well-sourced reconstruction of Solomon's family and is now considered very unlikely to be his daughter.
+
+An unnamed daughter of Solomon's — a sister of Curtis — married a man surnamed **Davis** and lived in Stephenson County, Illinois by 1858; her given name has never been recovered.
+
+### Curtis Babcock's family (Illinois)
+
+**Curtis Babcock (b. ~1822/24/28, Scott, Cortland Co. NY – d. 1870, Galva, Henry Co. IL)** married **Loranda** on 3 Oct 1848, Scott, NY. Her maiden surname has three candidates across three sources: "Randall" (per a run of census records for her son Charles Augustus, independently and repeatedly recorded — the strongest candidate), "Dorana Randall" per the 1903 published *Babcock Genealogy*, and "Goodman" (the name currently attached to her in the tree, which turns out to actually be her *second* husband's surname — she remarried a David Goodman on 4 Mar 1873, Monroe, Green Co. WI, three years after Curtis's death). The 1848 marriage record itself never gives a clear surname for her at all. Curtis and Loranda's children were: James Anson (see below), Henry "H.W.", George D. (b. abt 1856), an unnamed daughter later Mrs. S.W. Hutchison, Charles Augustus (Mar 1858 – aft. 1930), Eber W. (1860–1886), Susan L. (1853–1913), Emma A. (1850–1916, d. Pipestone MN), and Anson J. (per the 1870 census, Oneco, Stephenson Co. IL). Curtis's own birth year is uncertain — three different records imply 1822, 1824, or (via his 1848 marriage record's stated age) about 1828 — and this remains unresolved.
+
+Curtis's brother **Luke P. Babcock** married Lydia in 1824, Scott, NY, and had children Oscar, Susan L., and Elsie E.
+
+The link between Curtis and his father Solomon rests on the 1903 *Babcock Genealogy* — no single primary document has ever been found stating "Curtis, son of Solomon" outright — but it is very strongly supported by circumstantial, mutually consistent evidence: an 1824 Scott, NY school census showing "Solomon Babcock — 5" the exact year and township of Curtis's birth; period census age-groupings in Solomon's household consistent with Curtis and his siblings; and the family's shared, well-documented migration pattern into the same corner of Cortland County.
+
+### James Anson Babcock through Robert Sr.
+
+**James Anson Babcock (Sep 1849, Scott, Cortland Co. NY – 20 Jun 1932, Lee Hall, Newport News VA, buried Jamestown Presbyterian Church, Williamsburg)** married first **Adelia "Olive" Pickett (1855–1882)** on 7 Dec 1870, Monroe, WI, and second **Ida May Belle (Pickett) Smith** in 1881. By 1900 the family was established at Oneco, Stephenson Co., IL.
+
+A separate, independently compiled "Keen-Babcock Family Tree" (belonging to a different, Illinois-based branch of the extended family, contacted by Stanley Babcock in 2002 through a chance Corvette-collecting connection) documents what appears to be the same James Anson Babcock with two more wives and a previously undocumented son, William Byron Babcock (b. 1871) — opening a large collateral Illinois/Wisconsin/Tennessee branch of descendants (Eber Rutherford, Thomas Anson, and others) that was never definitively confirmed as connecting to Robert's own James Anson before the correspondence trail went cold in 2006. This is treated as an interesting, unresolved lead rather than an established fact.
+
+Their son **Arthur Rueben Babcock (20 Apr 1875, Illinois – 27 May 1922, buried Smith Mountain Cemetery, Dinuba CA)** — his death is recorded on his profile as Tulare/Los Angeles, though one family scrapbook account instead says "Imperial Valley, California"; the two haven't been reconciled — married **Emma Mae Brisby (25 Oct 1880, Tennessee – 6 Jun 1959)** on a date recorded in Tennessee marriage records around 1899, after an earlier, previously-undocumented first marriage in Tennessee in April 1897 (whether that first marriage produced any children is unknown). Arthur and Emma had six children, covered in the next section. Emma's own parents are **John W. Brisby** and **Eliza (Hewitt) Brisby** — his middle initial was long recorded as "T." in the tree, but both Robert's father and aunt independently confirmed "W." is correct.
+
+After Arthur's 1922 death, Emma remarried **Charles Frederick Sindlinger** (b. 15 Jan 1871, Illinois – d. 8 Aug 1954, Orange Cove, Fresno Co. CA) on 1 Oct 1925, Tulare County, CA. They had no children together; family accounts describe him warmly as "Grandpa Sindlinger." Emma (by then Sindlinger) died 6 Jun 1959; she and Charles are buried together at Smith Mountain Cemetery near Dinuba.
+
+### Arthur Rueben and Emma Mae's six children
+
+1. **Rawleigh Oliver Babcock (30 Jan 1903, Illinois – 23 Nov 1988, Fresno)** married **Mary Ella Chapman** (of the Chapman family, below) on 2 Apr 1921, Dinuba, CA. Their children were **Stanley Ross Babcock** (see below) and **Rosalie Leota "Red"/"Rosie" Babcock (29 Jan 1926 – 8 Jun 1972)**, who worked as a WWII "Rosie the Riveter" at Day & Night Manufacturing Co. in Monrovia, CA, and married **Harvey Louis Cummins** (18 Jan 1918, Caruthers CA – 7 May 1982, Salinas CA, by suicide, ten years to the day after Rosalie's own death from cancer). Rosalie and Harvey's only child was **Janet Elaine "Jannie" Cummins** (b. 10 Jun 1948), who married **Gale/Gayle Lee** on 11 Feb 1967 (son... daughter **Diane Lee**, b. 1969); Janet was wheelchair-bound for many years and died in Montana around 2024, reconnecting briefly by phone with her uncle Robert Stanley Babcock shortly before her death. After Rosalie's death, Harvey remarried twice more — Kunigunde "Gunda" Nystrom (m. 11 Feb 1973, divorced) and then Alta May Maple (previously married to, and divorced from, Marvin Bruce Babcock — see below).
+2. **Altha Ethelyne "Sis" Babcock** married **Edgar "Ed" Shipley**, a grape rancher in Munson, CA (between Dinuba and Visalia); children **Ronald "Ronnie"** and **Patricia "Patty" Shipley**.
+3. **Lillie Babcock** (b. 3 Sep 1901, Tennessee – d. May 1976) married twice: first **Lewis J. Williams** (16 Feb 1918, El Centro CA), then, after that marriage ended, a man surnamed **Brown** (abt 1921). Her daughter **Doris** was born during the Williams marriage and is recorded under both her birth surname (later formalized as Fillmore, via her own marriage to Marion Filmore) and her stepfather's surname Brown across different records — most likely one daughter, not two. Lillie and her second husband also had **Darlene** (m. Worley Weaver, though a separate funeral-bearer record spells this name "Worley Wheeler" — possibly the same man, possibly two different people) and **Dennis** (died in infancy of diphtheria). Lillie died relatively young and her daughters Doris and Darlene were largely raised by their grandmother, Emma (Brisby) Sindlinger.
+4. **Gertrude Babcock** married **Loyd A. Weaver**, a blacksmith in Dinuba, on 25 May 1918, Brawley CA (b. 10 Dec 1899, Tennessee — d. 9 Aug 1978, Fresno, by a pedestrian accident). Their son **Wallace Weaver** married a woman whose name is recorded two different ways in equally credible sources — "LoJuanda" on an actual funeral register, "Jerry"/"Jerrie" per two independent family recollections (including Sandra Kay Babcock Walsberg's own account). The name currently on her Ancestry profile, "LoJuanda," has since been annotated with "Jerry" as a nickname rather than changed outright. Wallace and his wife had two children, a son and a daughter, whose names were never recovered.
+5. **Hershel "Ozro" Babcock** (b. 26 Mar 1904, Springfield, Sangamon Co. IL – d. 19 Oct 1991, Tulare CA) married **Mavis Barrows** (b. 29 Mar 1907, Louisiana – d. 2 Dec 1997, Dinuba). Their children: **Gerald Arthur Babcock** (married first Donna Johnston, d. 13 Nov 1969 — children Dean A. Babcock and Darla Babcock, who married Michael Anton — then remarried Betty Fischer on 31 May 1970), **Virginia Babcock** (died the day after her own engagement party, unmarried), and a second **Dean Babcock**, Hershel's own son (a namesake of his later nephew, died at 18 of a heart condition).
+6. **Clarence A. Babcock** married **Eunice Chapman** — Mary Ella Chapman's own sister, making their children "double cousins" of Stanley Ross Babcock through both a Babcock brother and a Chapman sister. Clarence served in the WWII Seabees and the family settled in Salinas, CA. Their three sons: **Robert Harold "Bob" Babcock** (m. Patsy M. Parton, b. 18 Sep 1925 Selma CA – d. 27 Feb 2001 Salinas; Robert Harold himself predeceased her, d. 1996; children Susan Diane, b. 9 Jan 1957 — though one source instead gives 1952 — and David); **Marvin "Bruce" Babcock** (m.1 Alta May Maple 6 Feb 1945 — children Sharon, Bill/William, Rick/Richard, and possibly a fourth, "Tina," relationship unconfirmed — divorced, remarried Norma); and **Ed(die) Babcock** (m.1 an unidentified woman named Donna, who died from an illegal abortion after an affair, leaving sons Michael, Randy, and Stephen; m.2 Carol, whose son Paul from a prior relationship Ed adopted).
+
+### Stanley Ross Babcock and Robert's immediate line
+
+**Stanley Ross Babcock (26 Sep 1921 – 24 Feb 2013)** served in the U.S. Navy in WWII (machinist's mate/instrument-repair instructor, trained in Norman, OK, where his son Robert Sr. was later born) and married **Bernadine Brand (18 Oct 1924, St. Louis MO – 28 Aug 2022, Portland OR)** on 5 Jun 1943. Bernadine's own ancestry (Brand/Blackwell/Schlottach) is covered in the next sections. Stanley and Bernadine's children were **Robert Stanley "Bob" Babcock** (Robert's own father, covered above) and **Sandra Kay "Sandi" Babcock** (also covered above) — Sandi is missing from this parent-child relationship in the live Ancestry tree and needs to be added.
+
+---
+
+## Brand Family
+
+**Franz Brand** and **Maria Anna Hoffmaenn**, of Germany, were the parents of **Paul Brand (Johann Paul Brand, b. 1793)**, who married **Katharina Barbara Keck**. Their son **Joseph Michael Brand (24 Sep 1829, baptized Freudenberg, Mosbach, Baden, Germany – 11 Jul 1903, Monroe Co. IL)** immigrated to America in 1851 and served in the Union Army during the Civil War (Co. D, 1st Regiment US Reserve Corps, Missouri Infantry). He married twice: first **Elisabeth Regner (2 Aug 1838, Hesse, Germany – 3 Oct 1879, Monroe Co. IL)**, daughter of Peter George Regner and Klara Flick — this is Jacob Emil Brand's actual biological mother, long recorded in the tree under a conflated identity, "Margretha Brand" — and second, in 1880, a woman born about 1848 in Hesse-Darmstadt (likely the same person elsewhere called Margaret Scheller), who brought three children of her own into the marriage (William Brandt, Peter Brand, Cathrina Brand — Jacob's stepsiblings) and died in 1902.
+
+**Jacob Emil Brand (1877–1942)** married **Marietta J. (Blackwell) Pfeffer Brand (1877–1938)** — see the Blackwell family below for her own extraordinary story. Their children were **David George Brand (12 Jul 1905 – 1969)**, **Marietta Brand Rohlfing (20 Jun 1910 – 1998)**, and **Vern Henry Brand (6 Mar 1918, St. Louis MO – 1996)**.
+
+**David George Brand** married **Estella "Stella" Caroline Sophia Schlottach (1905–1989)** — see the Schlottach family below. Their daughter, **Bernadine Brand**, married Stanley Ross Babcock (see the Babcock family above).
+
+---
+
+## Blackwell / Pfeffer Family
+
+**Ann Blackwell (b. abt 1846, Ireland – d. 31 Oct 1905, Rome, NY)** is Robert's 3rd-great-grandmother on his mother's — Bernadine's — side, and the subject of the longest-running open thread in this entire project. She immigrated alone, most likely aboard the ship *Scotland*, arriving New York 28 May 1866 from Liverpool (the *Scotland* was wrecked off Sandy Hook just seven months later, in December 1866, with no loss of life). She gave birth to a daughter, Marietta, on 2 Feb 1877 in New York while an inmate of the Oneida County Poorhouse; an 1876 poorhouse admission record notes she could not or would not name the child's father. She and Marietta were together in the Rome, NY poorhouse as of the 1880 census — earlier research had mistakenly read Marietta as "alone" there, an artifact of how the census was indexed. New York's Children's Law of 1875 required children over two to be removed from poorhouses, which is almost certainly why Marietta was later placed for adoption.
+
+Ann worked as a domestic servant/laundress in Utica, NY from at least 1887 through 1903 (multiple city directory listings), living for a time in the household of David and Lucy Owens — a family who appears to have simply "taken her in" in her later years rather than formally employed her, per Robert's own reading of the evidence. She died 31 Oct 1905 in Rome, NY of "a complication of diseases" (obituary, Rome Daily Sentinel) and her remains were taken to Utica for burial by "the friends who took her in." Her exact grave was located in 2026 by St. Agnes Cemetery of Utica: **Map 3, Section 48, Tier 11, Grave 459** — no headstone was ever placed, 120 years on. The cemetery's own burial record names her parents only as "Patrick and Catherine," with no surname given and no certainty whether these are her actual parents' names or an employer's.
+
+**Her Irish county of origin has never been identified**, despite dozens of attempts across parish records, city directories, immigration records, and newspaper searches — the single longest-standing open question in this entire project.
+
+Ann's daughter, **Marietta J. Blackwell (2 Feb 1877 – 1 Nov 1938, St. Louis, MO)**, was adopted as a young girl by **John A. Pfeffer (1 Aug 1844 – 25 Aug 1908) and Johanna K. (Funk) Pfeffer (10 Feb 1845 – 15 Nov 1915)** of Columbia, Illinois — hence her sometime name "Marietta Pfeffer." She married **Jacob Emil Brand** in 1904 (see the Brand family above) and is buried, alongside Jacob, directly behind her adoptive parents at Immaculate Conception Catholic Cemetery, Columbia, IL. Her life story is told in full in the companion document "The Girl from the Poorhouse" (4th edition), also in this archive.
+
+---
+
+## Schlottach Family
+
+**Wilhelm "William" Schlottach (b. 1801, Komsow, Pomerania, Germany)** is the immigrant ancestor of a Gasconade County, Missouri German family, unrelated despite the similar name to the Scholtz/Schultz/Kapitzke family covered next. His son **Ferdinand Heinrich Schlottach (1841–1916)** married **Albertine/Albertina Kottwitz (1852–1928)**. Their son **Robert C. Schlottach (18 Apr 1872, Gasconade Co. MO – 29 Jan 1922, St. Louis)** married **Clara Jane Sewell (1878–1971)** on 26 Aug 1897, Gasconade Co. Their children were **Estella "Stella" Caroline Sophia Schlottach (1905–1989)** — who married David Brand, see above — along with **Alma N. (1901–1987)**, **Helen Maria (1904–)**, **Alfred Paul (1908–1958)**, **Amiel Otto (1911–1911, died at one day old)**, **Forrest "Pete" Lionel (1913–2008)**, and **Ruth Pearl (1915–2006)**.
+
+---
+
+## Kapitzke / Schultz Family
+
+**William Kapitzke (1815–1894)** and his wife **Johanna/Annie Kapitzke (1816–1888)** emigrated from Mecklenburg-Vorpommern, Germany, departing Bremen and arriving New York on 16 Apr 1869; they are buried at Durwards Glen, Columbia Co., Wisconsin. William's own parents are known only by surname — "Kapitzky" (father) and "Schreider" (mother) — despite repeated attempts to find given names or an exact German origin.
+
+Their daughter **Henrietta/Heneyatta Maria Kapitzke (1859, Mecklenburg-Vorpommern – 27 May 1944, Reedsburg, Sauk Co. WI)** married **William Frederick Edward Schultz** — his own birth year is recorded inconsistently across sources as 1846, 1847, and 1858; the 1858 figure has by far the deepest record trail and is probably the most reliable, though this hasn't been formally adopted. An outside source's claim that he died in 1900 is disproven by a primary 1910 census record showing him alive and widowed that year; his actual death year (sometime before Henrietta's 1944 death) remains unknown. William and Henrietta had fourteen children, the best-documented of whom is **Herman August Schultz (15 Dec 1888, Appleton WI – 1950, Santa Barbara Co. CA)**, who married **Edna Matilda Keown** (see the Keown family below) on 14 May 1916, Phoenix, AZ. Herman's thirteen siblings: Minna Augusta (Hein), Paul Christian Carl, Powell, William Ferdinand, Julius Frederick Herman, Martha, Frederick Charles, Louise Elvira, a set of same-year (1896) entries — Charles, Carl Albert, and Earl — that most likely represent duplicate records of one or two children rather than three distinct people, Frank Lewis Louis, and Clara M. (confirmed via a primary 1900 census as a genuine, distinct sibling, not a mis-transcription of "Carl").
+
+William F.E. Schultz's own father, **Martin Schulz** (born Pressen, Saxony), has never been added to the tree — the one outside member tree that documents him is set to private by its owner, despite a 112-centimorgan DNA match descending from that same line.
+
+---
+
+## Chapman Family
+
+**John Chapman (1796–1868)** and **Elizabeth Baker (d. 1830)**, of Norfolk, England, were the parents of **James Chapman (14 Feb 1830, Norfolk, England – 16 Oct 1908, Glasco, Cloud Co. KS)**, who married **Emma Harris (1832/33–1898)** in Norfolk in 1851. James and Emma emigrated from England to the United States in 1867, settled briefly in Illinois, and moved to Kansas in 1870, where James homesteaded a farm six miles southwest of Glasco. He died at the home of his son James H. Chapman; his own obituary states the couple had eight children, three of whom died in infancy (never identified) and five of whom survived him: **Fredrick Wallace** (below), **Walter John**, **Emma Caroline** (m. Merritt), **James H.** (b. abt 1869), and **William "Willie" Homer/Henry Chapman**, who in fact died in childhood in 1890 at age 14 and so is not actually one of the five adult survivors — meaning one of the five surviving children named in the obituary has never been identified. James and Emma were Methodist Episcopal church members in Glasco and are buried there.
+
+**Fredrick Wallace Chapman (19 Mar 1851 or 1852, London — sources differ by a year — d. 1915)** married **Mary Louise Kimble** (of the Kimble family, below) in Kansas, on a date given inconsistently as either 10 September 1875 or 21 December 1874 (the earlier date is suspected to be a transcription mix-up with her sister Fanny Kimble's own wedding date). They had ten children:
+
+- **Willie** — died age 14, 1890 (see above).
+- **Stella "Estelle" Christine Chapman** (25 Dec 1877 – 22 May 1968, Fresno) m. Joseph Homer Thompson; children William Miller, Mary A., Ruth E., and Elma Florence (later Damico) Thompson.
+- **Edmund "Edd" Chapman** — no further records have ever surfaced for him; likely died in early childhood.
+- **Fred "Fritz" Jr. Chapman (8 Sep 1884 – 13 Feb 1963, Kansas)** m. Rena (Serena Carlena) Beck of Simpson, KS, 24 Sep 1907, Beloit, in a double wedding with her sister Emma Beck (who married Thomas G. Griffin the same day); sons Dale H. and Glen(n) R. Chapman. Unlike his siblings, Fred Jr. remained in Kansas his whole life.
+- **John Arthur Chapman (20 Dec 1886/87 – 11 Jun 1957, Salinas CA)** m.1 Cody E. Smith (children Gladys M. and Arnold), m.2 Vernie Allena Alcorn (abt 1943); registered for both WWI and WWII drafts.
+- **Daniel Thurston "Dan" Chapman (21 Jul 1889 – 16 Jun 1969, Dinuba)** m. Goldie Elizabeth Riffe; daughters Ruby Leah (Domingos) and Billie Dove (Allen).
+- **Roy Chapman (19 Jul 1892 – 23/25 Apr 1958, Seaside/Salinas)** m. Ruby A. Boyer, 28 Oct 1915, Glasco KS; son Boyd B. Chapman.
+- **Arthur Betts "Art" Chapman (5 May 1895 – 15 Feb 1971, Salinas)** m. Leta Estelle Steckman; daughter Zelma Irene (Logan).
+- **Ethel Mae Chapman (1 Aug 1897 – 12 Sep 1988, California)** married three times — John W. Kizer (abt 1919, daughter Margaret "Margrett" L. Kizer), Edward W. Coons (9 Jun 1937, LA, daughter Mary Etta Coons), and Ira C. Estes (15 Sep 1958, LA, no children).
+- **Mary Ella Chapman** — the youngest, the tenth child and Robert's own direct ancestor — married Rawleigh Oliver Babcock (see the Babcock family above). Mary Ella's own sister **Eunice Chapman** married Rawleigh's brother Clarence Babcock, making the next generation "double cousins."
+
+All nine of Mary Ella's siblings and their marriages/children above came to light in the 2026-09-10 "Chapman Family Album" research pass, a scrapbook compiled by Bernadine Brand Babcock for her mother-in-law Mary Ella. A visiting relative, "Dan Chapman," reportedly the son of one of Mary Ella's brothers, once came to Portland to visit Bernadine and copy this scrapbook — which specific brother's son this was has not been established.
+
+---
+
+## Kimble / Kimball Family
+
+**Peter J. Kimble** married **Louisa (b. abt 1797, Massachusetts, maiden name possibly "Oler," unconfirmed)** — the couple's own origins remain completely unknown despite four separate research attempts. Their son **John Alexander Kimble (12 Aug 1833, New York – 18 Apr 1924, Dinuba, CA)** married **Lucy Coleman Moore(s) (5 Oct 1840, Westfield, Chautauqua Co. NY – 18 Oct 1920, Dinuba, CA)**, daughter of Samuel Stillman Moores and Mary Colman, on 5 Jan 1856. John worked as a blacksmith and later a windmill manufacturer and rancher; the family moved repeatedly — Minnesota, Virginia, Wisconsin, Illinois, Kansas, Utah, and finally California — chasing his trade.
+
+John and Lucy had thirteen children. Their family suffered a devastating tragedy: on the night of 26 August 1881, a kerosene lamp exploded during a windstorm at their home in Soldier Canyon, five miles outside Stockton, Tooele County, Utah, and the resulting fire killed five of their children — **Franklin Sylvester (age 9), Flora May (age 7), Elizabeth Ann (age 4), and infant twins Albert C. and Earnest A. (about seven weeks old)** — while Lucy and an older son were in a separate cook-house fifty feet away. All five are buried together under a single marker at Stockton Town Cemetery. The family could not stay on afterward; Lucy is remembered as having returned, devastated, toward her daughter Mary Louise's household in Kansas, and the family's next child, Frank Alexander, was born in Glasco, Kansas almost exactly a year later, in 1882. (An older family account had the fire killing five *sons* and the date as 3 August; two contemporary 1881 newspaper accounts — the *Deseret News* and the *Salt Lake Tribune* — and a Find A Grave contributor's biography together confirm the correct date as the night of 26 August, and the actual five victims as those named above.)
+
+The other eight children were: Fanny Caroline (1857–1895, m. Francis Rudolph Hoyer), **Mary Louise** (see the Chapman family above), Ella M. (1860–1910, never married), John Edward (1862–1874, killed by a rattlesnake bite), William Leonard (1865–1950, m. Maria Jane Pangborn — likely the "boy of 13" the newspapers describe as having survived the 1881 fire in charge of the children, though he would actually have been 16 that year), Lucy Voadicia (1867–1867, infant), an unnamed son (1869–1869, infant), and Frank Alexander (1882–1953, m. Julia Adelaide Voss).
+
+---
+
+## Rawson Family (Cynthia Rawson's maternal line)
+
+### The colonial trunk: Edward Rawson to Rev. Daniel Rawson
+
+Robert's late wife Cynthia Ann Rawson's family traces to **Edward Rawson**, Secretary of the Massachusetts Bay Colony from 1650 to 1686 — one of the most senior civil officers in the colony for over three decades. His son **William Rawson (b. abt 1651)**, a Boston dry-goods merchant, married **Anne Glover** (daughter of Nathaniel and Mary Smith Glover of Dorchester) on 11 Jul 1673; the family's "Ancient Rawson Farm" in Braintree, Massachusetts passed down five generations. Their son **Nathaniel Rawson I (1689 – 20 Apr 1731)** married **Hannah Thompson** in 1712 and served as a Mendon, MA selectman and church-building committee member.
+
+His son **Nathaniel Rawson Jr. (27 May 1716, Braintree MA – 23 Jul 1803, West Stockbridge MA)** was a documented **Revolutionary War Minuteman at the Lexington Alarm**, 19 Apr 1775. He married first **Mary Thwing** (m. 1738, d. Nov 1739, shortly after their son Silas's birth) and second **Rachael Daniels** (m. 1740, d. 1802), by whom he had eleven more children — among them **Corp. Moses Rawson (1753–1833)**, whose National Archives pension file documents Revolutionary War combat service in the 9th Massachusetts Line, including the Siege of Fort Stanwix, the Battle of Saratoga, and the Battle of Stony Point under "Mad Anthony" Wayne.
+
+His son by Mary Thwing, **Silas Rawson (17 Nov 1739 – 26 Aug 1819, Palmyra NY)**, married first **Abigail Chapin** (daughter of Joseph Chapin and Mary Nelson) and second, after her death, **Rebecca Fellows**. Silas and Abigail's son **Rev. Daniel Rawson (13 Feb 1770, Conway/Colrain MA – 17 Sep 1824, Washington Co. IN)** married **Polly Strong (1780–1825)** — see the Strong family below — on 1 Sep 1796.
+
+### Anson George Rawson to Silas Anson Rawson
+
+Rev. Daniel and Polly's son **Anson George Rawson (4 May 1797, Scipio, Cayuga Co. NY – 1 Sep 1860, Allen Twp, Noble Co. IN)** married **Frances "Fanny" Isbell (10 Jul 1797, Whitestown, Oneida Co. NY – 23 Apr 1867)** — see the Isbell family below. Anson George is a documented **War of 1812 veteran**, enlisting at Buffalo, NY in Nov 1813 and filing a pension claim in 1858 (certificate #13543). He and Frances had at least eight children: Robert Ira, Richard "Myron," Loretta Laura, Silas Anson (below), Julia, Mary Frances, Albert M., and Phebe Ann (a twin whose sibling was never identified).
+
+- **Robert Ira Rawson (12 Jul 1829, Medina Co. OH – 29 Jan 1901, Steilacoom, Pierce Co. WA)** married Julia Tanner in 1852 and moved to Washington Territory; he spent his final years as a patient at the Western State Hospital (originally the Fort Steilacoom Asylum) and is buried in its memorial cemetery.
+- **Richard "Myron" Rawson (26 Jul 1831, Medina Co. OH – 3 Apr 1911, Fork Twp, Mecosta Co. MI)** married three times in sequence, each following the prior wife's death by about a year: Mary L. Squires (1855, De Kalb Co. IN — children William A. Rawson and twin infants who died young), Julia Thomas (10 Nov 1867, Noble Co. IN — son Edward O. Rawson), and Martha Snyder (McElroy) (25 Dec 1881, Sunfield, Eaton Co. MI — daughter Mary Agnes, 1882–1899). What was once read as a chronologically impossible fourth marriage turned out to be a simple transcription slip (a date misread as "1887" was really "1867").
+- **Loretta Laura Rawson (17 Oct 1824 – 22 Apr 1891)** married twice, a Whitford and then Lewis Holbrook (25 Feb 1869, Noble Co. IN — son Charles Holbrook).
+- **Silas Anson Rawson (1837–1908)** married **Barbara Crone (1843–1919)** — see the Crone family below. Their children include the already well-documented **William Harrison Rawson (21 Nov 1868, Noble Co. IN –)**, who married **Myrtle Bickhart** (see the Suydam/Bickhart family below) — plus Frances Annetta "Nettie" (m. Witherell) and Mable (m. Reames), all three independently well sourced, and a further five children found later via Find A Grave: Clara Irene (Hunter), Herbert W., Laura Loretta (Figg), George Elder, and Walter Crone Rawson. (Two duplicate profiles exist in the tree for both Silas Anson and Barbara Crone — deliberately left unmerged pending Robert's own review, per this project's standing rule against automated tree-merges.)
+
+### William Harrison Rawson to Cynthia
+
+**William Harrison Rawson** and **Myrtle Bickhart (1874–1942)** — her own parents, Orlie W. Bickhart and Margaret ("Maggie") Suydam, are covered under the Suydam/Bickhart family below — had a son, **Silas Asher Rawson (1895–1967)**, who married **Margaret E. Ewing** (see the Ewing family below). Their son **John Rawson Sr. (1922–2008)** married **Marjorie "Margerie" (Schultz) Rawson (1921–2008)** — daughter of Herman August Schultz and Edna Matilda Keown, tying this branch directly to the Kapitzke/Schultz and Keown families above. John and Marjorie divorced at some point and remarried each other on 24 Oct 1983, Tulare, CA (their first marriage was 20 Dec 1946, Santa Maria, CA); the exact date of their divorce has never been found. Their five children were **Donna**, **Cynthia Ann** (Robert's mother-in-law generation — see "Robert's Own Family" above), **John Jr.**, **Jeanette** (who married Stan Koobation, a dentist who died suddenly and young — "a real family tragedy," per Robert; their daughters are Kristy [m. Case] and Jacqui Koobation), and **Robert Rawson**.
+
+### A new branch: Louise Rawson's secret 1950s-era adoption
+
+In September 2026, after this research project's main push had concluded, Robert made contact — through a 2024 Ancestry message he had sent and Lisa Kelly (lisa.kelly2@mac.com) only saw over a year later — with a previously unknown second cousin. The story, per Robert and confirmed in his email correspondence with Lisa: Marjorie "Marge" Rawson (Robert's maternal grandmother, "Nana") had a sister, **Louise Rawson**, who — together with her husband, known only as **Wayne** — had a baby out of wedlock and gave the child up for adoption in New York sometime in the 1950s, evidently keeping it secret even from Marge herself. That child grew up to become **Lisa Kelly's mother** (name not yet known — she predeceased 2025). This makes Lisa Kelly herself a newly-discovered cousin. Robert's own reaction on learning this: "I'm still stunned that we had relatives out there so close and had no idea... I'm still really disappointed Louise and Wayne did what they did. My Nana, her sister was an incredibly sweet person and I hope she didn't know." Marge's other known siblings, per the same correspondence, include Jeanette (Rawson) Krone (m. Ken Krone, two children from an earlier marriage — Kristy and Jackie), Donna Paulsen (Rawson), and John Rawson (m. Erica Rawson). Building out this branch properly — names, dates, and adding Lisa Kelly and her mother to the tree — is captured as an action item in Outstanding Tasks, below, since the details are still being gathered directly from family correspondence rather than from Ancestry records.
+
+---
+
+## Strong Family (via Polly Strong, wife of Rev. Daniel Rawson)
+
+**Elder John Strong (b. ~1611, England – 14 Apr 1699, Northampton MA)** immigrated to New England, losing his first wife almost immediately after landing; his second wife, **Abigail Ford** (m. ~1636, d. 6 Jul 1688), bore him sixteen of his eighteen total children. He became the first ruling elder of the historically significant Northampton, Massachusetts church. Their son **Jerijah Strong (12 Dec 1665 – 24 Apr 1754)** married **Thankful Stebbins** on 10 Jul 1700 (an earlier reading of his birth year as 1693 was an OCR misprint corrected to 1665, which resolves an otherwise-impossible timeline against his mother's 1688 death). Their son **Deacon Seth Strong (4 Apr 1716, Northampton MA – 1792, Great Barrington MA)** married **Lois Strong (1721–1760)**, a cousin sharing the Strong surname, in 1740. Seth is a documented **Revolutionary War Patriot**, serving as a Private in Major Leavenworth's Company, an artillery unit of the Connecticut militia. He and Lois had seven children beyond the line below, including Seth Strong II, Othniel/Othneil Strong (two sons, the first dying in infancy and the name reused for the second, per period custom), Persis, Lavinia, and Elias.
+
+Seth's son **Asher Strong (1741–1813)** is the father of **Polly Strong**, who married Rev. Daniel Rawson (see the Rawson family above) — confirming Seth Strong as Anson George Rawson's great-grandfather.
+
+---
+
+## Isbell Family (via Frances Isbell, wife of Anson George Rawson)
+
+Family tradition, recorded in a 1929 published Isbell genealogy, holds that the surname derives from "Bell" — a 1600s English court case in which a witness's testimony, "It is Bell," so impressed a claimant that he legally adopted "Isbell" as his own surname — and that two Isbell brothers from Yorkshire, England landed at New Amsterdam (Long Island) around 1680.
+
+**Eleasor Isbell 2nd** married **Elizabeth Bishop**; their son **Eleasor Isbell 3rd (b. 1740, Killingworth, Middlesex Co. CT)** served in the French and Indian War (campaigns of 1757–1762) and married **Hannah Parmelee** (probably 1763). He was **killed in action at the Battle of Stillwater**, part of the Saratoga campaign, in early October 1777 — Robert's only confirmed ancestor to die in Revolutionary War combat — leaving Hannah with ten children, the eldest only thirteen.
+
+Their son **Joel Isbell (5 Mar 1766 – 1865)** married **Mary Chatfield** (b. 16 Jul 1774, only daughter of Stephen Chatfield) on 30 Jun 1793, Salisbury, Litchfield Co. CT. Their daughter, recorded in the 1929 genealogy under her everyday nickname "Fanny" rather than her formal name Frances — which briefly caused confusion before the two were confirmed to be the same person — is **Frances "Fanny" Isbell**, who married Anson George Rawson (see the Rawson family above). Joel and Mary's other nine children were Charles (1795–1865, m. Adah Tryan), James, Heman, Naomi, Albert, Joel Jr., Myron, twins Philander and Leander (Leander died young), and Mary.
+
+---
+
+## Ringle / Keesy (Giese) Family
+
+### The Keesy / Giese line
+
+The Keesy family's original surname was **Giese** (also spelled Gysi/Geesey), a name of likely Swiss-German origin. **Henrich Gysi** and **Maria Magdalena Burchardt**, of Germany, were the parents of **Johann Conradt Giese/Gysi (27 Mar 1718, Bad Dürkheim, Rhineland-Palatinate, Germany – 8 Feb 1802, York Co. PA)**, who was brought to colonial Pennsylvania as a child of about nine, around 1727, part of the large wave of German "Palatine" immigration of that era. He married **Maria Agatha Bär (Baer)**. Their son **Henricus Henry Giese Keesy (b. 2 Jul 1762, baptized 25 Jul 1762, York, PA – 1856, Huron Co. OH)** married **Nancy Keesey (1782–)**.
+
+Their son **John Keesy (12 Feb 1804, Moreland Twp, Lycoming Co. PA – 18 Jan 1859, Richmond, Huron Co. OH)** married **Elizabeth Gons (1808 – 21 Sep 1875, Huron Co. OH)** on 3 Apr 1828, Lancaster, PA. Their daughter **Margaret Keesy (1833–1913)** married Matthias Ringle (see below); her nine siblings were Harriet, John Henry, Peter Benjamin Franklin, Noah Miles "Miley," Catharine Jane "Kate" (m. Hershiser, 1840–1863), **Rev. William Allen Keesy (1843–1910)** — a documented Union Civil War veteran of both the 55th and 64th Ohio Infantry — Mary Ann, George Washington, and Sarah Elizabeth "Riddle."
+
+### The Ringle line
+
+**Mathias Ringle Jr. (1775–1810)** married **Charlotta/Charlotte Yockey (1773–1853)**, who remarried a Mr. Lewis after Mathias's death (half-sibling Samuel Lewis, 1816–1902). Their son **David Ringle Sr. (1801, Hempfield, Westmoreland Co. PA – 31 Mar 1881, Attica, Seneca Co. OH)** married twice: first **Mary Sarah "Sally" Holmes (1805 – 16 May 1847)** — very likely the same woman currently recorded in the tree, under her husband's rather than her own maiden name, as "Catharin Ringle" — and second **Catherine Craiglow (1806–1883)**, on 27 Feb 1848, about nine months after Sally's death. David had eleven children across both marriages, including Sarah (m. Boyle, 1830–1853), Lucinda (m. Goodnough), David Jr., William "2nd," Simon, Finley, Samantha (born the same day her mother Sally died, and living less than a year herself), John (1826–1832), Elizabeth (1838–1842), and — by Catherine — Sophia Sharlotte.
+
+David's son **Matthias Ringle (8 May 1832, Seneca Co. OH – 1 Jun 1908, Fairgrove, Tuscola Co. MI)** married Margaret Keesy (above); their children were **Sarah E. Ringle** — who married John Westley Ewing, see below — David Peter, John H., Margaret "Maggie," and Simon Allen.
+
+---
+
+## Ewing Family
+
+**Elam Ewing (b. abt 1820, NY)**, parents unknown, had children including **John Westley Ewing (1847–1925)**, who married **Sarah E. Ringle (1857–1925)** — see the Ringle family above. Their daughter **Margaret E. Ewing** married Silas Asher Rawson (see the Rawson family above). John Westley's siblings included Mary (1846, Canada – 1879, Eaton Co. MI), Willie (b. abt 1856), and Andrew (b. abt 1861) — all from a single, thin, twice-checked source.
+
+---
+
+## Crone Family (via Barbara Crone, wife of Silas Anson Rawson)
+
+**John Crone Sr.** and **Elizabeth Pence**, both natives of Pennsylvania, married at "Little York, Penn." and moved the family to Richland County, Ohio in 1832, where John Sr. worked as a blacksmith. Their son **John Crone (26 Aug 1818, Franklin Co. PA – 1898)** married **Catharine Switzer (27 Feb 1821, Richland Co. OH – 1907)** on 27 Aug 1839. An 1882 county history describes their twelve children, of whom the eldest was apparently **Daniel** (not previously documented), followed by Elizabeth, **Barbara** (who married Silas Anson Rawson, above), Joseph W., Mary J., John S., William H., Sarah A., Amy R., Laura Irene ("Lucy I." in one source, a name-form variant, not a different person), and two who died in infancy — only one of whom (an 1869 infant death) has been specifically identified.
+
+---
+
+## Suydam / Littel / Bickhart Family
+
+**Charles S. Suydam** and **Catharine Ann Suydam** (maiden name possibly Pardun) were the parents of **Margaret "Maggie" (Suydam) Littel/Bickhart (13 Sep 1857, Fairview, Fulton Co. IL – 13 Jun 1945, Los Angeles CA)**, long recorded in the tree simply as "Margaret Littel" — in fact, Littel was the surname of her *first* husband, **John H. Littel** (m. 17 Jul 1875, Fulton Co. IL), not her own maiden name. She later married **Orlie/Orley W. Bickhart** on 26 Oct 1880, Reed City, Osceola/Wexford Co. MI; they divorced 8 Jul 1903, Wexford Co. MI. Maggie and Orlie's children were **Myrtle Bickhart (1874–1942)** — who married William Harrison Rawson, see the Rawson family above — along with Jacob Vernon "Vern" and Milford Charles Bickhart.
+
+---
+
+## Brisby Family
+
+**John Odllon Brisby (1755–1845)** and **Loretta (1755–)** were the parents of **John Brisby (1783–1852)**, who married **Rose F. "Fisher?" Clendennin (1783–1873)** on 19 Jun 1805, Sumner Co., Tennessee. John Brisby is a documented **War of 1812 veteran**, with a pension application file and three separate dated service entries (1812, 13 Nov 1814, 13 May 1815). He and Rose had eight children beyond **William K. Brisby (1824–1909)** — Robert's own line, whose own daughter Emma Mae Brisby married Arthur Rueben Babcock (see the Babcock family above): John Jr., David, Nancy (m. McKee), Anne, Harriet (m. Pettus), Fanny H., and Evaline. A Revolutionary War service record once found attached to John Brisby's own timeline almost certainly belongs instead to his father, John Odllon Brisby — old enough to have served in that earlier war — but no such record has actually been located for John Odllon after two separate, dedicated attempts; this remains unconfirmed and is likely unfindable with currently available sources.
+
+---
+
+## Keown Family
+
+**Thomas Keown (b. 1742, Co. Down, Ulster – d. 8 Jun 1808, KY)** is a DAR-proven Revolutionary War patriot (ancestor #A065094); his own story, and that of his son and grandson's Civil War-era military service, is told in full in the companion paper "Three Keowns in Blue," also in this archive. His son **Nathan Lusk Keown (~1785/87–1873)** served in the War of 1812 (Capt. Thomas Sterrett's Company, Kentucky Detached Militia, New Orleans campaign, 1814).
+
+Nathan Lusk's son **Nathan Jackson Keown (1815, Kentucky – 1896, Ord, Valley Co. NE)** married **Mary Ann Iler (1816/17–1871)**. The family moved from Ohio County, Kentucky to Adair County, Missouri between 1850 and 1853. Their children were: **John Henry Keown (abt 1844–1862)** — a documented Union **Corporal, Co. B, 21st Missouri Infantry**, who died of illness after the Shiloh campaign (an old tree entry placing his death in "Warren, Georgia" as a possible Confederate soldier was mistaken); **Thomas Henderson Keown** (below); **William Bedford Keown (1850–1918)**; **Phoebe E. Keown (b. 1851)**; **Mary E. Keown (1853–1880)**; **Nancy E. Keown (1853–1879)**; and an unnamed infant daughter who died around 1842. A later-documented "Ann Keown" (b. abt 1872, Missouri, confirmed as a real person living in Ord, NE by census record) cannot chronologically be Nathan and Mary Ann's own daughter, since Mary Ann died the year before Ann's birth; the most plausible working theory — untested — is that she is a granddaughter, daughter of Mary E. Keown.
+
+**Thomas Henderson Keown (25 Oct 1846, Ohio Co. KY – 2 May 1933, Arroyo Grande, CA)** enlisted in the 12th Missouri Cavalry alongside his father and older brother in November 1863, fought (per family chapters written by Robert himself) in the Union's Army of the Cumberland campaigns and at the Powder River, and carried a lifelong beard-related scar from an artillery wound. He married **Phoebe Ellen McKinney (1850–1934)** on 14 Jun 1870, Greentop, Schuyler Co. MO. Their six daughters, all now fully identified after a research thread that ran from the very start of this project to nearly its end: **Bertha Stella "Estella" Keown (1873–1940)**, who married Allen W. Perry and had eight children (William New Year, Claude, Tom, Ed, Lester, Charles Bernard, Edna [m. McIntyre], and Marie Ellen [m. Wilson]); **Paul Keown** (1876, infant death); **Ethel Phoebe Keown (1878/79–1966)**, who married a man surnamed Ball and settled in Santa Barbara, CA; **Mary Viola Keown (1881–1939)**, who married a man surnamed Kenyon and died in Santa Cruz, CA, alongside her sister; **Edna Matilda Keown (1886–1974)**, who married Herman August Schultz (see the Kapitzke/Schultz family above); and an unnamed infant son (1890). A one-time "8th child," Estella B. Cowan, turned out to be nothing more than a 19th-century census transcriber's misreading of "Keown" as "Cowan" in Bertha's own childhood household — not a real, separate person.
+
+---
+
+## Phillips / McDougal Family (via Amberleigh Phillips, Robert's first wife)
+
+**William Marion Phillips** and **Lucy Nora "Lenora" Hurst** were the parents of **Carl Simpson/Samuel Phillips (6 Mar 1902, Western Grove/Yardelle, Newton Co. AR – 18 Apr 1969, Newton Co. AR)**, who married **Arda Amy McDougal (23 Jun 1903 – 18 Dec 1989, Newton Co. AR)** — daughter of **Samuel Houston McDougal and Mary Jane McDougal** (maiden name likely Bethany). Carl and Arda's children were **Glen H./Herbert Phillips** (Amberleigh's father — see below), Roy, Jewell, Clennen M. "Climon," and Carlena Jo.
+
+**Glen H. Phillips** married **Barbara Louise Looney** — see the Looney family below. Their daughter is **Amberleigh "Amber" Phillips**, Robert's first wife (see "Robert's Own Family" above).
+
+---
+
+## Looney Family (via Barbara Louise Looney, Amberleigh's mother)
+
+This line traces from an immigrant ancestor remembered in family tradition as "Robert Looney, the Manxman" down through William Clinton Looney, Charley Clinton Looney, and **Lehman Clifton Looney**, who married **Louise Alma** (maiden name possibly Clark, unconfirmed) sometime around 1942–44. Their daughter **Barbara Louise Looney** married Glen H. Phillips (see the Phillips/McDougal family above). Her siblings include **Jerry Wayne Looney** (killed in action, Vietnam) and **Larry Looney**, both already well documented, plus two more brothers, **Michael** and **Gary C. Looney**, named in an outside source but never record-verified. A separate "Marvin Henry Looney (b. 22 Mar 1916, Dalton, AR)," sharing Lehman Clifton's own birthplace, may be a cousin but has never been definitively connected.
+
+---
+
+# Outstanding Tasks
+
+Two different kinds of open items live in this document. Genuinely unresolved *research questions* (e.g., "what Irish county did Ann Blackwell come from?") are kept inside each family's own section above, right next to the person they concern — that's where a future researcher picking up a specific thread will look first. This section is different: it's a checklist of concrete *actions* — things a person needs to actually go do (mail a letter, make a phone call, click a button, evaluate a DNA match, upload a photo) — gathered from across the entire research log.
+
+## 1. Ancestry tree data-entry backlog (the big one)
+
+Starting around session 33 of the autonomous research push (roughly 2026-09-11/12) and continuing through at least session 122 (2026-09-13, the last time it was retested), Ancestry's own "Add fact" / "Add family" / hint-review write functions stopped working. Every session after that point kept finding and fully sourcing new genealogy — dozens of new people, several documented Revolutionary War Patriots, multiple corrected dates and identities — but almost none of it was ever actually entered into the live Ancestry tree. It only exists in this log (and the memory file behind it) as a "ready-to-enter" backlog.
+
+- [ ] **Check whether Ancestry's write UI is working again.** Try "Add fact" or "Add family" on any profile.
+- [ ] **If it's working: work through the full backlog, family by family.** A complete, itemized checklist — organized into the same 18 family groups as the Family Histories section above, each item tagged CONFIRMED / UNCONFIRMED / DECISION / OPEN QUESTION — has been compiled separately as `Ancestry Backlog Checklist.md` in this same folder, so it doesn't need to be reproduced here. In rough terms it covers: the full colonial Rhode Island Babcock trunk (17+ siblings, 20+ children, two documented Revolutionary War Patriots, and Peleg W. Babcock's own possible third-Patriot status); Solomon Babcock's doubled family (8 new children + a 2nd wife); Curtis Babcock's children and the Loranda Randall/Goodman naming decision; a large Babcock collateral-descendants housekeeping list (marriage dates, a missing daughter, an adoption to flag, a name correction); the Brand, Blackwell, Schlottach, Kapitzke/Schultz, Chapman, and Kimble families' own backlogs; and the entire Rawson-side deep-colonial trunk (Strong, Isbell, Ringle/Keesy, Ewing, Crone, Suydam/Bickhart, Brisby, Keown, Phillips/McDougal, and Looney families) — five separately-documented Revolutionary War Patriots, two War of 1812 veterans, and a documented Union Civil War Corporal among them.
+- [ ] **Whether or not the UI is fixed, decide on the "Loranda Randall vs. Goodman" labeling** for Curtis Babcock's wife (see the Babcock family section) — this is a judgment call, not a missing fact.
+- [ ] **Merge the two duplicate Silas Anson Rawson profiles** (pids 252807338542 and 252807340312) **and the two duplicate Barbara Crone profiles** (252807338543 and 252814111365) — deliberately left unmerged throughout this project per the standing rule against automated tree-merges (an earlier PersonMatch merge once collapsed two generations into one incestuous-looking record). This needs a person, not a script.
+- [ ] **Apply the "Common DNA Ancestor" MyTreeTags badge** to about 15 pre-existing ancestors that never got it: Arthur R Babcock, Emma Mae Brisby, Fredrick W Chapman, Mary Louise Kimble, William H Rawson, Myrtle Bickhart, John W Ewing, Sarah E Ringle, William Scholtz, Thomas H Keown, Phoebe E Keown, Silas Asher Rawson, Margaret E Ewing, Herman A Schultz, Edna M Keown.
+- [ ] **Split the tree's single "Margretha Brand" profile into two correct people** — Elisabeth Regner Brand (Jacob Emil Brand's real mother, d. 1879) and a separate second wife (m. Joseph Brand 1880, d. 1902) — see the Brand family section for the full detail. This is a genuine tree-correction task, not just an addition.
+- [ ] **Remove incorrect sources sitting on Arthur Rueben Babcock's profile** that actually belong to a different man, Arthur Roy Babcock (the once-suspected, since-disproven "wrong Arthur" branch) — two 1900 Mason City census entries and any Family History Books citation tied to Mason City, IA.
+- [ ] **Fix Robert Shaun Babcock's birthday in the tree to 25 Aug 1999** — confirmed directly by Robert, but per the log's own account this correction was never actually made in Ancestry.
+- [ ] **Add Sandra Kay Babcock Walsberg as a child of Stanley Ross Babcock + Bernadine Brand** in the live tree — currently missing from that relationship (only Robert Stanley Babcock shows as a child).
+- [ ] **Fix Paul Babcock's relationship to Ed & Carol Babcock** to reflect that he is Carol's biological son whom Ed adopted — currently entered as a plain biological child since Ancestry's quick-add flow has no adoption flag.
+- [ ] **Update Janet Elaine Cummins's status** from "Living" to "Deceased, abt. 2024, Montana."
+
+## 2. Records requests, calls, and correspondence with organizations
+
+- [ ] **Follow up on the Rome, NY death-certificate request (#46049) for Ann Blackwell**, mailed to the Rome City Clerk around 2026-09-08. Check whether a reply has ever arrived; if it's been more than a few weeks with no answer, follow up by phone or a second letter.
+- [ ] **Follow up with St. Agnes Cemetery of Utica** (Anne, stagnescemeteryutica@gmail.com) about Ann Blackwell's burial ledger — she already located the grave (Map 3, Section 48, Tier 11, Grave 459) and reported the burial record names parents only as "Patrick and Catherine," no surname. Worth asking whether the original ledger, now that the office's post-fire disruption has passed, has any further detail (a nativity/county column, a next-of-kin note).
+- [ ] **If the above two don't pan out, try the two alternate routes already identified but never contacted**: the Diocese of Syracuse Catholic Cemeteries central office (2315 South Ave, Syracuse NY, 315-475-4639) and the Oneida County Historian's Office (1608 Genesee St., Utica, 315-735-3642).
+- [ ] **Decide whether to arrange a headstone for Ann Blackwell**, now that her exact grave plot is known — she has had none for 120 years. Robert has expressed wanting to physically visit the grave; this could be combined with that trip.
+- [ ] **Physically visit Ann Blackwell's grave**: St. Agnes Cemetery of Utica, Map 3, Section 48, Tier 11, Grave 459.
+- [ ] **Call the Illinois State Archives (217-782-2647)** and request the "Commitment Papers, 1851–1943" (Record Series 252.003) for Curtis Babcock's admission to the Jacksonville, IL state hospital on 26 Jan 1858 — this record series names parents, but the file is legally closed and requires a close-relative/genealogical request (possibly a court order). Note: a records-request letter for Curtis Babcock was separately drafted and appears to have been sent to the Illinois State Archives already (see "Illinois State Archives Records Request - Curtis Babcock.docx/.pdf" in this folder) — check whether a reply to that letter has come in before making the Commitment Papers call, since it may already cover this.
+- [ ] **Search Cortland Co., NY marriage records for a "Babcock–Davis" marriage** — this would identify the given name of Curtis Babcock's previously-unknown sister, who married a Mr. Davis and lived in Stephenson Co., IL by 1858.
+- [ ] **Contact the owner of the "Griggs Family Tree" on Ancestry (username garylgriggs)** about Martin Schulz (William F.E. Schultz's father, b. Pressen, Saxony) — his tree is set to private, blocking a documented 112-centimorgan DNA match's line from being added.
+- [ ] Low priority / long shot: **Stephenson Co., IL Probate Claim Dockets, 1848–1859 and 1864–1865** (IRAD–Northern Illinois University, 815-753-1807) — a possible guardianship record for Curtis Babcock, though unlikely given he had no estate.
+
+## 3. New branch to build: Louise Rawson's 1950s-era adoption
+
+Robert flagged this live on 2026-09-14 after reconnecting with a newly-found cousin over email — see the Rawson family section above for the full story. Concrete next steps:
+
+- [ ] **Get Lisa Kelly's mother's full name, birth date, and birth/adoption location** (New York) — check later messages in the same Gmail thread with Lisa Kelly (lisa.kelly2@mac.com), subject lines "Ancestry Message/Reply - Lisa Kelly" and "Switching to real email and some photos," and any photo attachment filenames, for a name; may ultimately need to just ask Robert or Lisa directly.
+- [ ] **Add Louise Rawson (Marjorie "Marge" Rawson's sister) and her husband Wayne (surname unknown)** to the tree as a couple, if not already present.
+- [ ] **Add their child (Lisa Kelly's mother) as their daughter**, flagged as biological-but-adopted-out (she is Louise and Wayne's own biological daughter, placed for adoption — the adoptive family she grew up with does not belong in this tree).
+- [ ] **Add Lisa Kelly herself** as a new person, child of that daughter, completing the reconnected branch.
+- [ ] **Check whether Jeanette (Rawson) Krone, Donna Paulsen (Rawson), and John Rawson + Erica Rawson** (Marjorie's other siblings, all mentioned in the same email exchange) are already in the tree under the Rawson family section — add or link if missing.
+- [ ] **Keep this a private, Research-Notes-only story for now** — it involves living people and a secret kept even from close family; per this project's standing rule, do not put it in any shared family document or public-facing tree note unless Robert says otherwise.
+
+## 4. Photos, scans, and scrapbooks still to digitize or upload
+
+- [ ] **Upload the finished narrative documents** already written and delivered — "Three Keowns in Blue," "The Girl from the Poorhouse" (4th edition), "Ann Blackwell – Life and Headstone Reference," "The Chapman Family Album – Findings," and "From Westerly" — to the relevant people's Ancestry media galleries, if this hasn't already been done for each.
+- [ ] **Upload the Bernadine/Stanley scrapbook photo scans** to the roughly 62 people's Ancestry galleries whose text-only "Research Notes" were completed during the 2026-09-08/09 documentation pass — the actual photo images were never attached as media.
+- [ ] **Upload the two SS Scotland ship images** (already saved locally in this folder) to Ann Blackwell's Ancestry gallery — never uploaded because there was no reliable way to automate a native file-picker dialog.
+- [ ] **Finish reviewing Aunt Sandi's remaining photo batches**: roughly 67 of the 87 "Extra Treasures" scrapbook photos were never individually reviewed, and the separate "Chapman scrapbook" Sandi mentioned scanning (over half photographed as of her last report) still needs a full pass once she finishes sending it.
+- [ ] **Ask Sandi whether she's found photos naming Wallace Weaver's two children** — she indicated more scrapbook pages might identify them.
+
+## 5. DNA / ThruLines leads not yet evaluated
+
+- [ ] **Individually evaluate a batch of ThruLines-suggested ancestor pairs** queued back on 2026-09-04 and never opened: Wm Grisham + Nancy James; Josephus Keck + Anna Neuberger; Johann Kottwitz + Katharina Gutwein; Wm Sewell + Sarah Lacey; Pleasant Pryor + Nancy Pryor; Frederick Sweitzer + Anna Stukey; Henry Suydam + Margaret Williamson; Isaac Pardun + Mary Ann Provost; George Gons; William Likens + Elizabeth Smith; Jacob Mark Iler + Mary Payne; Charles W. Cayce + Catherine Johnson; Joseph J. McKinney + Mary Hutt; Hugh John Larkin; Seymour H. Knapp + Elizabeth Wright; Mary Jane M. Cairns; Louisa Schreider; Mary Millers. (Most of the other names from that same original queue turned out to be independently rediscovered and resolved later — these are the true leftovers.)
+
+## 6. Questions still to send to family (Dad, Sandi, Kristi, Karen)
+
+Robert held a batch of follow-up questions back on 2026-09-09, planning to send them "in a couple of days" — most were later answered directly by Dad and Sandi's replies, or resolved by later research, but a handful never got sent and are still genuinely open:
+
+- [ ] Wallace Weaver's two children's names (Gertrude's grandchildren).
+- [ ] How are Ivey/Ivy Horne and Hugh Moffett (both funeral pallbearers) connected to the family?
+- [ ] Who is "Dan Chapman," who visited Bernadine in Portland to copy the Chapman scrapbook — reportedly a son of one of Mary Ella Chapman's brothers, but which brother is unconfirmed.
+- [ ] Is "Worley Weaver" (Darlene Brown's husband, per family narrative) the same person as "Worley Wheeler" (a funeral pallbearer), or two different men?
+- [ ] What was the name of Ed(die) Babcock's first wife (who died from an illegal abortion after an affair)? Never given, even by family, beyond "Donna."
+- [ ] Was Alta May Maple's maiden name actually "Maple," or does the "daughter of Mr. and Mrs. Abe Strauss" detail from a separate clipping mean her stepfather was a Strauss? Worth checking against the original clipping if it still exists.
+- [ ] Is "Tina" (grouped with Alta/Sherry/Bill/Rick in a floral-tribute signature) a fourth child of Marvin Bruce Babcock + Alta, or an in-law?
+- [ ] Reconcile the "Kristi/Kristy/Krissie" name variants (St. Martin, Case, Aylward) found tagged as cousins on Robert's own Facebook — likely all the same person (Kristine Ann Munday) under different name forms, or possibly a second, unresearched branch of cousins through Doug Munday's own family; worth a direct question rather than guessing.
+- [ ] Is Pamela (Robert Sr.'s second wife)'s daughter's surname "Schmitgal" or "Schultz" (both appear across different family records)?
+- [ ] Is Susan Diane Babcock's birth year 1957 or 1952 (both appear in different sources)?
+
+## 7. Administrative / housekeeping
+
+- [ ] **Verify Wallace Weaver's wife's Ancestry Name field** directly — the log contains conflicting statements about whether it was actually changed from "LoJuanda" to "LoJuanda 'Jerry'" via Quick Edit, or whether it's still literally "LoJuanda." Don't assume either without checking.
+- [ ] **Retest whether an "Add family"/"Add fact" dialog now works** on a profile that was manually entered mid-outage (Robert Ira Rawson's Research Notes were found fully written up partway through the outage, most likely entered by Robert himself directly — worth finding out from Robert whether the site was actually working for him at that point, which would help pin down exactly when the outage started clearing).
+
+---
+
+# Session Log
+
+This section is the complete, chronological research journal this project was built from — the original material this whole document used to consist of, in full, in order, lightly reformatted for consistency but otherwise unchanged in substance. It runs from the very first live-editing session (2026-08-30/31) through 128 numbered autonomous overnight research sessions (2026-09-11 through 2026-09-14). If a fact in the Family Histories section above was corrected, debated, or discovered through a winding path, the full story — including the superseded versions, the false leads, and the negative results — is preserved here.
+
 # Robert Babcock Family Tree (Ancestry.com)
 
 **Tree**: "Robert Babcock Family Tree", tree ID 101867177. Root: Robert (b. 1945 father) / mother Cynthia Ann Rawson (1949–2002).

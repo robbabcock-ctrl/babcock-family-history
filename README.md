@@ -8,11 +8,20 @@ can read, search, and reuse everything in it.
 
 ## What's here
 
-- **`Research Log - Master Notes.md`** — the master, chronological research journal. This is
-  the single most complete record of everything learned: every person researched, every source
-  checked, every conclusion reached (and every open question still unresolved), plus the
-  research techniques and pitfalls discovered along the way. Start here if you want the full
-  story of the project.
+- **`Research Log - Master Notes.md`** — the master research document, reorganized (2026-09-14)
+  into three parts: a **Family Histories** section (one part per surname line — Babcock, Brand,
+  Blackwell, Schlottach, Kapitzke/Schultz, Chapman, Kimble, Rawson, Strong, Isbell, Ringle/Keesy,
+  Ewing, Crone, Suydam/Bickhart, Brisby, Keown, Phillips/McDougal, Looney — stating what's
+  currently known, plainly, generation by generation), an **Outstanding Tasks** checklist (records
+  requests, DNA leads, photos still to upload, and the like), and the full **Session Log** — the
+  original chronological research journal, preserved in full for anyone who wants to see exactly
+  how a fact was found or corrected. Start with the Family Histories section for "what do we know
+  about the [surname] family"; use the Session Log for the full research trail.
+
+- **`Ancestry Backlog Checklist.md`** — a detailed, family-by-family checklist of genealogical
+  facts that were fully researched and sourced but never actually entered into the live Ancestry
+  tree (Ancestry's own write UI broke partway through this project's autonomous research push).
+  Referenced from the main log's Outstanding Tasks section rather than duplicated there.
 
 - **Narrative write-ups (`.docx` / `.pdf`)** — polished, readable accounts pulled together from
   the research log for specific people or family lines:
