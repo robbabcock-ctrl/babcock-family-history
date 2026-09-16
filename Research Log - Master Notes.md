@@ -3048,3 +3048,14 @@ Robert's instruction: "Keep searching records in the three towns and surrounding
 **What this means for the Tallanstown lead:** Robert Blackwell and Rose Blackwell are confirmed residents of Tallanstown parish in 1847, and Thomas + Nat. Blackwell confirm a Blackwell family there since at least 1827, but their own marriage (if any) did not take place in this parish. The next most useful step for this specific family would be re-checking the **Tallanstown baptism register's** still-unread year ranges (1835-1841 and 1848-1854) for a directly-named "Ann, daughter of Robert Blackwell" entry, rather than more marriage-register searching here.
 
 **Not yet done**: full systematic re-check of Tallanstown 1835-1841 and 1848-1854 (only spot-checked so far); Tallanstown's marriage and death registers (separate from the baptism one used here); Limerick and Clare candidates still entirely untouched; 1901 Ireland census still blocked by the unreachable census.nationalarchives.ie site.
+
+## Tallanstown baptism register, 1848-1849: a second child confirms the Blackwell family, plus two more Blackwell sponsors (2026-09-16, continued)
+
+Moved to the Tallanstown baptism register's unchecked 1848-1854 gap (image `05602_06_0055` onward), looking specifically for a direct "Ann, daughter of Robert/Rose Blackwell" entry. Found instead a cluster of further confirmation:
+
+- **16 May 1849** (image `05602_06_0056`): *"Robert [M'Cue], of Pat & Rose Blackwell; Sponsors: Wm. Blackwell & [Cath—unclear]."* This is a **second child** of the same Pat M'Cue/McKee & Rose Blackwell couple from the March 1847 baptism (that first child was named James) — the new child is named **Robert**, very plausibly after the "Robert Blackwell" who sponsored the 1847 baptism, a common Irish naming pattern honoring a maternal uncle or grandfather. The sponsor this time is **William ("Wm.") Blackwell** — a fourth individual of the surname.
+- **21 July 1849** (same image, right column, unrelated family): a baptism for a child of James & Mary McCabe lists sponsors **"Richard Blackwell & [name unclear]."** — a fifth individual of the surname, evidently unrelated to the M'Cue/Blackwell household directly but confirming the surname was common enough in the parish to be tapped as godparents by other families too.
+
+**Running tally of named Blackwell individuals confirmed in Tallanstown parish, 1827-1849**: Thomas (m. 1827), Nathaniel/"Nat." (1827 witness), Rose (mother, 1847 & 1849), Robert (1847 sponsor), William (1849 sponsor), Richard (1849 sponsor). This is a real, sizable Blackwell family/kin-network in the parish — not a one-off. Still no entry has directly named an "Ann Blackwell" or "Ann M'Cue" (Pat and Rose's own daughter, if one exists) yet.
+
+**Next**: continue this same baptism register forward from 1850 through 1854 (the remainder of Ann's estimated birth window) specifically watching for a third M'Cue/Blackwell child, ideally a daughter named Ann.
