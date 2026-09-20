@@ -3240,3 +3240,32 @@ Used this to clear both of the Appendix's specific pending uploads:
 **Why this matters beyond these two files**: the same technique should unblock the much larger ~62-profile Bernadine/Stanley scrapbook photo backlog (Appendix, still open) — that item was previously stuck for the same file-picker reason. Scale is the open question there, not feasibility: it needs the actual photo files located and matched to the correct ~62 people before a batch upload pass makes sense. Not started this session.
 
 Also checked the two decisions still awaiting Robert (Lisa Kelly's own email — sent; the second draft to Robert's aunts/uncles — held) and Gmail for anything new: no reply yet on either front as of this check.
+
+## Bernie's scrapbook — all 49 photos uploaded to Ancestry (2026-09-20)
+
+Followed through on the note above and cleared the ~62-profile photo-upload backlog item as far as the Bernie (Bernadine Brand Babcock) scrapbook is concerned — the exact 39+10-page, 49-file set fully transcribed back in the 2026-09-07/08 sessions but never attached as actual images to anyone's Ancestry gallery.
+
+**Method**: opened each of the 49 photos directly, matched its captions/content against the already-published transcription in this log (the "BERNIE'S SCRAPBOOK" and "SCRAPBOOK RE-SWEEP" sessions above), and uploaded each to the single most relevant profile's gallery via the `file_upload` browser tool + Ancestry's Add Media flow (Save on each slide, then Done). Pages covering more than one person (group photos, joint wedding pages, a shared "parents' deaths" page) went to whichever person the page was most centrally about, rather than being duplicated across every person pictured — keeping the job to one upload pass per file.
+
+**Final tally (44 uploads; 5 exact duplicate camera shots skipped)**:
+- Arthur Rueben Babcock — 2
+- Emma Mae Brisby — 3
+- Charles Frederick Sindlinger — 4
+- Rawleigh Oliver Babcock — 11
+- Stanley Ross Babcock — 7
+- Robert Stanley "Bob" Babcock — 2
+- Robert Scott Babcock (Robert himself) — 1
+- Robert Shaun Babcock — 1
+- Dylan Alan Babcock — 1
+- Rosalie Leota Babcock — 6
+- Harvey Louis Cummins — 1
+- Janet Elaine Cummins — 3
+- Diane Lee — 1
+- Mary Ella Chapman — 1
+- Gertrude Babcock — 1
+
+Every profile's gallery was re-loaded fresh afterward and the file list confirmed present, not just assumed from the upload dialog.
+
+**New technique note**: Rawleigh Oliver Babcock's own gallery page had a reproducible failure where the "Add media" button's normal click never opened the file-picker modal (~10 straight retries failed, on two different browser tabs). Worked around it by executing the click via `javascript_tool` instead of a simulated mouse click (`document.querySelectorAll('button')`, find the one with text "Add media", call `.click()` directly on the DOM node) — this opened the modal reliably every time afterward on that same page. Worth trying first if a future session hits the same silent "Add media"/"Add family"-style dialog failure that's been documented a few times now in this project.
+
+**Not covered by this pass**: Aunt Sandi's separate "Extra Treasures" 87-photo batch and the still-not-fully-reviewed Chapman-family album, both referenced elsewhere in this document — this session was scoped specifically to the Bernie scrapbook. The same upload technique applies whenever those get tackled.
