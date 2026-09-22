@@ -9,9 +9,3 @@ Ann_Blackwell_Rome_NY_Application_FILLED.pdf
 # Newspapers.com page scans - copyrighted, redistribution prohibited by their terms
 # Keep these local-only; never commit to this public repo
 Research Images and Documents/Robert's Athletic History/
-
-# Sensitive findings awaiting Robert's go-ahead before publishing (living immediate family, etc.)
-# NEVER commit these to the tracked research log until he approves - "commit locally, hold the push"
-# was tried once and failed because `git push` sends the whole branch, not just one commit.
-# Keep pending-review content here instead, where it can never accidentally reach the public repo.
-Pending Review - Not Yet Approved.md
