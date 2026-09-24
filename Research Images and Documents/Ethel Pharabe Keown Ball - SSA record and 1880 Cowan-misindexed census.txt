@@ -1,0 +1,71 @@
+Ethel Pharabe Keown (m. Ball), b. 3 Sep 1879 (SSA)/3 Sep 1878 (obituary/CA Death Index), Cloud
+County, Kansas - d. 10 Oct 1966, Santa Maria, Santa Barbara Co. California
+Daughter of Thomas H. Keown + Phoebe Ellen McKinney; sister of Edna Matilda (Keown) Schultz.
+
+=== U.S., Social Security Applications and Claims Index, 1936-2007 ===
+Ancestry collection 60901, record 9508785
+
+Name: Ethel Pharabe Ball [Ethel Pharabe Keown]
+Birth: 3 Sep 1879, Cloud Co, Kansas
+Father: Thomas H Keown
+Mother: Phoebo E McKinney
+SSN: 556705214
+Notes: Apr 1963: Name Listed As Ethel Pharabe Ball
+
+=== U.S., Newspapers.com Obituary Index -- full obituary ===
+Image saved: Ethel Pharabe (Keown) Ball obituary - Arroyo Grande Valley Herald Recorder 20 Oct 1966.jpg
+The Arroyo Grande Valley Herald Recorder, Thu 20 Oct 1966, page 13
+
+Full transcription:
+
+"Mrs. Ethel P. Ball
+
+ORCUTT -- Funeral services for Mrs. Jesse Ball (Ethel Keown) 88, of Orcutt, were held last
+Thursday afternoon in the Dudley-Hoffman Chapel in Santa Maria. The Rev. Herman W. Walters of the
+First Foursquare Church officiated at the chapel service and also at the final graveside rites in
+the Arroyo Grande District cemetery where interment took place in the Ball family plot.
+
+Mrs. Ball died Oct. 10 in a Santa Maria hospital after several months of failing health. She was
+born Sept. 3, 1878, in Cloud County, Kansas, and came to Arroyo Grande with her late parents,
+Thomas E. and Phoebe Keown, in March, 1896. She lived in Arroyo Grande until 1907 when she and her
+late husband moved to the Santa Maria-Orcutt area.
+
+Survivors are a daughter, Mrs. Bob Simmons, (Myrth) of Orcutt; a son, Charles Ball of Gardena; six
+grandchildren, 15 great-grandchildren, one great-great-grandchild [text cuts off at column edge]."
+
+This DEFINITIVELY resolves the "location disputed" note on this checklist item: Ethel's death and
+obituary are correctly placed in Santa Maria / Orcutt, Santa Barbara County, California (NOT any
+other location previously considered across two research sessions). Also newly confirms: her
+husband was named Jesse Ball; the family arrived in Arroyo Grande in March 1896 (one year earlier
+than the "1897" date given in Thomas & Phoebe's own 61st-anniversary article -- minor discrepancy
+between two independent sources, both plausible); she and Jesse moved to Santa Maria-Orcutt in
+1907; children Myrth (Mrs. Bob Simmons) and Charles Ball.
+
+=== 1880 U.S. Federal Census -- misindexed as "Cowan" (item 116) ===
+Ancestry collection 6742, record 26379497
+No image saved -- Ancestry's HighQuality image-download API returned repeated HTTP 503 errors
+(the same broader, apparently transient outage noted elsewhere in this project today).
+
+Name (as misindexed): Ethel S. Cowan
+Age: 1 (b. abt 1879), Birthplace: Kansas
+Home in 1880: Nelson, Cloud, Kansas, USA / Dwelling Number: 99
+Relation to Head: Daughter
+Father's Name: Thos. H. Cowan / Father's Birthplace: Kentucky
+Mother's Name: Phoebe E. Cowan / Mother's Birthplace: Iowa
+
+Household:
+- Thos. H. Cowan, 35, Head (= Thomas H. Keown)
+- Phoebe E. Cowan, 29, Wife (= Phoebe Ellen McKinney Keown)
+- Estella B. Cowan, 7, Daughter (likely = Bertha Stella Perry, b. ~1873 -- see separate checklist
+  item for her Find A Grave; note the first/middle names appear reversed between this census
+  entry "Estella B." and her later-life name "Bertha Stella," a common pattern)
+- Ethel S. Cowan, 1, Daughter (= Ethel Pharabe Keown, this record's subject)
+
+Citation: Year: 1880; Census Place: Nelson, Cloud, Kansas; Roll: 377; Page: 304d; Enumeration
+District: 047
+
+NOTE: "Cowan" is clearly a transcription/indexing error for "Keown" (misread capital K as C, and
+the "eow" as "owa"). This single record resolves TWO checklist items at once: it is the "Cowan"
+misindexed household being sought, AND it independently corroborates Bertha Stella Perry's
+approximate birth year (~1873, consistent with age 7 in the 1880 census) alongside her sister
+Ethel.
