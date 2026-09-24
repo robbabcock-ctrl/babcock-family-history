@@ -50,7 +50,7 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 - [ ] Peleg W. Babcock's U.S. War of 1812 Service Record
 - [ ] Peleg Babcock's actual will page image (only an index/transcription used so far — Franklin Co. probate Book B pages ARE saved, confirm this is/isn't the same document)
 - [ ] *Pioneer History; or, Cortland County and the Border Wars of New York*, H.C. Goodwin, 1859, HathiTrust `loc.ark:/13960/t12n5c884` — p.215 (Peleg Jr./Solomon/Asa Howard settling lot 82) and p.210 (Asa Babcock's Ohio move). **Different book** from the already-saved `cortland1885.txt`.
-- [ ] "A Catalogue of Baptisms administered by Elder Alfred Bennett, Pastor of the Baptist Church in Homer, N.Y." — names Solomon Babcock's family
+- [ ] "A Catalogue of Baptisms administered by Elder Alfred Bennett, Pastor of the Baptist Church in Homer, N.Y." — names Solomon Babcock's family. SEARCHED, NOT FOUND: HathiTrust full-text search and archive.org both turned up "Memoir of Alfred Bennett" (H. Harvey, 1852) as the likely companion source, but its OCR text search for "Babcock" returns 0 results (checked archive.org/details/memoirofalfredbe00harv) — either a different edition contains the catalogue as an appendix and this copy doesn't, or it's a genuinely separate, unlocated pamphlet. Needs a fresh search angle next session.
 
 ## Curtis Babcock / Solomon Babcock line (Cortland Co., NY → Illinois)
 
