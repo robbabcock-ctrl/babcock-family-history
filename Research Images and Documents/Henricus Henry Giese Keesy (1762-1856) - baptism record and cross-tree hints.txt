@@ -1,0 +1,46 @@
+Henricus Henry Giese Keesy (2 Jul 1762, York, York Co. PA - 2 Jan 1856, Richmond, Huron Co. OH)
+Robert's own Ancestry tree (101867177), person ID 252814880120
+Father of John Keesy (1804-1859) -- see companion file "John Keesy (1804-1859) - cross-tree, Find
+A Grave, and Seneca County biography.txt"
+
+=== Pennsylvania and New Jersey, U.S., Church and Town Records, 1669-2013 ===
+Ancestry collection 2451, record 7371203 (image 40355_267443-00179)
+No image file saved -- Ancestry's HighQuality image-download API returned repeated HTTP 503
+errors across several unrelated records this session (a broader, apparently transient outage);
+transcription below is from the record's own structured detail page.
+
+Name: [Henricus Keesy] / Henricus Guessy
+Event Type: Baptism
+Birth Date: 2 Jul 1762
+Baptism Date: 25 Jul 1762
+Baptism Place: York, York, Pennsylvania, USA
+Denomination: United Church of Christ
+Organization: Trinity Reformed Church (United Church of Christ)
+Father: Conrad Guessy
+Mother: Maria Aget Guessy
+
+This confirms the exact baptism date (25 Jul 1762, 23 days after birth) already noted in the
+Research Log and the tree, plus the specific church (Trinity Reformed Church, York PA) and his
+parents' names in this original Germanic spelling: Conrad Guessy and Maria Aget Guessy (matching
+"Johann Conradt Giese" and "Maria Agatha Bar" elsewhere in the tree -- "Guessy"/"Giese" are
+variant Anglicized/Germanic spellings of the same surname).
+
+=== Other hints from the same tree profile (for context, not separately pursued in depth) ===
+- Geneanet Community Trees Index: independent cross-tree match, same birth/death/parents.
+- York County, Pennsylvania, 1745-1800 First Reformed (Trinity) Church: "Henricus Guessy" (same
+  baptism record indexed a second time under a slightly different collection name).
+- Dauphin County, Pennsylvania Church Records: "Heinrich Giesse," residence Dauphin, PA.
+- 1810 US Census: "Henry Geesey," Upper Paxton, Dauphin, Pennsylvania, 6 Aug 1810.
+- 1840 US Census: "Henry Keery," Cadiz, Harrison, Ohio.
+- "Keesy/Kessler Family Tree" cross-tree match: same birth/death dates, death place given more
+  precisely as "Plymouth, Richmond Township, Huron, Ohio."
+- U.S., Find a Grave Index: "Henry Keesy," b. 1762 Pennsylvania, d. Jan 1856 Huron Co. Ohio,
+  burial Willard, Huron County, Ohio -- same burial town as his son John Keesy (Willard, Huron
+  Co. OH), consistent with father and son being buried in the same area. Child listed: John Keesy.
+- Pennsylvania Newspapers.com Stories and Events Index (AI-parsed, may contain errors): "Henry
+  Geesy," residence 7 Apr 1821, Harrisburg, Pennsylvania.
+- A member-submitted photo "Henry Keesy" (submitted 1/21/2021) attached to a tree profile
+  "Henricus Gysi/Giese/Gees" -- not individually opened this session.
+
+Full family per Robert's tree: Henricus Henry Giese Keesy (b. 2 Jul 1762 York PA - d. 2 Jan 1856
+Richmond, Huron Co. OH) m. Nancy Keesey (b. 1782). Son: John Keesy/Keseay (1804-1859).

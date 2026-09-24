@@ -1,0 +1,74 @@
+John Keesy / John Keseay / "John Keesey Giese" (12 Feb 1804, Moreland Twp, Lycoming Co. PA -
+18 Jan 1859, Richmond Twp, Huron Co. OH)
+Robert's own Ancestry tree (101867177), person ID 252810758982
+Son of Henricus Henry Giese Keesy (1762-1856) + Nancy Keesey; father of Rev. William Allen Keesy
+(already saved elsewhere in this project) and Margaret Keesy Ringle (links to the Ringle family).
+
+=== Cross-tree match: "Giesey Vradelis Family Tree" ===
+Name: John Keesey Giese
+Birth: 12 February 1804, Moreland, Lycoming, Pennsylvania, USA
+Death: 18 January 1859, Richmond Township, Huron, Ohio, USA
+Father: Henricus Henry Giese Keesy / Mother: Nancy Keesey
+(Independent cross-tree confirmation of the same parents and dates already in Robert's tree.)
+
+=== U.S., Find a Grave Index, 1600s-Current ===
+Name: John Keesy
+Birth: 18 February 1804, Westmoreland County, Pennsylvania, USA (tree has 12 Feb 1804, Lycoming
+Co. -- Find A Grave's index shows a slightly different county/day, likely a transcription
+variance)
+Death: 18 January 1859, Huron County, Ohio, USA
+Burial: Willard, Huron County, Ohio, USA
+Father: Henry Keesy / Spouse: Elizabeth Keesy / Child: Sarah Elizabeth Riddle
+(Several other member photos are attached to this Find A Grave memorial per the hints panel:
+multiple "Grave Marker" and "Cemetery Info" photos submitted 2018, and a "Story" submitted 2012 --
+not individually retrieved this session, but confirm an active, maintained memorial exists.)
+
+=== "History of Seneca County, Ohio" biographical sketch (U.S., Family History Books collection) ===
+No image file could be saved for this record -- Ancestry's own HighQuality image-download API
+returned repeated HTTP 503 errors across multiple records this session (a broader, apparently
+transient Ancestry-side outage affecting several different collections), and a canvas-export
+workaround only produced a low-resolution, illegible screen-buffer capture. The transcription
+below was read directly off the on-screen rendered page at high zoom and is considered the
+complete capture of this source pending a future retry of the image download.
+
+Full title: "History of Seneca County, Ohio: Containing A History of the County, Its Townships,
+Towns, Villages, Portraits of Early Settlers and Prominent Men, Biographies, History of the
+Northwest Territory, History of Ohio, Statistical and Miscellaneous" -- p. 1028
+
+NOTE: this is a DIFFERENT Ancestry collection ("U.S., Family History Books," collection 62282)
+than the two HathiTrust volumes of a similarly-titled Seneca County history already checked
+earlier in this project (where no David Ringle Sr. sketch was found) -- this one does carry a real
+biographical entry for the Keesy family that was not previously located.
+
+Full transcription (some words uncertain due to period typeface/OCR quality, marked [?]):
+
+"REV. W. ALLEN KEESY, minister of the United Brethren Church, Attica, was born in Huron County,
+Ohio, July 15, 1843; son of John and Elizabeth (Gouse) Keesy. [The name Keesy was originally
+spelled Guesy.] His parents [were] of German origin, [and the family] moved with a family of ten
+children from Huron County, Ohio, where the father, John Keesy, a farmer, resided for many years
+and died in 1859. Our subject enlisted, in 1861, in Company I, Fifty-fifth Ohio Volunteer
+Infantry, serving until 1862, and participated in the following battles and skirmishes: Bloomfield,
+Franklin, Culpeper, Cross Keys, Strasburg and Bull Run, in Virginia, and was discharged on account
+of disability, but, in 1864, he again enlisted in his country's service, serving as a
+non-commissioned officer in the Sixty-fourth Ohio Volunteer Infantry, with which regiment he was
+present at the battles of Spring Hill, Franklin, and two days at Nashville. He was reared on the
+farm, attending the common schools, and, on his return from the army, [attended] the Normal
+School at Milan, Erie Co., Ohio; commenced to teach school on his return from Milan, and taught
+for five terms. He [became] a member of the United Brethren Church in 1864, [was] licensed to
+exhort in 1867, was admitted to the annual conference in 1872, and regularly ordained in 1873. He
+was pastor of the Huron Creek Circuit, then the Rocky Ridge, Republican, Genoa, and Norwalk
+Center circuits were successively in charge, then transferred to Pontiac [?] and Clyde. He has
+served the conference three years as presiding elder, two years of that time being spent in
+Sandusky District. He was stationed at Attica in 1881. Rev. W. A. Keesy is an able speaker, [a]
+concise [?] and diligent worker and faithful student. He has been twice married, first, in 1866,
+to Margie J., daughter of Rev. B. T. Lane, a minister of the United Brethren Church. Of the three
+children born to this union two are now living: Minerva and Mary. Mr. Keesy lost this wife by
+death in 1873, and in 1874 he was married to Augusta Charles, by whom he has five children: Flora,
+Dessie, Leona Silvesta [?], and Edith and Ethel (twins)."
+
+NOTE: This substantially supplements the Rev. William Allen Keesy Find A Grave record already
+saved earlier in this project (memorial 59698253) -- adding his full Civil War regimental detail
+(55th and 64th Ohio Volunteer Infantry, specific battles), his ministry career (licensed 1867,
+ordained 1873, multiple circuits), his time at Milan Normal School, and his two marriages (Margie
+J. Lane, d. 1873; then Augusta Charles, 1874) with all 7 of his children named. Also confirms
+father John Keesy died in 1859 as a farmer in Huron County, Ohio, consistent with the tree.
