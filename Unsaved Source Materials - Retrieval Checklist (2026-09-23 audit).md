@@ -123,7 +123,7 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 - [x] "Students complete EMT-1 training" — *Five Cities Times-Press-Recorder*, 14 Jan 1998, p.2 (the false-lead "Scott Babcock" clipping — worth keeping on file as a documented dead end). SAVED as "Times-Press-Recorder" (paper's actual masthead name).
 - [x] "Air show" (RC plane photo of Bob Babcock) — *Visalia Times-Delta*, 15 Aug 2015, p.6A. SAVED: full page (article continues from page 3A, not separately fetched).
 - [x] Virginia (Rankin/Ey) Voll "recent deaths" index item — *Rochester Democrat and Chronicle*, 25 Jan 2013. SAVED: full page F13 ("Voll, Virginia (Rankin) (Ey), Rochester, Jan. 7").
-- [ ] Pampaian Farms FMCSA SAFER filing + Fresno County Assessor record, 18852 E Adams Ave, Reedley CA (lower priority — database printouts)
+- [x] Pampaian Farms FMCSA SAFER filing + Fresno County Assessor record, 18852 E Adams Ave, Reedley CA (lower priority — database printouts). CHECKED: FMCSA SAFER has no record under "Pampaian Farms" (genuine dead end — likely never held its own interstate trucking authority). Fresno County Assessor lookup DOES find the parcel (Effective Year 1968, currently owner-occupied) but this public tool doesn't expose ownership history/names, so it can't confirm Pampaian ownership specifically. SAVED as transcription.
 
 ## Robert's Athletic History (SAVED — local-only, .gitignore'd, never pushed to public repo)
 

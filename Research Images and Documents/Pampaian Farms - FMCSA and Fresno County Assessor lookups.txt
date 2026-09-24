@@ -1,0 +1,35 @@
+Pampaian Farms / Robert Douglas Pampaian, 18852 E Adams Ave, Reedley, CA
+(Cynthia Rawson Babcock's 3rd husband's family farm business)
+
+=== FMCSA SAFER Company Snapshot search ===
+Searched https://safer.fmcsa.dot.gov/CompanySnapshot.aspx by company name "Pampaian Farms" --
+NO MATCH FOUND. No USDOT/MC number exists under this name in FMCSA's carrier database. This likely
+means the farm never held its own interstate trucking authority (common for a family farm that
+used contract haulers rather than operating its own registered fleet), or operated under a
+different registered business name. Genuine dead end for this specific database.
+
+=== Fresno County Assessor -- Assessed Value Lookup ===
+https://assrmaps.co.fresno.ca.us/binlookup/ParcelLookup.aspx
+Searched by address: 18852 E Adams Ave, Reedley, CA -- MATCH FOUND (current data only; this public
+tool does not display owner name/history, only assessed value):
+
+Location: 18852 E ADAMS REEDLEY
+Effective Year: 1968 (consistent with an older rural property from the era Robert's family lived
+there)
+TRA (Tax Rate Area): 169001
+Assessed Value (Lien Date Jan 1, 2026, for 2026-2027 tax year):
+- Land: $185,711
+- Improvements/Fixtures: $382,034
+- Personal Property: $0
+- Mobile Home: $0
+- Total: $567,745
+- Homeowner's Exemption: $7,000 (indicates the parcel is currently owner-occupied as a primary
+  residence -- i.e., whoever owns it today lives there, which may or may not still be a Pampaian
+  family member)
+
+This confirms the parcel is a real, currently-active address with a pre-1970 origin, consistent
+with family recollection, but this particular public lookup tool does not expose ownership
+history, so it cannot independently confirm current or past Pampaian family ownership. A full
+ownership/deed history would require a separate Fresno County Recorder grantor/grantee index
+search or a paid title report -- not attempted this session as this remains explicitly
+lower-priority per the checklist.
