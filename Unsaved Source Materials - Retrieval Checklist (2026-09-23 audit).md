@@ -25,11 +25,11 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Ann Blackwell / Marietta Blackwell (Ireland → Utica poorhouse line)
 
-- [ ] Tallanstown (Co. Louth, Ireland) Catholic parish baptism register, 30 Mar 1847 — James, son of Pat McCue & Rose Blackwell (Ancestry collection "Ireland, Catholic Parish Registers, 1655-1915", ID 61039)
-- [ ] Tallanstown marriage register, Jan 1827 — Thomas Blackwell & Mary Thornton (image ID `05602_04_0024`, entry #14)
-- [ ] Rose Blackwell m. Patrick McCue, 4 May 1843, Tallanstown (Ancestry record ID 9764966)
-- [ ] Tallanstown baptism register, 16 May 1849 — Robert, son of Pat & Rose McCue (image ID `05602_06_0056`)
-- [ ] Same image, 21 Jul 1849 entry — child of James & Mary McCabe, sponsor Richard Blackwell
+- [x] Tallanstown (Co. Louth, Ireland) Catholic parish baptism register, 30 Mar 1847 — James, son of Pat McCue & Rose Blackwell (Ancestry collection "Ireland, Catholic Parish Registers, 1655-1915", ID 61039). SAVED as transcription (collection has no image Download option, confirmed via repeated attempts -- same restriction as the Poorhouse ledger below).
+- [x] Tallanstown marriage register, Jan 1827 — Thomas Blackwell & Mary Thornton (image ID `05602_04_0024`, entry #14). SAVED as transcription: actual date is 14 Feb 1827 (not Jan) per the record's own indexed data.
+- [x] Rose Blackwell m. Patrick McCue, 4 May 1843, Tallanstown (Ancestry record ID 9764966). SAVED as transcription.
+- [x] Tallanstown baptism register, 16 May 1849 — Robert, son of Pat & Rose McCue (image ID `05602_06_0056`). SAVED as transcription.
+- [ ] Same image, 21 Jul 1849 entry — child of James & Mary McCabe, sponsor Richard Blackwell. CHECKED, not located via targeted search this session -- minor detail (Blackwell as a witness, not the family record itself), lower priority.
 - [x] Ship manifest, SS *Scotland*, Liverpool→NY, arrived 28 May 1866, Ann Blackwell age 15 — **fully resolved**. Illustrative ship images were already on the Desktop root (moved in). The actual NARA M237/266 passenger manifest page itself is now also **SAVED**: `Ann Blackwell ship manifest - SS Scotland, arrived NY 1866-05-28.jpg`.
 - [x]/[ ] Oneida County Poorhouse/Almshouse admission records — **partially blocked**: the record images display fine in Ancestry's viewer (confirmed: "Record of Charities, Oneida Co. Poor House," Nov 1877 ledger, her entry visible), but the collection's own Download tool would not open/complete despite many retries (unlike the federal-census collections below, which worked once the ref-based click + wait-for-image-load pattern was found) — this looks like a genuine platform restriction on this specific NY State Archives collection (1083), not a technical mistake on this end. Not saved. Someone with an Ancestry "All Access" tier logged in directly (not via browser automation) may have better luck, or a screenshot-only capture could be done as a lesser fallback.
 - [ ] NY Death Index certified copy, Ann Blackwell, cert. #46049 (collection 61535, record 1125304) — confirmed this is an INDEX entry only ("Purchase Certificate" — the real certificate image requires a separate paid order from NY State); check if the physical certificate arrived by mail separately.
@@ -38,7 +38,7 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 - [x] 1900 census, Utica Ward 11 — **SAVED**: `Ann Blackwell 1900 census - Utica Ward 11, servant.jpg`.
 - [ ] Utica city directory entries, 1887–1891 ("Anna Blackwell, laundress") — not currently attached as a source on her tree profile; skipped for now.
 - [x] St. Agnes Cemetery (Utica) burial record — Map 3, Section 48, Tier 11, Grave 459. **Found in Downloads and moved**: `St Agnes Cemetery Map for Historical Tour (Ann Blackwell burial plot).pdf` and `StAgnesResearchRequest_filled.pdf`, both now in `Research Images and Documents`.
-- [ ] Bernadine Babcock's Dignity Memorial obituary (quoted but not saved)
+- [x] Bernadine Babcock's Dignity Memorial obituary (quoted but not saved). SAVED: full text transcription. Confirms she was the only child of David and Stella Brand; new details include her birthplace (St. Louis, MO), Ham radio callsign W6ADB, the "Buttons and Bows" sewing shop, and Eastern Star leadership.
 - [x] "Ann Blackwell – Life and Headstone Reference.docx" — found on Desktop root, moved into `Research Images and Documents`.
 
 ## Babcock colonial Rhode Island trunk

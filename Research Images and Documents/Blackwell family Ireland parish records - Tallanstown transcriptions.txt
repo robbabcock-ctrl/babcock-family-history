@@ -1,0 +1,56 @@
+Blackwell/McCue family records, Ireland, Catholic Parish Registers 1655-1915 (National Library of
+Ireland, Tallanstown parish, Diocese of Armagh, Microfilm 05602)
+
+NOTE: This Ancestry collection does not offer an image Download option in its viewer (confirmed via
+repeated attempts, Tool menu has no Download entry) -- the same platform restriction already
+documented elsewhere in this project for the Oneida County Poorhouse collection. The structured
+index data below is transcribed directly from each record's Ancestry detail page, which reproduces
+the full indexed content of the original handwritten register (too faint/cursive to reliably
+photograph via screenshot at this resolution).
+
+=== Record 1: Thomas Blackwell marriage ===
+Name: Thomas Blackwell
+Gender: Male
+Event Type: Marriage
+Marriage Date: 14 Feb 1827
+Marriage Place: Tallanstown, Ireland, Ireland
+Diocese: Armagh
+Spouse: Mary Thornton
+Ancestry collection 61039, record 9763805, image 05602_04_0024
+
+=== Record 2: Rose Blackwell marriage ===
+Name: Rose Blackwell
+Gender: Female
+Event Type: Marriage
+Marriage Date: 4 May 1843
+Marriage Place: Tallanstown, Ireland, Ireland
+Diocese: Armagh
+Spouse: Patk McCue
+Ancestry collection 61039, record 9764966, image 05602_04_0056
+
+=== Record 3: James McCue baptism ===
+Name: James McCue
+Event Type: Baptism
+Birth Date: 1847
+Baptism Date: 30 Mar 1847
+Baptism Place: Tallanstown, Louth, Ireland
+Diocese: Armagh
+Father: Pat McCue
+Mother: Rose Blackwell
+Ancestry collection 61039, record 7104822, image 05602_06_0053
+
+=== Record 4: Robert McCue baptism ===
+Name: Robert McCue
+Event Type: Baptism
+Birth Date: 1849
+Baptism Date: 16 May 1849
+Baptism Place: Tallanstown, Louth, Ireland
+Diocese: Armagh
+Father: Pat McCue
+Mother: Rose Blackwell
+Ancestry collection 61039, record 7104993, image 05602_06_0056
+
+NOT LOCATED: The 21 Jul 1849 entry on the same image (05602_06_0056) for a child of James & Mary
+McCabe with Richard Blackwell as sponsor/godparent -- this is a minor detail (a Blackwell relative
+appearing as a witness in someone else's baptism, not a direct Blackwell family event) and could not
+be found via targeted name/date searches this session. Lower priority than the four records above.
