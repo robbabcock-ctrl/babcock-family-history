@@ -43,10 +43,10 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Babcock colonial Rhode Island trunk
 
-- [ ] Lieut. Oliver Babcock Jr.'s own SAR Membership Application (distinct from Peleg's, which is already saved)
-- [ ] Col. Oliver Babcock Sr.'s SAR application (likely duplicate of Peleg's — confirm)
-- [ ] Two unopened Ancestry "story" hints on Col. Oliver Babcock Sr.'s profile: "French Indian War" and "French and Indian War 1" — never actually opened
-- [ ] Peleg W. Babcock's second SAR Membership Application (only one of two appears saved)
+- [x] Lieut. Oliver Babcock Jr.'s own SAR Membership Application (distinct from Peleg's, which is already saved). FOUND: application filed by descendant John Bowen Root (Illinois Society, National #45990) citing Oliver Babcock Jr. as patriot, with a specific unit citation ("1st Lieut., Capt. Barker Wells' 1st [Middleton?] Co."). Tree-attached member media with no Download option — full text transcribed to a .txt file instead.
+- [x] Col. Oliver Babcock Sr.'s SAR application (likely duplicate of Peleg's — confirm). The John Bowen Root application above also documents Col. Oliver Babcock Sr. (1683-1773) as an intervening generation; no separate, dedicated Col. Oliver Sr. application was found as a distinct record.
+- [x] Two unopened Ancestry "story" hints on Col. Oliver Babcock Sr.'s profile: "French Indian War" and "French and Indian War 1" — never actually opened. CHECKED: both are generic decorative stock illustrations ("The French & Indian War: Deciding the Fate of North America" book-cover-style artwork), not documents specific to Oliver Babcock — no unique content to save.
+- [x] Peleg W. Babcock's second SAR Membership Application (only one of two appears saved). FOUND: Indiana Society application (National #73601) filed by a Hackett descendant, citing the same SAR Membership #93801 as Peleg's already-saved application — may be the same underlying membership approached via a different search path rather than a truly independent second application (worth cross-checking side by side). No Download option on this collection's viewer — transcribed to a .txt file instead.
 - [ ] Peleg W. Babcock's U.S. War of 1812 Service Record
 - [ ] Peleg Babcock's actual will page image (only an index/transcription used so far — Franklin Co. probate Book B pages ARE saved, confirm this is/isn't the same document)
 - [ ] *Pioneer History; or, Cortland County and the Border Wars of New York*, H.C. Goodwin, 1859, HathiTrust `loc.ark:/13960/t12n5c884` — p.215 (Peleg Jr./Solomon/Asa Howard settling lot 82) and p.210 (Asa Babcock's Ohio move). **Different book** from the already-saved `cortland1885.txt`.
