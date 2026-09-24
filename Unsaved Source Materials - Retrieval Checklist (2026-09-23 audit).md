@@ -143,8 +143,8 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 - [x] Rosalie (Babcock) Cummins' obituary — Fresno Bee, Thu 8 Jun 1972 p.50 (clipped on Newspapers.com but never actually saved locally). SAVED: full page.
 - [x] Harvey Cummins death article — The Californian (Salinas), Sat 8 May 1982 p.4. SAVED: full page.
-- [ ] Rawleigh Oliver Babcock's Certificate of Death (CA Cert #388100 04394) — transcribed only, no image
-- [ ] James Anson Babcock's Ancestry gallery media (portrait, group photos, 1932 Daily Press obituary, VA Gazette clippings) — currently only in the online Ancestry gallery
+- [ ] Rawleigh Oliver Babcock's Certificate of Death (CA Cert #388100 04394) — transcribed only, no image. CHECKED: this requires a paid order from CA Dept of Public Health (no online image available); leaving unretrievable for now.
+- [x] James Anson Babcock's Ancestry gallery media (portrait, group photos, 1932 Daily Press obituary, VA Gazette clippings) — currently only in the online Ancestry gallery. SAVED: all 11 gallery items downloaded — grand jury indictment (fur theft, 17 Feb 1910 VA Gaz), Denhart visit clipping, delinquent taxes notice 1910, land sale to L.B. Tuttle 1912, broom factory article 1912, 1932 Daily Press obituary (transcribed), "Four Generations" portrait, Grandpa-with-dog photo, elderly portrait, "Babcocks ca 1915" group photo. BONUS DISCOVERY: the 1881 Wisconsin marriage record (also saved) confirms James Anson Babcock's parents were Curtis Babcock and Loranda Goodman — closing the link between the Cortland NY/Illinois Curtis Babcock trunk and James Anson's later life in Virginia. Mother's name Loranda Goodman is new to the Research Log and should be added.
 
 ## Keown/Looney/Phillips — Vietnam era (Amber's side)
 
