@@ -1,0 +1,32 @@
+Ann Blackwell, 1875 New York State Census, Utica, Oneida County, NY
+Ancestry collection 7250, record 1366615119 (image 004858056_00207)
+No image saved -- Ancestry's HighQuality image-download API returned repeated HTTP 503 errors (the
+same broader, apparently transient outage affecting multiple records across this project today).
+
+CONFIRMATION this is the correct Ann Blackwell: this record was previously only an unconfirmed
+"suggested record" search match on her tree profile. Her age here (28, b. abt 1847) matches her
+known birth year, her occupation (Servant) is consistent with her later 1900 census entry
+(also a servant, Utica Ward 11), and the location (Utica, Oneida County, NY) matches her known
+residence throughout this period of her life -- this is confidently the same person and should be
+attached to her tree profile as a confirmed source.
+
+Detail:
+Name: Ann Blackwell
+Gender: Female
+Relation to Head: Servant
+Age: 28
+Birth Date: abt 1847
+Residence: 1875, Utica, Oneida, New York, USA
+Household Number: 67 / Line Number: 3 / Sheet Number: 8
+
+Household:
+- Peter Claskins, 48 (Head)
+- Mary Claskins, 38
+- William Claskins, 5
+- Thomas F Claskins, 4
+- Allis Nightingale, 30
+- Thomas P Nightingale, 27
+- Francis Nightingale, 25
+- Ann Blackwell, 28 (Servant)
+
+Citation: New York State Archives; Albany, NY, USA; Census of the State of New York, 1875

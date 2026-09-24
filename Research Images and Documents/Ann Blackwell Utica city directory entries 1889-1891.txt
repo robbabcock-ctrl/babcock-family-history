@@ -1,0 +1,22 @@
+Anna Blackwell, Utica, New York city directory entries, 1889 (Occupation: Laundress)
+Ancestry collection 4556 ("Utica, New York Directories, 1887-1891"), record 33060
+Index only -- no page image available in this collection.
+
+Detail:
+Name: Anna Blackwell
+Residence Date: 1889
+Residence Place: Utica, New York, USA
+Business Address: 43 John [Street]
+Occupation: Laundress
+
+Citation: Utica City Directory, 1889. Utica, NY: Charles N. Gaffney, 1889 (part of the combined
+"Utica, New York Directories, 1887-1891" database, drawing on annual directories published by
+Charles N. Gaffney 1887-1890 and J. E. Williams 1891).
+
+NOTE: This confirms the checklist's "Anna Blackwell, laundress" entry with an exact address (43
+John Street) not previously on file. The search also surfaced apparently-duplicate index hits for
+1890 and 1891 under the same underlying record ID (33060) -- these may be the same directory entry
+appearing in multiple annual volumes without distinct per-year data captured in Ancestry's index,
+or a search-result rendering quirk; only the 1889 entry with distinct detail (address + occupation)
+was confirmed this session. This record is not yet attached to Ann Blackwell's tree profile as a
+confirmed source (per the original checklist note) and should be reviewed/attached there.
