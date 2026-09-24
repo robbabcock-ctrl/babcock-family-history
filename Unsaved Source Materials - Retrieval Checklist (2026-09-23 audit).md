@@ -69,15 +69,15 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Rawson / Strong colonial line
 
-- [ ] Find A Grave, Nathaniel Rawson Jr. (1716–1803), memorial 69457375 — Minuteman/Lexington Alarm service
-- [ ] Find A Grave, Corp. Moses Rawson (1753–1833), memorial 85225694 — Revolutionary War pension file (9th Massachusetts Line)
-- [ ] Anson George Rawson — "New York, War of 1812 Certificates and Applications of Claim..." and "New York, U.S., Military Equipment Claims, War of 1812" records; also his War of 1812 pension claim, certificate #13543
-- [ ] Corp. Moses Rawson's Revolutionary War pension file (National Archives) — Fort Stanwix/Saratoga/Stony Point
-- [ ] Find A Grave, Barbara Crone Rawson, memorial 71669656 (Sunfield Cemetery, Eaton Co. MI) — the "Family Members" list that surfaced 5 new Rawson children
-- [ ] *The History of the Descendants of Elder John Strong of Northampton, Mass.*, B.W. Dwight, 1871, HathiTrust `mdp.39015010461716` — pp. xxvi–xxvii (1777 Caleb Strong letter, Jerijah Strong lineage) and p.19 (children of Elder John Strong)
+- [x] Find A Grave, Nathaniel Rawson Jr. (1716–1803), memorial 69457375 — Minuteman/Lexington Alarm service. SAVED: headstone photo, full res, in Research Images and Documents/.
+- [x] Find A Grave, Corp. Moses Rawson (1753–1833), memorial 85225694 — Revolutionary War pension file (9th Massachusetts Line). SAVED: headstone photo + pension document photo.
+- [x] Anson George Rawson — "New York, War of 1812 Certificates and Applications of Claim..." and "New York, U.S., Military Equipment Claims, War of 1812" records; also his War of 1812 pension claim, certificate #13543. SAVED: full Declaration document image (certificate 13543) + text note for the index-only Military Equipment Claims entry ($60 allowed, page 13,543 — same claim).
+- [ ] Corp. Moses Rawson's Revolutionary War pension file (National Archives) — Fort Stanwix/Saratoga/Stony Point [the Find A Grave-hosted pension doc photo above may only be a partial/summary page — the full NARA pension file itself, if separately accessible, is still unconfirmed]
+- [x] Find A Grave, Barbara Crone Rawson, memorial 71669656 (Sunfield Cemetery, Eaton Co. MI) — the "Family Members" list that surfaced 5 new Rawson children. SAVED: 2 headstone photos + full family list as .txt.
+- [x] *The History of the Descendants of Elder John Strong of Northampton, Mass.*, B.W. Dwight, 1871, HathiTrust `mdp.39015010461716` — pp. xxvi–xxvii (1777 Caleb Strong letter, Jerijah Strong lineage) and p.19 (children of Elder John Strong). SAVED: all 3 pages.
 - [ ] Deacon Seth Strong (1716–1792) — "U.S. Revolutionary War Rolls" and "Abstract of Graves of Revolutionary Patriots" entries; contributor photo naming his unit ("Private, Major Leavenworth Company, Artillery")
-- [ ] *The Rawson Family: A Revised Memoir of Edward Rawson*, E.B. Crane, 1875 — TWO different HathiTrust copies cited across sessions (`yul.11825131_000_00` and `wu.89066237165`): entry 264/265, entry 61 "Nathaniel Rawson," William Rawson's entry (SECOND GENERATION); p.34/entry 264 (Nathaniel Rawson, Silas's father); pp.60–61/entries 722–744 (Silas Rawson's 22 children across two marriages, incl. Rev. Daniel Rawson's exact birthdate)
-- [ ] *The Chapin Book of Genealogical Data*, G.W. Chapin, 1924, vol.1, HathiTrust `mdp.39015071169299`, p.291 — Abigail Chapin m. Silas Rawson; also a Samuel Chapin Revolutionary War/Bunker Hill note
+- [x] *The Rawson Family: A Revised Memoir of Edward Rawson*, E.B. Crane, 1875 — TWO different HathiTrust copies cited across sessions (`yul.11825131_000_00` and `wu.89066237165`): entry 264/265, entry 61 "Nathaniel Rawson," William Rawson's entry (SECOND GENERATION); p.34/entry 264 (Nathaniel Rawson, Silas's father); pp.60–61/entries 722–744 (Silas Rawson's 22 children across two marriages, incl. Rev. Daniel Rawson's exact birthdate). SAVED: p.7 (William Rawson entry), p.16 (entry 61, Nathaniel Rawson I), p.34 (entry 264, already saved prior session), p.60, p.61 — all from wu.89066237165. The yul.11825131_000_00 copy was not separately re-verified (same content, lower priority).
+- [x] *The Chapin Book of Genealogical Data*, G.W. Chapin, 1924, vol.1, HathiTrust `mdp.39015071169299`, p.291 — Abigail Chapin m. Silas Rawson; also a Samuel Chapin Revolutionary War/Bunker Hill note. SAVED.
 - [ ] Wedding notice, Sylvia Louise Schultz & Wayne Wilber Jarvis, 16 Mar 1940, Santa Cruz CA newspaper
 
 ## Crone / Ringle families
