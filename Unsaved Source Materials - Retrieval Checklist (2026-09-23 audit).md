@@ -103,19 +103,19 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Keown / Perry family
 
-- [ ] *Kirksville Graphic*, 13 Mar 1896, p.3 — Nathan J. Keown's obituary (distinct from the already-saved 1933 Thomas Keown obituary)
-- [ ] *Gordon Journal* (Gordon, NE), 23 Apr 1958, p.16 — William New Year Perry's obituary, names Allen & Bertha (Keown) Perry + 6 siblings
+- [x] *Kirksville Graphic*, 13 Mar 1896, p.3 — Nathan J. Keown's obituary (distinct from the already-saved 1933 Thomas Keown obituary). SAVED an alternate/earlier obituary instead — "N. J. Keown Dead" in The Ord Quiz (Ord, Nebraska), 6 Mar 1896, page 5 — the original Kirksville Graphic issue was not separately located, but this is the same death being reported.
+- [x] *Gordon Journal* (Gordon, NE), 23 Apr 1958, p.16 — William New Year Perry's obituary, names Allen & Bertha (Keown) Perry + 6 siblings. SAVED: full page.
 - [ ] Marriage record, Phoebe Ellen McKinney m. Thomas H. Keown, 14 Jun 1870, Greentop, Schuyler Co. MO
 - [ ] SSA Applications and Claims Index — Ethel Pharabe Ball (Keown), b. 3 Sep 1879
 - [ ] Newspapers.com Obituary Index — Ethel P./F. Keown/Ball, d. 1966 (location disputed between two sessions — worth settling)
-- [ ] AZ County/Select Marriages — Edna Matilda Keown m. Herman August Schultz, 14 May 1916, Phoenix AZ
+- [x] AZ County/Select Marriages — Edna Matilda Keown m. Herman August Schultz, 14 May 1916, Phoenix AZ. SAVED as text (index-only, no image). BONUS: also found and saved Herman Schultz's own 1950 obituary (Arroyo Grande Valley Herald Recorder), which independently confirms this marriage and names his parents-in-law Thomas E. Keown & Phoebe Keown — and cross-connects this whole Keown/Perry line to the Rawson/Schultz/Jarvis family researched earlier this session (Herman's daughters were Marjorie Schultz Rawson and Sylvia Louise Schultz Jarvis).
 - [ ] Find A Grave, Bertha Stella Perry (b. 1873 – d. 1940, Gordon NE) — memorial ID needs re-finding
 - [ ] Wyoming State/County Death Records — Marie Ellen (Perry) Wilson, b.1895–d.1953
 - [ ] California Death Index / Newspapers.com Obituary Index — Mary Viola (Keown) Kenyon, d. 9 Sep 1939, Santa Cruz CA
 - [ ] SSA record, Edna Marion McIntyre (Edna Perry's married name) — and resolve the lower-confidence "Edna Powell" AI-extraction lead
 - [ ] 1880 US Census, Nelson, Cloud Co. KS — "Cowan" household (misindexed Thomas H. Keown family)
 - [ ] Thomas Keown Sr.'s DAR Patriot documentation, ancestor #A065094 — check whether "Three Keowns in Blue" PDF already covers this
-- [ ] *Arroyo Grande Valley Herald Recorder*, 2 May 1930, p.8 — Herman Schultz family visiting Thomas H. Keown
+- [x] *Arroyo Grande Valley Herald Recorder*, 2 May 1930, p.8 — Herman Schultz family visiting Thomas H. Keown. SAVED: found as 18 Apr 1930 (not 2 May), page 8 — confirms "Mr. and Mrs. Herman Schultz visited Sunday with Mrs. Schultz's parents, Mr. and Mrs. Thomas Keown... Their two little daughters, Sylvia Louise and Marjorie, remained here with their grandparents while Mr. and Mrs. Schultz were in Santa Cruz."
 
 ## Robert's own immediate family
 
