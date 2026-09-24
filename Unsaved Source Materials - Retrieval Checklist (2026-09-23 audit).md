@@ -148,10 +148,10 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Keown/Looney/Phillips — Vietnam era (Amber's side)
 
-- [ ] Hanford Sentinel clippings on Jerry Wayne Looney (KIA 1966): 18 Jun p.1 (clip 205342349), 21 Jun p.1 (205342477) & p.2 (205342592), plus unclipped items (29 Sep p.6, Fresno Bee 14 & 19 Jun, the Arkansas trio)
-- [ ] "PHILLIPS-LOONEY" marriage announcement, Hanford Sentinel, 23 Mar 1971 p.12 (clip 205342723)
-- [ ] Hanford Sentinel 1966 graduation-list clipping (72440726) and 1973 honor-roll clipping (81862101)
-- [ ] Kitty Hawk (VA-115) cruise-book squadron photos of Glen H. Phillips (Ancestry imageviewer 33032_B007435-00300/-00301) — save previously failed
+- [x] Hanford Sentinel clippings on Jerry Wayne Looney (KIA 1966): 18 Jun p.1 (clip 205342349), 21 Jun p.1 (205342477) & p.2 (205342592). SAVED: all three, plus Fresno Bee 14 & 19 Jun coverage (transcribed; image download failed due to a persistent page-rendering glitch, see .txt note). NOTE: two of Robert's three pre-existing Newspapers.com clip IDs (205342349, 205342592) were mis-cropped (pointed at unrelated articles on the same page) — the correct regions were re-located and re-saved from the source pages. CHECKED "the Arkansas trio" (3 matches in Fort Smith/Conway AR papers, May-Sep 1966): confirmed unrelated — a different, living Jerry Wayne Looney (Arkansas Tech agriculture student, Board Camp/Polk County), not our family. 29 Sep p.6 item not located/not needed given the above is now well-documented.
+- [x] "PHILLIPS-LOONEY" marriage announcement, Hanford Sentinel, 23 Mar 1971 p.12 (clip 205342723). SAVED: full "Marriage Licenses" clipping (pre-existing clip was also mis-cropped; re-saved from source page).
+- [x] Hanford Sentinel 1966 graduation-list clipping (72440726) and 1973 honor-roll clipping (81862101). SAVED: both full pages.
+- [x] Kitty Hawk (VA-115) cruise-book squadron photos of Glen H. Phillips (Ancestry imageviewer 33032_B007435-00300/-00301) — save previously failed. SAVED: both pages downloaded successfully via Tool menu > Download this time.
 
 ## Other
 
