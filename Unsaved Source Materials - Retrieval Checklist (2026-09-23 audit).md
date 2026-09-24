@@ -141,8 +141,8 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Fresno/Dinuba Babcock generation
 
-- [ ] Rosalie (Babcock) Cummins' obituary — Fresno Bee, Thu 8 Jun 1972 p.50 (clipped on Newspapers.com but never actually saved locally)
-- [ ] Harvey Cummins death article — The Californian (Salinas), Sat 8 May 1982 p.4
+- [x] Rosalie (Babcock) Cummins' obituary — Fresno Bee, Thu 8 Jun 1972 p.50 (clipped on Newspapers.com but never actually saved locally). SAVED: full page.
+- [x] Harvey Cummins death article — The Californian (Salinas), Sat 8 May 1982 p.4. SAVED: full page.
 - [ ] Rawleigh Oliver Babcock's Certificate of Death (CA Cert #388100 04394) — transcribed only, no image
 - [ ] James Anson Babcock's Ancestry gallery media (portrait, group photos, 1932 Daily Press obituary, VA Gazette clippings) — currently only in the online Ancestry gallery
 
