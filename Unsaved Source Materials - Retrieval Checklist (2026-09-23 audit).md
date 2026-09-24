@@ -165,8 +165,8 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Verify-first items (may already be covered — check before re-fetching)
 
-- `curtis_page.jpg` — may already be the 1850 census (Scott, Cortland Co. NY, Curtis Babcock household)
-- `Kimble Family...pdf` — may already include the Deseret News fire coverage, or only the Salt Lake Tribune account
-- "Three Keowns in Blue.pdf" — may already include Thomas Keown Sr.'s DAR Patriot documentation
-- `archive_page1.png`, `franklin_1767.jpg`, `joshua_babcock_blackburn.jpg` — generic filenames, worth a quick visual confirm against the list above
-- St. Agnes Cemetery map PDF and "Ann Blackwell – Life and Headstone Reference.docx" — may already be sitting in Downloads or the Desktop root, unmoved into the organized folders
+- [x] `curtis_page.jpg` — may already be the 1850 census (Scott, Cortland Co. NY, Curtis Babcock household). CHECKED: it is NOT the 1850 census — it's a page from "The Babcock Genealogy" book (p.164), covering Deacon Solomon Babcock's family (entry #292) including son Curtis (b. 1824, d. Galva IL 1902, m. Dorana Randall). Correctly filed as-is; no census image needed here.
+- [x] `Kimble Family...pdf` — may already include the Deseret News fire coverage, or only the Salt Lake Tribune account. CHECKED: contains a full family narrative + John Alexander Kimble's own 1924 obituary (Dinuba paper), but does NOT contain either the Deseret News or Salt Lake Tribune's original 1881 fire coverage — neither is mentioned/quoted. If the original 1881 newspaper coverage of the fire itself is still wanted, that remains a genuinely open, not-yet-attempted lookup for a future session.
+- [x] "Three Keowns in Blue.pdf" — may already include Thomas Keown Sr.'s DAR Patriot documentation. CONFIRMED (see Keown/Perry section above) — fully covered with proper DAR citation.
+- [x] `archive_page1.png`, `franklin_1767.jpg`, `joshua_babcock_blackburn.jpg` — generic filenames, worth a quick visual confirm against the list above. CHECKED: `archive_page1.png` is Robert's own prepared phone-call script for requesting Curtis Babcock's Jacksonville State Hospital intake record (a research tool, not a source, correctly filed). `franklin_1767.jpg` and `joshua_babcock_blackburn.jpg` are illustrative 18th-century portraits (Benjamin Franklin, and Joshua Babcock by Blackburn) for the Rhode Island colonial Babcock trunk section — correctly filed and appropriately named.
+- [x] St. Agnes Cemetery map PDF and "Ann Blackwell – Life and Headstone Reference.docx" — may already be sitting in Downloads or the Desktop root, unmoved into the organized folders. Already confirmed moved into `Research Images and Documents` (see Ann Blackwell section, items 40 and 42 above).
