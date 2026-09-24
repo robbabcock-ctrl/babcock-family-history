@@ -1,0 +1,253 @@
+Ancestry.com "Public Member Trees" (collection 1030) search results
+Extracted verbatim during the 2026-09-23 research session, before the underlying search results could change or expire.
+Search pattern used: https://www.ancestry.com/search/collections/1030/?name=First+Middle_Last&birth=YYYY
+Note: these are NOT scanned/digitized documents. Collection 1030 aggregates facts as entered by other Ancestry members into their own trees, displayed as a text summary card. There is no image to download for a hit of this kind, so the exact text of each matching card is preserved here as the citation.
+
+================================================================
+1. Mertie May Fenderson's parents
+================================================================
+Search: name=Mertie+May_Fenderson&birth=1884
+Top hit — tree "Cleveland / Moody Tree llm" (47,591 people):
+Mertie May Fenderson found in tree Cleveland / Moody Tree llm
+  Father: John Jay Fenderson (1863-1936)
+  Mother: Alice Estella "Stella" Crotsky (1860-1951)
+  Spouse: Edward Niles Gross (1880-1941)
+
+================================================================
+2. Edward Niles Gross's parents
+================================================================
+Search: name=Edward+Niles_Gross&birth=1880
+Top hit — tree "Jon Mathis Family Tree" (256,825 people):
+Edward Niles Gross found in tree Jon Mathis Family Tree
+  Father: Fitch Bizzle Gross (1854-1912)
+  Mother: Maria A. Wilcox (1856-1926)
+  Spouse: Mertie May Fenderson (1884-1961)
+
+================================================================
+3. Cora M. Lounsbury's own record + parents
+================================================================
+Search: name=Cora+M_Lounsbury&birth=1884
+Top hit — tree "Hoke" (34,485 people):
+Cora M Lounsbury from tree Hoke
+  Birth: Feb 1884, New York, USA
+  Marriage: 30 Nov 1911, Binghamton, Broome, New York, USA
+  Residence: 1920, Oakland, Alameda, California, USA
+  Death: 17 Mar 1929, Binghamton, Broome, New York, USA
+  Father: Judson Knowlton Lounsbury (1863-1930)
+  Mother: Sarah A Ingraham (1868-1907)
+  Spouse: Raymond M Butts (1887-1953)
+
+================================================================
+4. Judson Knowlton Lounsbury's parents
+================================================================
+Search: name=Judson+Knowlton_Lounsbury&birth=1863
+Top hit — tree "Chalker Ingraham 2014" (18,733 people):
+Judson Knowlton Lounsbury from tree Chalker Ingraham 2014
+  Birth: Feb 1863, New York, USA
+  Marriage: 12 Apr 1916, Broome, Schoharie, New York, USA
+  Residence: 1930, Binghamton, Broome, New York, USA
+  Death: 2 Jul 1930, Binghamton, Broome, New York, USA
+  Father: Reuben Lounsbury (1826-1887)
+  Mother: Angeline R Burrows (1836-1908)
+  Spouse: Sarah Ingraham (1868-1907)
+
+================================================================
+5. Sarah A. Ingraham's parents
+================================================================
+Search: name=Sarah+A_Ingraham&birth=1868
+Top hit — tree "Hoke" (34,485 people):
+Sarah A Ingraham from tree Hoke
+  Birth: Jun 1868, New York, USA
+  Marriage: 25 Nov 1886, Broome, Schoharie, New York, USA
+  Residence: 1910, Barker, Broome, New York, USA
+  Death: 27 Aug 1907, Fenton, Broome, New York, USA
+  Father: Austin Sylester Ingraham (1839-1915)
+  Mother: Amelia Lois Barnes (1843-1929)
+  Spouse: Judson Knowlton Lounsbury (1863-1930)
+
+================================================================
+6. Herman August Ey's parents
+================================================================
+Search: name=Herman+A_Ey&birth=1878
+Top hit — tree "Jean/Vient Family Tree" (1,018 people):
+Herman August Ey from tree Jean/Vient Family Tree
+  Birth: 21 Sep 1878, Erie, Erie, Pennsylvania, USA
+  Marriage: 21 Oct 1908
+  Residence: 1930, Rochester, Monroe, New York, USA
+  Death: 5 Oct 1936, Rochester, Monroe, New York, USA
+  Father: August Ey (1846-1903)
+  Mother: Johannah Spritzke (1849-1936)
+  Spouse: Clara Nettie Goldsmith (1881-1948)
+
+================================================================
+7. Clara Nettie Goldsmith's parents
+================================================================
+Search: name=Clara+Nettie_Goldsmith&birth=1881
+Top hit — tree "Fry Family Tree" (606 people):
+Clara Nettie Goldsmith from tree Fry Family Tree
+  Birth: 24 Jul 1881, Clarendon, Orleans, New York, USA
+  Marriage: 21 Oct 1908, Rochester, Monroe, New York, USA
+  Residence: 1925, Rochester, Monroe, New York, USA
+  Death: 18 Jul 1948, Riverside, Riverside, California, USA
+  Father: Calvin Dwight Goldsmith (1842-1888)
+  Mother: Sarah Elizabeth Alsop (1843-1914)
+  Spouse: Herman August Ey (1878-1937)
+
+================================================================
+8. Virginia Rankin — small unsourced tree lead
+================================================================
+Search: name=Virginia+G_Rankin&birth=1920&death=2013
+Hit — tree "Ey/Ruppersberger Family Tree" (169 people, 0 records, 0 sources — unsourced, treated only as a lead):
+Virgina Rankin from tree Ey/Ruppersberger Family Tree
+  Birth: 17 Sep 1920
+  Marriage: 28 May 1941
+  Death: 7 Jan 2013
+  Spouse: Theodore 'Ted' Frederick Ey (1915-1976)
+[Note: this tree's 1915 birth year for Theodore was later superseded — Leslie Tuffy's own family document and the government death index both confirm 1919.]
+
+================================================================
+9. August Ey's parents (superseded — see note)
+================================================================
+Search: name=August_Ey&birth=1846
+Top hit — tree "LydaKathy Tree" (1,224 people):
+AUGUST FRIEDRICH EY from tree LydaKathy Tree
+  Birth: May 1846, Poznan, Wielkopolskie, Poland
+  Marriage: 30 Dec 1893, Hannover, Region Hannover, Lower Saxony, Germany
+  Residence: 1900, Erie, Erie, Pennsylvania, USA
+  Death: 26 May 1903, Erie, Erie, Pennsylvania, USA
+  Father: Carl Louis Wilhelm Ey (1825-1894)
+  Mother: Joahanne Elwine Albrecht (1824-1900)
+  Spouse: Johannah Spritzke EY (1849-1936)
+[Note: Leslie Tuffy's own family document later gave August Ey's home town as Halberstadt, Germany, not Poznan, Poland — this tree's Poznan claim is likely wrong, though its "Carl Louis Wilhelm Ey + Joahanne Elwine Albrecht" parentage is not directly contradicted by anything else found.]
+
+================================================================
+10. Johannah Spritzke's own birthplace
+================================================================
+Search: name=Johannah_Spritzke&birth=1849
+Top hit — tree "Jean/Vient Family Tree" (1,018 people):
+Johannah Spritzke from tree Jean/Vient Family Tree
+  Birth: Apr 1849, Halberstadt, Harz, Saxony-Anhalt, Germany
+  Marriage: 14 Jul 1895, Hannover, Region Hannover, Lower Saxony, Germany
+  Residence: 1920, Erie, Erie, Pennsylvania, USA
+  Death: 1936, California, USA
+  Spouse: August Ey (1846-1903)
+
+================================================================
+11. Calvin Dwight Goldsmith's parents
+================================================================
+Search: name=Calvin+Dwight_Goldsmith&birth=1842
+Top hit — tree "Hall Family Tree - FamilySearch" (15,198 people):
+Calvin Dwight Goldsmith from tree Hall Family Tree - FamilySearch
+  Birth: 18 Mar 1842, Oswego, Oswego, New York, USA
+  Marriage: 31 Jan 1866
+  Residence: 1880, Clarendon, Orleans, New York, USA
+  Death: 23 Apr 1888, Elba, Genesee, New York, USA
+  Father: Calvin S Goldsmith (1812-1863)
+  Mother: Maria Horning (1814-1890)
+  Spouse: Sarah Elizabeth Alsop (1843-1918)
+[Note: Leslie Tuffy's document instead gives his birthplace as Owego, Tioga County, NY — a different place from "Oswego" in this tree; Owego is treated as correct since it also matches the Fenderson/Owego coincidence her document specifically calls out.]
+
+================================================================
+12. Sarah Elizabeth Alsop's parents
+================================================================
+Search: name=Sarah+Elizabeth_Alsop&birth=1843
+Top hit — tree "Hall Family Tree - FamilySearch" (15,198 people):
+Sarah Elizabeth Alsop from tree Hall Family Tree - FamilySearch
+  Birth: May 1843, Denham, Buckinghamshire, England
+  Marriage: 31 Jan 1866
+  Residence: 1 Jun 1915, Rochester, Monroe, New York, USA
+  Death: 30 Nov 1918, Rochester, Monroe, New York, USA
+  Father: William Alsop (1806-1894)
+  Mother: Mary A Dakin (1801-1868)
+  Spouse: Calvin Dwight Goldsmith (1842-1888)
+[Note: Leslie Tuffy's document instead gives Shropshire, not Denham/Buckinghamshire, as her birth county — treated as correct since it's from a primary family document rather than another member's public tree.]
+
+================================================================
+13. Reuben Lounsbury's parents
+================================================================
+Search: name=Reuben_Lounsbury&birth=1826
+Top hit — tree "R. D. Baker Family Tree" (3,943 people):
+Reuben Archer LOUNSBERRY from tree R. D. BAKER Family Tree
+  Birth: 1827, Bedford, Westchester, New York, USA
+  Marriage: 12 Oct 1853, Fenton, Broome, New York, USA
+  Residence: 1880, Greene, Chenango, New York, USA
+  Death: 26 Aug 1887, Greene, Chenango, New York, USA
+  Father: Gideon LOUNSBURY (1793-1866)
+  Mother: Mary Polly ARCHER (1798-1885)
+  Spouse: Angeline BURROWS (1836-1908)
+
+================================================================
+14. Angeline R. Burrows's parents
+================================================================
+Search: name=Angeline+R_Burrows&birth=1836
+Top hit — tree "Whitney Family Tree" (5,627 people):
+Angeline R Burrows from tree Whitney Family Tree
+  Birth: 11 Sep 1836, Greene, Chenango, New York, USA
+  Marriage: 1888, Binghamton, Broome, New York, USA
+  Residence: 1905, Dickinson, Broome, New York, USA
+  Death: 12 Dec 1908, Coventry, Chenango, New York, USA
+  Father: Jesse Burrows (1791-1867)
+  Mother: Marietta (Harriet) Hunt (1803-1852)
+  Spouse: Reuben Archer Lounsbury (1827-1887)
+
+================================================================
+15. Austin Sylvester Ingraham's parents
+================================================================
+Search: name=Austin+Sylvester_Ingraham&birth=1839
+Top hit — tree "Hoag Family Tree" (547 people):
+Austin Sylester Ingraham from tree Hoag Family Tree
+  Birth: 3 Sep 1839, Oxford, Chenango, New York, USA
+  Marriage: 20 Sep 1857, Oxford, Chenango, New York, USA
+  Residence: 1 Jun 1915, Chenango, Broome, New York, USA
+  Death: 10 Oct 1915, Chenango Forks, Broome, New York, USA
+  Father: Sylvester Ingraham (1811-1904)
+  Mother: Caroline E Leach (1813-1893)
+  Spouse: Amelia Barnes (1843-1929)
+
+================================================================
+16. Amelia Lois Barnes's parents
+================================================================
+Search: name=Amelia+Lois_Barnes&birth=1843
+Top hit — tree "Chalker Ingraham 2014" (18,733 people):
+Amelia E Barnes from tree Chalker Ingraham 2014
+  Birth: 18 Apr 1843, Broome, Schoharie, New York, USA
+  Marriage: 20 Sep 1857, Oxford, Chenango, New York, USA
+  Residence: 1905, Chenango, Broome, New York, USA
+  Death: 16 Dec 1929, Chenango Forks, Broome, New York, USA
+  Father: Selah Barnes (1786-1857)
+  Mother: Frances Fanny Knickerbocker (1803-1887)
+  Spouse: Austin Sylvester Ingraham (1839-1915)
+
+================================================================
+17. Fitch Bizzle Gross's parents
+================================================================
+Search: name=Fitch+Bizzle_Gross&birth=1854
+Top hit — tree "Adams Family Tree" (154 people):
+Fitch B Gross from tree Adams Family Tree
+  Birth: 22 May 1854, Greene, Chenango, New York, USA
+  Marriage: 1876
+  Residence: 1910, Greene, Chenango, New York, USA
+  Death: 14 Feb 1911
+  Father: Micah Gross (1831-1902)
+  Mother: Martha Foster Gross (1836-1911)
+  Spouse: Maria Wilcox Gross (1856-1926)
+
+================================================================
+18. Maria A. Wilcox's parents
+================================================================
+Search: name=Maria+A_Wilcox&birth=1856
+Top hit — tree "Jon Mathis Family Tree" (256,825 people):
+Maria A Wilcox from tree Jon Mathis Family Tree
+  Birth: 30 Nov 1856, New York, USA
+  Marriage: 1876
+  Residence: 1910, Greene, Chenango, New York, USA
+  Death: Apr 1926
+  Father: Charles F Willcox (1826-1891)
+  Mother: Lavinia Miller (1837-1871)
+  Spouse: Fitch Bizzle Gross (1854-1912)
+
+================================================================
+Also referenced (previously found, prior session — see main Research Log for full detail):
+================================================================
+- "Hoke" tree (34,485 people, tree ID 27037666) — Leland Jay Gross's first marriage to Laura R. Gay, and Edward Niles Gross / Mertie May Fenderson death details.
+- Adrienne's own "Gross Family Tree" (tree ID 117888422) — the source of the base three-generations-back pedigree before this session's deep-dive.

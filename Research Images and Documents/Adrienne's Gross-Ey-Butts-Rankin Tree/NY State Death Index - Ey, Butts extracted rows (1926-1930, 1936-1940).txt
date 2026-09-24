@@ -1,0 +1,14 @@
+NY State Death Index (Reclaim The Records / Internet Archive) - extracted matching rows
+Source: https://archive.org/details/reclaim-the-records-new-york-state-death-index-1880-1971
+Extracted 2026-09-23
+
+=== From Reclaim_The_Records_-_New_York_State_Death_Index_-_1926-1930.csv ===
+﻿CertificateNumber,Prefix,Given,Surname,Soundex,Suffix,DeathAge,Gender,DeathDay,DeathMonth,DeathYear,DeathCity
+2481,,Winifred L.,Ey,E000,,,,7,Jan,1929,Rochester
+17713,,Cora,Butts,B320,,,,17,Mar,1929,Binghamton
+5461,,Nelson C.,Butts,B320,,,,1,Jan,1929,Chenango
+
+=== From Reclaim_The_Records_-_New_York_State_Death_Index_-_1936-1940.csv ===
+﻿CertificateNumber,Prefix,Given,Surname,Soundex,Suffix,DeathAge,Gender,DeathDay,DeathMonth,DeathYear,DeathCity
+60335,,Herman A.,Ey,E000,,,,5,Oct,1936,Rochester
+5938,,William,Ey,E000,,,,23,Jan,1939,Amityville
