@@ -54,7 +54,7 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Curtis Babcock / Solomon Babcock line (Cortland Co., NY → Illinois)
 
-- [ ] 1824 Scott, NY school census — "Solomon Babcock — 5"
+- [ ] 1824 Scott, NY school census — "Solomon Babcock — 5". CHECKED: only found as tree-attached member photos (no standalone record/download option) — same restriction pattern as other tree-attached media this session; not retrieved.
 - [x] 1830 US Census, Solomon Babcock household, Scott NY (Ancestry collection 8058, record 1500326). SAVED.
 - [x] 1840 US Census, Solomon Babcock household, Homer NY (collection 8057, record 2363247). SAVED.
 - [x] 1855 NY State Census — naming Austin P. Babcock as Solomon's son. SAVED: household Solomon Babcock (78), Anna C. Babcock (69), Austin P. Babcock (30, son), Homer NY.
@@ -84,9 +84,9 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 - [ ] *Counties of La Grange and Noble, Indiana: Historical and Biographical*, Vol. 2, 1882, HathiTrust `pur1.32754062865328`, p.418 — full John Crone (1818–1898) biographical sketch naming 12 children incl. previously-unknown "Daniel Crone"
 - [ ] 1882 county history describing John Crone & Catharine Switzer's twelve children (Richland Co., OH) — may be the same source as above, confirm
-- [ ] Find A Grave, David Ringle Sr., memorial 16918016 — confirms Sarah Ringle Boyle + two new child deaths
-- [ ] Find A Grave "Surrounding Plots" photo — David Ringle family plot occupants (Simon, Samantha, John, Elizabeth, David Sr, Sarah Ringle, Sarah Boyle, Lucinda R Goodnough, Catharine Ringle)
-- [ ] *History of Seneca County* (Ohio) — David Ringle Sr.'s family (page/edition not yet identified)
+- [x] Find A Grave, David Ringle Sr., memorial 16918016 — confirms Sarah Ringle Boyle + two new child deaths. SAVED: 3 headstone/monument photos + full family list.
+- [x] Find A Grave "Surrounding Plots" photo — David Ringle family plot occupants (Simon, Samantha, John, Elizabeth, David Sr, Sarah Ringle, Sarah Boyle, Lucinda R Goodnough, Catharine Ringle). SAVED (same as the monument-wide photo above) + full caption transcribed to .txt.
+- [ ] *History of Seneca County* (Ohio) — David Ringle Sr.'s family (page/edition not yet identified). CHECKED vol.1 (Baughman, 1911, HathiTrust nyp.33433081844783) full-text search for "Ringle" — only 2 minor mentions (a war-roster entry and an Attica village councilman), not a family biographical sketch. Vol.2 not yet checked — worth trying next session.
 
 ## Brand / Keesy families
 
