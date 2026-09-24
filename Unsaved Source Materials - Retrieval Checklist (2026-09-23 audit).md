@@ -125,19 +125,19 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 - [x] Virginia (Rankin/Ey) Voll "recent deaths" index item — *Rochester Democrat and Chronicle*, 25 Jan 2013. SAVED: full page F13 ("Voll, Virginia (Rankin) (Ey), Rochester, Jan. 7").
 - [ ] Pampaian Farms FMCSA SAFER filing + Fresno County Assessor record, 18852 E Adams Ave, Reedley CA (lower priority — database printouts)
 
-## Robert's Athletic History (mostly still unsaved — only 3 of many clippings on disk)
+## Robert's Athletic History (SAVED — local-only, .gitignore'd, never pushed to public repo)
 
-- [ ] Fresno Bee, Fri 13 Nov 1987 p.56, "Hoover wins, needs a miracle"
-- [ ] Fresno Bee, Thu 19 Nov 1987 p.64 (NYL standings/bracket)
-- [ ] Fresno Bee, Thu 10 Nov 1988 p.26 (playoff preview)
-- [ ] Fresno Bee, Thu 17 Nov 1988 p.26 (bracket/standings)
-- [ ] Fresno Bee, Sat 19 Nov 1988 p.24 (Bakersfield 42, Hoover 9 box score)
-- [ ] Ventura County Star-Free Press, Fri 30 Nov 1990 p.B-4, "Seraphs get a slice of TVL honors"
-- [ ] Thousand Oaks Star, 4 Dec 1990 (sister-paper version of the All-League list)
-- [ ] Simi Valley Star, Fri 18 Jan 1991 p.11, "Moorpark grapplers romp to win" (unique quotes on Robert's pin at 189 lbs)
-- [ ] Moorpark News-Mirror, Thu 24 Jan 1991 (team-brief version of the same match)
-- [ ] Simi Valley Star (The Enterprise), Fri 15 Dec 1989 p.11, "Pioneers can't fill all the holes, lose to Moorpark" (sophomore-year, direct quotes)
-- [ ] Simi Valley Star, Fri 4 Jan 1991 p.8, "Musketeers 63, Calabasas 9"
+- [x] Fresno Bee, Fri 13 Nov 1987 p.56, "Hoover wins, needs a miracle" — SAVED
+- [x] Fresno Bee, Thu 19 Nov 1987 p.64 (NYL standings/bracket) — SAVED
+- [x] Fresno Bee, Thu 10 Nov 1988 p.26 (playoff preview) — SAVED
+- [x] Fresno Bee, Thu 17 Nov 1988 p.26 (bracket/standings) — SAVED
+- [x] Fresno Bee, Sat 19 Nov 1988 p.24 (Bakersfield 42, Hoover 9 box score) — SAVED
+- [x] Ventura County Star-Free Press, Fri 30 Nov 1990 p.B-4, "Seraphs get a slice of TVL honors" — SAVED (found under masthead "Ventura County Star")
+- [ ] Thousand Oaks Star, 4 Dec 1990 (sister-paper version of the All-League list) — CHECKED: not found on Newspapers.com under this title/date/keyword combo; the Ventura County Star version above appears to be the only digitized copy of this story. Likely not indexed/digitized.
+- [x] Simi Valley Star, Fri 18 Jan 1991 p.11, "Moorpark grapplers romp to win" (unique quotes on Robert's pin at 189 lbs) — SAVED
+- [x] Moorpark News-Mirror, Thu 24 Jan 1991 (team-brief version of the same match) — SAVED
+- [x] Simi Valley Star (The Enterprise), Fri 15 Dec 1989 p.11, "Pioneers can't fill all the holes, lose to Moorpark" (sophomore-year, direct quotes) — SAVED both page 11 and the page 12 continuation
+- [x] Simi Valley Star, Fri 4 Jan 1991 p.8, "Musketeers 63, Calabasas 9" — SAVED
 
 ## Fresno/Dinuba Babcock generation
 
