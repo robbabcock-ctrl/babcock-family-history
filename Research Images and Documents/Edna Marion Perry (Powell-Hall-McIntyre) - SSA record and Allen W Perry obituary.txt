@@ -1,0 +1,64 @@
+Edna Marion Perry (b. 27 Nov 1906, Gordon, Sheridan Co. Nebraska - d. 29 Aug 1990)
+Daughter of Allen W. Perry + Bertha Stella Keown Perry; granddaughter of Thomas Henderson Keown +
+Phoebe Ellen McKinney. Married at least three times under three different surnames across her
+life: Powell (by 1933) -> Hall (by 1940, per her mother's obituary: "Mrs. Edna M. Hall of Gordon")
+-> McIntyre (by 1946, per her own SSA record notes).
+
+=== U.S., Social Security Applications and Claims Index, 1936-2007 ===
+Ancestry collection 60901, record 33307547
+
+Name: Edna Marion McIntyre [Edna M McIntyre] [Edna Marion Perry]
+Birth: 27 Nov 1906, Gordon Sherd [Sheridan], Nebraska
+Death: 29 Aug 1990
+Father: Allen W Perry
+Mother: Stella B Keown
+SSN: 523344725
+Notes: Aug 1946: Name Listed As Edna Marion McIntyre; 03 Jun 1993: Name Listed As Edna M McIntyre
+
+This directly confirms and resolves the checklist's "Edna Powell" AI-extraction lead (see below) --
+same person, earlier married name.
+
+=== "Edna Powell" resolved -- via her father Allen W. Perry's own obituary ===
+Image saved: Allen W Perry obituary - The Gordon Journal 26 Oct 1933.jpg
+The Gordon Journal, Thu 26 Oct 1933, page 8
+
+Full transcription:
+
+"A. W. PERRY
+
+Allen W. Perry was born at South Addison, New York, on March 31, 1863, and passed away at his
+home northwest of Gordon on October 23, 1933, at the age of 70 years, 6 months and 23 days.
+
+In 1884 he came to Nebraska and filed on a homestead northwest of Gordon, and proceeded to make a
+home in the then new country. On November 26, 1892, he was married to Bertha Stella Keoure [sic --
+Keown] and to this happy union 11 children were born, two passing away in infancy. He leaves to
+mourn his passing his widow, six sons, Tom, Ed, Charles and Claude of Gordon, William of Hay
+Springs and Lester, formerly of Merriman but now living in Oregon; three daughters, Mrs. Marie
+Wilson, Mrs. Lulu Eden of Gordon, and Mrs. Edna Powell of Denby, S.D.; one brother, E. H. Perry,
+and one sister, Mrs. Ellis Powell, of Gordon; also three brothers in New York; eight grandchildren
+and one great-grandchild.
+
+Mr. Perry was one of the pioneers of Western Nebraska and had no small part in making it the
+progressive place it now is. He was a kind and devoted husband and parent and a friendly neighbor
+and his passing will leave a place that will be hard to fill.
+
+Funeral services are to be held Thursday afternoon with Reverend McFarland officiating, and the
+remains will be laid to rest in the Gordon cemetery."
+
+This obituary (for Edna's father, not Edna herself) is what the "U.S., Newspapers.com Obituary
+Index" AI extraction mis-surfaced as an "Edna Powell" obituary entry -- it is actually Allen W.
+Perry's own obituary, which happens to name his daughter "Mrs. Edna Powell of Denby, S.D." among
+the survivors. This confirms: (1) Edna's married name in Oct 1933 was Powell, not yet Hall or
+McIntyre; (2) she was living in Denby, South Dakota at that time; (3) a family coincidence -- Allen
+Perry's own sister was ALSO a "Mrs. Ellis Powell of Gordon," so the Powell surname appears twice in
+one family, once via Edna's own (evidently short-lived, pre-1940) first marriage and once via
+Allen's sister's marriage -- these are likely connected/related Powell families in the same small
+Gordon, Nebraska community, though no direct link between the two Powell marriages was confirmed
+this session.
+
+BONUS: This obituary is also a valuable independent source for the whole Perry family, corroborating
+Bertha Stella Keown Perry's own 1940 obituary (already saved) almost exactly -- same 11
+children/2 died in infancy, same six living sons and their locations, same three daughters (here
+before Edna's later remarriages) -- and adds Allen's own birthplace (South Addison, NY, b. 31 Mar
+1863), his 1884 Nebraska homestead, and his siblings (brother E. H. Perry and sister Mrs. Ellis
+Powell of Gordon, plus three more brothers still in New York).
