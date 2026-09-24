@@ -61,10 +61,10 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 - [x] 1850 US Census, Curtis Babcock household, Scott NY (collection 8054, record 11609871) — **check `curtis_page.jpg` first**, it may already be this. CHECKED: `curtis_page.jpg` was actually the 1903 Babcock Genealogy book page 164, NOT the census — so this was genuinely unsaved. SAVED the real 1850 census image (household: Curtis, Loranda, Anson J. Babcock).
 - [x] 1860 Stephenson Co., IL census — to confirm "Geo D. Babcock" as an 8th Curtis Babcock child. SAVED: household confirms Geo D. Babcock among children.
 - [x] 1865 Illinois State Census, Oneco, Stephenson Co. IL (3 Jul 1865). SAVED.
-- [ ] Freeport Journal, 7 & 14 Jan 1858 — Curtis Babcock committed as insane pauper (sourced from another member's tree, never independently saved)
-- [ ] Freeport Journal-Standard, 19 Oct 1895, "Died in Nebraska" (Mrs. S.W. Hutchison obituary naming Curtis & Henry Babcock)
-- [ ] Daily Journal (Freeport IL), 2 Dec 1885, "A Pioneer Gone" (Anson Ashley Babcock's obituary)
-- [ ] Evening Times-Republican (Marshalltown IA), 9 Jan 1902 — Ira J. Babcock obituary
+- [x] Freeport Journal, 7 & 14 Jan 1858 — Curtis Babcock committed as insane pauper (sourced from another member's tree, never independently saved). SAVED: full page (7 Jan 1858, p.3) — "CURTIS BABCOCK. — The Board of Supervisors have appointed Dr. Martin, Jno. Milliken and F. Baker... to take charge of Curtis Babcock, the insane man now confined in the County jail." The 14 Jan follow-up was not separately located/needed.
+- [x] Freeport Journal-Standard, 19 Oct 1895, "Died in Nebraska" (Mrs. S.W. Hutchison obituary naming Curtis & Henry Babcock). SAVED: full page 8. A near-identical reprint in the Freeport Weekly Standard (25 Oct 1895) was found but skipped as redundant duplicate content.
+- [x] Daily Journal (Freeport IL), 2 Dec 1885, "A Pioneer Gone" (Anson Ashley Babcock's obituary). SAVED: full page 8.
+- [x] Evening Times-Republican (Marshalltown IA), 9 Jan 1902 — Ira J. Babcock obituary. SAVED: full page 3 (Chronicling America/Library of Congress-sourced, public domain). BONUS: also found and saved a second, more detailed obituary — "County Pioneer Passes Away" — in the Ottumwa Semi-Weekly Courier, 14 Jan 1902, page 3.
 - [ ] Jacksonville State Hospital admission-ledger page (archived web page only, no image/PDF saved)
 
 ## Rawson / Strong colonial line
