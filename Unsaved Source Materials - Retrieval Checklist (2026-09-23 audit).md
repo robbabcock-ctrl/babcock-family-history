@@ -155,10 +155,10 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Other
 
-- [ ] 1929 published Isbell genealogy (surname-origin legend)
-- [ ] John Brisby's War of 1812 pension application file (three service entries: 1812, 1814, 1815)
-- [ ] 1869 ship manifest, William Kapitzke, Bremen→NY, arrived 16 Apr 1869
-- [ ] "Pomerania, Germany, Parish Register Transcripts" — Wilhelm Kopitzke lead (blurred/unconfirmed)
+- [x] 1929 published Isbell genealogy (surname-origin legend). SAVED: "Genealogy of the Isbell Family" by Mary Isbell Scott (1929), p.54 -- full text of the Bell-to-Isbell surname legend and the 1680 New Amsterdam immigration story, via HathiTrust.
+- [x] John Brisby's War of 1812 pension application file (three service entries: 1812, 1814, 1815). SAVED: pension application file index card image (National Archives M313) plus a full transcription combining the pension index and the separate "U.S., War of 1812 Service Records" entry (2nd Regt, Cocke's West TN Militia, Private) -- the second collection is index-only, no image available.
+- [x] 1869 ship manifest, William Kapitzke, Bremen→NY, arrived 16 Apr 1869. SAVED: full manifest image (New York, U.S., Arriving Passenger and Crew Lists collection).
+- [x] "Pomerania, Germany, Parish Register Transcripts" — Wilhelm Kopitzke lead (blurred/unconfirmed). CHECKED: searched Ancestry for Wilhelm Kopitzke + Pomerania/parish register keywords; all matches found are clearly different, unrelated Kopitzke/Koepitzke individuals (wrong birth/death years, Berlin marriages, etc.). No stronger match located -- remaining a genuine dead end, consistent with the original "blurred/unconfirmed" flag.
 - [ ] Family photos from Lisa Kelly (Louise Rawson adoption branch) — shared via Gmail, not yet saved locally; also still need her mother's actual name/birthdate/adoption details
 
 ---
