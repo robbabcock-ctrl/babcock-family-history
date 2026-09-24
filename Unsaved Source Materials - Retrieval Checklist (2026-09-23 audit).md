@@ -55,10 +55,10 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 ## Curtis Babcock / Solomon Babcock line (Cortland Co., NY → Illinois)
 
 - [ ] 1824 Scott, NY school census — "Solomon Babcock — 5"
-- [ ] 1830 US Census, Solomon Babcock household, Scott NY (Ancestry collection 8058, record 1500326)
-- [ ] 1840 US Census, Solomon Babcock household, Homer NY (collection 8057, record 2363247)
-- [ ] 1855 NY State Census — naming Austin P. Babcock as Solomon's son
-- [ ] 1850 US Census, Curtis Babcock household, Scott NY (collection 8054, record 11609871) — **check `curtis_page.jpg` first**, it may already be this
+- [x] 1830 US Census, Solomon Babcock household, Scott NY (Ancestry collection 8058, record 1500326). SAVED.
+- [x] 1840 US Census, Solomon Babcock household, Homer NY (collection 8057, record 2363247). SAVED.
+- [x] 1855 NY State Census — naming Austin P. Babcock as Solomon's son. SAVED: household Solomon Babcock (78), Anna C. Babcock (69), Austin P. Babcock (30, son), Homer NY.
+- [x] 1850 US Census, Curtis Babcock household, Scott NY (collection 8054, record 11609871) — **check `curtis_page.jpg` first**, it may already be this. CHECKED: `curtis_page.jpg` was actually the 1903 Babcock Genealogy book page 164, NOT the census — so this was genuinely unsaved. SAVED the real 1850 census image (household: Curtis, Loranda, Anson J. Babcock).
 - [ ] 1860 Stephenson Co., IL census — to confirm "Geo D. Babcock" as an 8th Curtis Babcock child
 - [ ] 1865 Illinois State Census, Oneco, Stephenson Co. IL (3 Jul 1865)
 - [ ] Freeport Journal, 7 & 14 Jan 1858 — Curtis Babcock committed as insane pauper (sourced from another member's tree, never independently saved)
