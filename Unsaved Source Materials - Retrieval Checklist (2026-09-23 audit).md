@@ -119,10 +119,10 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Robert's own immediate family
 
-- [ ] Cynthia Ann Van De Walker's obituary — *The Fresno Bee*, 6 Dec 2002, p.B7
+- [x] Cynthia Ann Van De Walker's obituary — *The Fresno Bee*, 6 Dec 2002, p.B7. SAVED: full page. BONUS: resolves the previously-unidentified "Colgate Hoyt" lead — it's a real employer name ("Colgate-Hoyt"), where she worked as a pharmaceutical sales rep alongside Merck.
 - [ ] "Students complete EMT-1 training" — *Five Cities Times-Press-Recorder*, 14 Jan 1998, p.2 (the false-lead "Scott Babcock" clipping — worth keeping on file as a documented dead end)
-- [ ] "Air show" (RC plane photo of Bob Babcock) — *Visalia Times-Delta*, 15 Aug 2015, p.6A
-- [ ] Virginia (Rankin/Ey) Voll "recent deaths" index item — *Rochester Democrat and Chronicle*, 25 Jan 2013
+- [x] "Air show" (RC plane photo of Bob Babcock) — *Visalia Times-Delta*, 15 Aug 2015, p.6A. SAVED: full page (article continues from page 3A, not separately fetched).
+- [x] Virginia (Rankin/Ey) Voll "recent deaths" index item — *Rochester Democrat and Chronicle*, 25 Jan 2013. SAVED: full page F13 ("Voll, Virginia (Rankin) (Ey), Rochester, Jan. 7").
 - [ ] Pampaian Farms FMCSA SAFER filing + Fresno County Assessor record, 18852 E Adams Ave, Reedley CA (lower priority — database printouts)
 
 ## Robert's Athletic History (mostly still unsaved — only 3 of many clippings on disk)
