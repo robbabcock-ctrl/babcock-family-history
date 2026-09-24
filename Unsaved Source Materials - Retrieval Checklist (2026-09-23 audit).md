@@ -94,11 +94,11 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 - [ ] 1880 US Census — Margretha Brand (b. ~1848, Hesse-Darmstadt), Columbia, Monroe Co. IL
 - [ ] Cross-tree "Beggs/Newhouse Family Tree," Johann Paul Brand (parents Franz Brand + Maria Anna Hoffmaenn)
 - [ ] "Mainz, Germany, Births, Marriages and Deaths, 1798-1875" — possible/unconfirmed Paul Brand death record
-- [ ] Raymond Anthony Brand's obituary (d. 13 Feb 2022, Imperial, MO), myleaderpaper.com
-- [ ] Find A Grave, Otto C. Rohlfing, memorial 47565845, Saints Peter and Paul Cemetery, St. Louis MO
-- [ ] Ronald L. Rohlfing death notice, Missouri, d. 18 Nov 1995 (only an index entry seen so far)
+- [x] Raymond Anthony Brand's obituary (d. 13 Feb 2022, Imperial, MO), myleaderpaper.com. SAVED as text file.
+- [x] Find A Grave, Otto C. Rohlfing, memorial 47565845, Saints Peter and Paul Cemetery, St. Louis MO. Note: 47565845 is actually his wife Marietta's memorial (shared headstone) — Otto's own memorial ID is separate/linked from hers. SAVED the shared headstone photo.
+- [x] Ronald L. Rohlfing death notice, Missouri, d. 18 Nov 1995 (only an index entry seen so far). SAVED: full obituary clip, St. Louis Post-Dispatch 1995-11-21 page 13 (names siblings/nephews/nieces).
 - [ ] Cross-tree "John Keesey Giese" profile — 1850 census + Find A Grave sources for John Keesy (1804–1859)
-- [ ] Find A Grave, Rev. William Allen Keesy (1843–1910), memorial 59698253 — Civil War service (55th & 64th Ohio Infantry)
+- [x] Find A Grave, Rev. William Allen Keesy (1843–1910), memorial 59698253 — Civil War service (55th & 64th Ohio Infantry). SAVED: 5 photos (2 portraits, Civil War soldier photo, bearded portrait, "Jesus Paid It All" book cover) + full family details as .txt (confirms parents John Keesy 1804-1859 + Elizabeth Gons, and sister Margaret Keesy Ringle linking to the Ringle family).
 - [ ] "Pennsylvania and New Jersey, U.S., Church and Town Records" — baptism of Henricus Guessy/Keesy, 25 Jul 1762, York PA
 
 ## Keown / Perry family
