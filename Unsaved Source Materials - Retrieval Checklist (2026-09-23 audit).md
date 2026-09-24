@@ -90,8 +90,8 @@ Compiled 2026-09-23 by auditing the full 3,407-line Research Log against every f
 
 ## Brand / Keesy families
 
-- [ ] Ancestry cross-tree "Lisa's Family Tree," Joseph Michael Brand — census records (1870/1880/1900), Civil War Draft Registration, Find A Grave, marriage records
-- [ ] 1880 US Census — Margretha Brand (b. ~1848, Hesse-Darmstadt), Columbia, Monroe Co. IL
+- [x] Ancestry cross-tree "Lisa's Family Tree," Joseph Michael Brand — census records (1870/1880/1900), Civil War Draft Registration, Find A Grave, marriage records. SAVED: 1870/1880/1900 census images + full transcription, Find A Grave headstone photo + obituary clip (Waterloo Republican 16 Jul 1903) + Civil War service note, Illinois marriage record transcription (m. Margaretha Scheller, 1880), Civil War Draft Registration transcription (image download failed with repeated Ancestry-side HTTP 503 errors on this large multi-name ledger page — full indexed transcription saved instead). DATA QUALITY FIX: Ancestry's own Find A Grave index pointed to the WRONG memorial (103497121, an unrelated person); corrected via Find A Grave's own search to memorial 103497141. Also resolved: the obituary's unnamed "one daughter" is Cathrina/Catherine Brand (confirmed via 1880 census household).
+- [x] 1880 US Census — Margretha Brand (b. ~1848), Columbia, Monroe Co. IL. SAVED as part of Joseph Brand's own 1880 census record above (same household) — confirms her maiden name Scheller via the accompanying 1880 IL marriage record.
 - [ ] Cross-tree "Beggs/Newhouse Family Tree," Johann Paul Brand (parents Franz Brand + Maria Anna Hoffmaenn)
 - [ ] "Mainz, Germany, Births, Marriages and Deaths, 1798-1875" — possible/unconfirmed Paul Brand death record
 - [x] Raymond Anthony Brand's obituary (d. 13 Feb 2022, Imperial, MO), myleaderpaper.com. SAVED as text file.

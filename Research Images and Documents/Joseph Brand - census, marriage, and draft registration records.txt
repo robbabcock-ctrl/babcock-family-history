@@ -1,0 +1,108 @@
+Joseph Michael Brand (baptized Freudenberg, Mosbach, Baden, Germany, 24 Sep 1829 - 11 Jul 1903,
+Monroe Co., Illinois) -- census, marriage, and draft registration records retrieved from Ancestry's
+"Lisa's Family Tree" cross-tree match and the Find A Grave memorial's "Records on Ancestry" panel.
+
+=== 1870 U.S. Federal Census ===
+Image saved: Joseph Brand (Jos Brandt) 1870 census - Columbia Monroe Co IL.jpg
+Ancestry collection 7163, record 16126232
+
+Name: Jos Brandt
+Age in 1870: 40 (b. abt 1830)
+Birthplace: Baden
+Home in 1870: Columbia, Monroe, Illinois
+Occupation: House Carpenter
+Father of Foreign Birth: Yes / Mother of Foreign Birth: Yes
+Personal Estate Value: $200 / Real Estate Value: $1,500
+
+Household:
+- Jos Brandt, 40
+- Elisabeth Brandt, 32 (wife -- Elisabeth Regener/Regner, his first wife)
+- William Brandt, 6
+- Peter Brandt, 2
+
+Citation: Year: 1870; Census Place: Columbia, Monroe, Illinois; Roll: M593_261; Page: 408B
+
+=== 1880 U.S. Federal Census ===
+Image saved: Joseph Brand 1880 census - Columbia Monroe Co IL.jpg
+Ancestry collection 6742, record 21574906
+
+Name: Joseph Brand
+Age: 50 (b. abt 1830), Birthplace: Baden
+Home in 1880: Columbia, Monroe, Illinois, USA / Dwelling Number: 529
+Relation to Head of House: Self (Head) / Marital Status: Married
+Spouse's Name: Margretha Brand
+Father's/Mother's Birthplace: Baden
+Occupation: Carpenter
+
+Household:
+- Joseph Brand, 50, Head
+- Margretha Brand, 32, Wife
+- William Brand, 16, Son
+- Peter Brand, 12, Son
+- Cathrina Brand, 6, Daughter
+- Jacob Brand, 3, Son
+
+Citation: Year: 1880; Census Place: Columbia, Monroe, Illinois; Roll: 237; Page: 29b; Enumeration
+District: 064
+
+NOTE: This confirms Elisabeth Regener Brand (first wife, per Find A Grave, 1838-1879) died before
+1880 and Joseph remarried Margretha (maiden name Scheller -- see marriage record below) that same
+year. Cathrina (age 6 in 1880, b. ~1874) is the "one daughter, all grown" mentioned in Joseph's
+1903 obituary alongside sons Peter, William, and Jacob -- this had been an open question (the
+obituary names the daughter's siblings but not her), now resolved: her name is Cathrina/Catherine
+Brand. Since Cathrina and Jacob were both born years before Margretha's 1880 marriage, they (like
+William and Peter) are children of Joseph's first wife Elisabeth, and Margretha was their
+stepmother by the time of this census.
+
+=== 1900 U.S. Federal Census ===
+Image saved: Joseph Brand 1900 census - Columbia Monroe Co IL.jpg
+Ancestry collection 7602, record 15411620
+
+Name: Joseph Brand, Age: 70, Birth Date: Sep 1829, Birthplace: Germany
+Home in 1900: Columbia, Monroe, Illinois (House No. 2, Street No. 17, Dwelling 317, Family 321)
+Immigration Year: 1851 / Years in US: 49
+Relation to Head of House: Head / Marital Status: Married
+Spouse's Name: Margaretha Brand / Marriage Year: 1880 / Years Married: 20
+Father's Birthplace: Germany / Mother's Birthplace: Germany
+Can Read: Y / Can Write: Y
+
+Citation: Year: 1900; Census Place: Columbia, Monroe, Illinois; (National Archives microfilm)
+
+=== Illinois, U.S., County Marriage Records, 1800-1940 ===
+Ancestry collection 61370, record 1293162 (index only -- no page image in this Ancestry collection)
+
+Name: Joseph Brand, Gender: Male, Age: 51, Birth Year: abt 1829
+Marriage Date: 1880
+Marriage Place: Monroe, Illinois, USA
+Father: Paul Brand
+Mother: Catharine Kaik (matches "Katharina Barbara Keck" from the Ancestry tree profile -- "Kaik"
+here is evidently a transcription/OCR variant of "Keck")
+Spouse: Margaretha Scheller (her maiden name -- confirms "Margretha/Margaretha Brand" of the 1880
+and 1900 census is Joseph's second wife, nee Scheller, not an unrelated Margretha Brand)
+
+=== U.S., Civil War Draft Registrations Records, 1863-1865 ===
+Ancestry collection 1666, record 4434837
+Image: attempted download but Ancestry's image-retrieval API returned repeated HTTP 503 (Service
+Unavailable) errors for this specific page across multiple retries (this is a large multi-name
+consolidated enrollment ledger page, not an individual document) -- the full structured
+transcription below is Ancestry's own indexed data for this record and is considered the complete
+capture of this source per this project's established fallback pattern for records where the
+image cannot be retrieved.
+
+Name: Joseph Brand
+Marital Status: Married, Race: White, Age: 33 (b. abt 1830), Birth Place: Baden
+Residence Date: 1 Jul 1863, Residence Place: Missouri, USA
+Congressional District: 2nd, Class: 1
+Series Number: NM-65, Entry 172
+Description: Class 1, A-G, Volume 1 of 7
+
+Citation: The National Archives in Washington, DC; Consolidated Lists of Civil War Draft
+Registration Records (Provost Marshal General's Bureau; Consolidated Enrollment Lists,
+1863-1865); Record Group: 110; NAI: 4213514; Archive Volume Number: 1 of 7
+
+NOTE: This confirms Joseph was living in Missouri (not yet Illinois) as of the 1 Jul 1863 draft
+enrollment, consistent with his later 1900 census entry showing 1851 immigration and his Civil War
+service record (Company D, 1st Regiment US Reserve Corps Missouri Infantry, mustered out 20 Aug
+1861) being a Missouri unit -- he evidently remained in the St. Louis/Missouri area for some years
+after his brief 1861 military service before relocating across the river to Columbia, Monroe
+County, Illinois (where he appears by the 1870 census).
