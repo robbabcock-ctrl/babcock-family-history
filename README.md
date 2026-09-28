@@ -23,6 +23,9 @@ can read, search, and reuse everything in it.
   tree (Ancestry's own write UI broke partway through this project's autonomous research push).
   Referenced from the main log's Outstanding Tasks section rather than duplicated there.
 
+- **`Potential Enhancements.md`** — ideas for improving how the archive is shared (e.g. a
+  family-friendly website), parked for later.
+
 - **Narrative write-ups (`.docx` / `.pdf`)** — polished, readable accounts pulled together from
   the research log for specific people or family lines:
   - *The Chapman Family Album - Findings.docx* — the Chapman/Kimball/Babcock photo collection review
