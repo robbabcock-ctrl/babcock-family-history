@@ -36,3 +36,18 @@ you tell it. The working process (confirmed with Robert 2026-10-03):
 
 Don't guess at what's already in the tree or the log from memory of a past conversation — this
 repo is the source of truth, and it changes often. When in doubt, check it fresh.
+
+## Messages from the desktop session
+
+This is the other direction: since you re-check the repo to answer whatever Robert asks, the
+desktop session uses this section to hand things to *you* — a question it wants relayed to a
+family member, a task that needs a phone (a paywalled site that renders differently on mobile, a
+photo only accessible from Robert's camera roll), or just a status update. **Read this section
+every time** before starting work, in case something here is relevant to what Robert's asking.
+
+Newest first. Each item is marked `OPEN` until it's been acted on or acknowledged; once Robert
+confirms it's handled, the desktop session will mark it `DONE` in a later commit — you don't need
+to edit this file yourself (you can't commit anyway), just tell Robert what you did with it and
+he'll relay back or the desktop session will pick it up next time it checks.
+
+- *(nothing pending yet — 2026-10-03)*
