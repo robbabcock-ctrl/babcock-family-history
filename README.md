@@ -61,6 +61,12 @@ Internet Archive) if ever needed again — they aren't unique family material. T
 Robert's own machine. Ask Robert (or Claude) if a specific citation from one of them needs to be
 pulled back out and added here.
 
+## Working from a second Claude session (e.g. mobile)
+
+If you're continuing this research from a Claude session that only has read access to this
+public repo (no local files, no commit access) — see **`MOBILE-SESSION-GUIDE.md`** for how to
+hand findings back to the primary session so they get folded into the permanent record.
+
 ## Sourcing convention
 
 Throughout the research log and the narrative documents, facts are marked as either
