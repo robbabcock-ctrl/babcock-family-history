@@ -1,0 +1,18 @@
+CITATION HEADER
+Collection: David Rumsey Map Collection (Stanford), mirrored on Internet Archive (free; CC BY-NC-SA 3.0, credit "David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries")
+Work: Combination Atlas Map of Stephenson County, Illinois. Compiled, drawn and published from personal examinations and surveys by Thompson & Everts, Geneva, Illinois, 1871.
+Retrieved: 2026-11-15 by agent "babcock"
+
+ITEM 1: "Map of Oneco Township. Map of Winslow. Map of Orangeville. Map of Oneco. Map of Buena Vista." (atlas pp. 13-14, Rumsey list no. 4459.011)
+  URL: https://archive.org/details/dr_map-of-oneco-township-map-of-winslow-map-of-orangeville-map-of-oneco-ma-4459011
+  Rumsey: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~257010~5520675
+  Reads: a landholding labelled "Mrs Lorenda Babcock" in Oneco Township (Range 8 East), immediately NW of the village of Oneco (neighbours: Wohlford, Beams, D. Chilton, Sam'l Stout, J.W. Sherbondy, Oneco Flouring Mill). 
+  Interpretation: = Loranda Babcock, widow of Curtis Babcock (d. 1870, Oneco), who per the Freeport Journal-Standard obituary of her daughter (19 Oct 1895) later lived "on the old homestead" in Oneco township as "Mrs. Goodman" (she m. David Goodman 4 Mar 1873, Monroe WI). Spelling "Lorenda" is the engraver's variant of Loranda.
+  Identifiers matching: given name Loranda (variant) + Babcock + Oneco Twp + 1871 (one year after Curtis's death) + widow style "Mrs".
+
+ITEM 2: "(View) Ridott Graded School. Residences of Ross Babcock, Geo. W. Loveland, Thomas Hunt, John Gibler, John Lower" (atlas p. 54, Rumsey list no. 4459.049)
+  URL: https://archive.org/details/dr_view-ridott-graded-school-residences-of-ross-babcock-geo-w-loveland-4459049
+  Rumsey: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~257055~5520713
+  Reads (lithograph caption): "Res. of Ross Babcock, Sec. 34 Ridott Tp. Stephenson County Illinois" - a farmhouse with barns, orchard-trees and a carriage in front.
+  Interpretation: Ross Babcock (b. 1809 Cortland Co. NY, d. 1878 Ridott/Stephenson Co. IL), son of Solomon Babcock and Amy Morgan, brother of Curtis's father's generation... i.e. Curtis's brother (log: Solomon's children list). 1903 Babcock Genealogy: "Ross, b. 1809; m. Lydia Wells. Settled in Stephentown [sic = Stephenson], Ill." Log: Ross d. 1878 (cistern fall, Belvidere Standard).
+  Confidence: Ross Babcock + Ridott Tp. + Stephenson Co. + 1871 matches (name, place, county, era; the only Ross Babcock in Stephenson County in the log). Treated as CONFIRMED identity of the homeowner pending a Ridott-Tp. 1870 census check (not done).

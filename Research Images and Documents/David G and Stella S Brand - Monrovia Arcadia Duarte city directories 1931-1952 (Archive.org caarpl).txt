@@ -1,0 +1,22 @@
+CITATION HEADER
+Collection: Arcadia (CA) Public Library local directories digitized on the Internet Archive, identifiers caarpl_000008 ... caarpl_000015
+Titles: "Monrovia, Arcadia and Duarte City Directory" 1931-32, 1935, 1937, 1939, 1944, 1948, 1950, 1952 (R. L. Polk publishers)
+URLs: https://archive.org/details/caarpl_000008 (1931-32), caarpl_000009 (1935), caarpl_000010 (1937), caarpl_000011 (1939), caarpl_000012 (1944), caarpl_000013 (1948), caarpl_000014 (1950), caarpl_000015 (1952). Full OCR: https://archive.org/download/<id>/<id>_access_djvu.txt
+Also on IA: caarpl_000002-000007 (1923-1930), caarpl_000016-000018 (1953-58), Polk's Arcadia 1959-1965 (caarpl_000019-23). 1923-1930 and 1944 contain NO Brand entry (OCR searched).
+Retrieved 2026-11-15.
+
+TRANSCRIPTIONS (OCR; abbreviations: h = home, r = resides, lndywkr = laundry worker, lab = laborer, D&NWHCo = Day & Night Water Heater Co., mach = machinist, formn = foreman)
+1931-32: "Brand Stella S Indywkr Monrovia Lndy r Covina"   [directory line 4439 of OCR]
+1935:    "Brand David (Stella) h 314 1/2 W Lime av" ; "Brand Stella S Mrs Indywkr Monrovia Lndy r 314 1/2 W Lime" ; street index "314 1/2 Brand David"
+1937:    street index "314 1/2 Brand D G"
+1939:    "Brand David G (Stella) lab D&NWHCo h 314 1/2 W Lime av"
+1944:    "Schlottach Clara J (wid Robt) r 314 1/2 W Lime av" ; "Howell Melvin (Ruth P) USA h 314 1/2 W Lime av"  (no Brand entry in this volume's OCR)
+1948:    "Brand David G (Stella S) h 732 E Foothill blvd"
+1950:    "Brand David G (Stella S) mach h 830 Wild Rose av"
+1952:    "Brand David G (Stella S) formn Day & Night h 830 Wild Rose av"
+
+ANALYSIS (agent note)
+- Gives David Brand and wife Stella a documented Monrovia, California address history for the first time in the log: Stella alone (a laundry worker, Monrovia Laundry) in 1931-32 living "r Covina" [i.e., not yet at Lime Ave - possibly before David joined her; UNCONFIRMED reading]; the couple at 314 1/2 West Lime Ave 1935-1939 (David a laborer for Day & Night Water Heater Co. by 1939); 732 E. Foothill Blvd 1948; 830 Wild Rose Ave 1950-52 with David a machinist then foreman at Day & Night [Water Heater Co., Monrovia].
+- Stella's mother Clara J. (widow of Robt Schlottach) and sister Ruth P. + Melvin Howell lived at the same 314 1/2 W. Lime Ave in 1944 - the Lime Ave home was a shared family address.
+- Fits the log: Bernadine b. 1924 St. Louis; "only child of David and Stella Brand of Monrovia"; graduated Monrovia-Arcadia-Duarte High; the David Brand of the 1938 St. Louis notice is "of Monrovia, Calif." So the family relocated from St. Louis to Monrovia between roughly 1931 and 1935 (Stella first appears 1931-32; no Brand in 1930 or earlier directories). Identifiers: David + wife Stella + Monrovia + later facts. CONFIRMED same family only via the 1938 Post-Dispatch notice ("David Brand of Monrovia") and Clara Schlottach's co-residence at the same address in 1944.
+- Daughter Bernadine (age 11-15 in 1935-39) is not listed separately (minors normally omitted).

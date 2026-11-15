@@ -1,0 +1,17 @@
+CITATION HEADER
+Collection: Chronicling America (Library of Congress), Missouri Digital Newspaper Project (State Historical Society of Missouri)
+Title: Hermanner Volksblatt (Hermann, Mo.), 21 January 1916, Vol. 67?, page 8 (German-language weekly, Gasconade County)
+LCCN sn93060116; issue URL https://www.loc.gov/item/sn93060116/1916-01-21/ed-1/ ; page 8 = https://www.loc.gov/resource/sn93060116/1916-01-21/ed-1/?sp=8
+OCR text (rate-limit-free route): https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_archie_ver01/data/sn93060116/00280779799/1916012101/0442.xml&format=alto_xml&full_text=1
+Retrieved: 2026-11-15. Page image saved as "Ferdinand Schlottach obituary - Hermanner Volksblatt 21 Jan 1916 p8 - page image.jpg"; full page OCR saved as hv_1916-01-21_p8.txt.
+
+TRANSCRIPTION (German, OCR-corrected; the column is the Owensville / Bem local-news letter, heading garbled in the OCR as "Oniknövillk, N. 3." = "Owensville, R. 3")
+"Ferdinand Schlottach starb hier in seiner Wohnung, am vergangenen Freitag Vormittag, im Alter von 75 Jahren. Herr Schlottach war schon seit mehreren Jahren fast beständig an sein Bett gefesselt, infolge einer Komplikation verschiedener Leiden. Er war einer der ersten Ansiedler in dieser Gegend. Allen ein Freund, fanden wir ihn stets bereit einen guten Zweck zu unterstützen und zu fördern. Die Trauerfeier fand statt am letzten Montag, in der Wohnung des Verstorbenen, und dann später in der Evangl. Kirche, in Bem, deren Mitglied der Verstorbene gewesen war."
+
+ENGLISH
+"Ferdinand Schlottach died here at his home last Friday morning [= Fri 14 Jan 1916], aged 75 years. Mr. Schlottach had been almost constantly bedridden for several years from a complication of various ailments. He was one of the first settlers in this area. A friend to all, we always found him ready to support and promote a good cause. The funeral service took place last Monday [= 17 Jan 1916] at the deceased's home, and later in the Evangelical Church in Bem, of which the deceased had been a member."
+
+ANALYSIS (agent note)
+- Matches the research log's Ferdinand Heinrich Schlottach (1841-1916), married Albertine Kottwitz, living in Gasconade County: age 75 in Jan 1916 -> b. ~1840-41; Gasconade Co. (Owensville/Bem area) pioneer; died January 1916. Identifiers: forename + surname + age + year + place (Gasconade Co.), plus 1913 atlas/probate/obituary context; strong match but the notice names no wife or children, so CONFIRMED only as "a Ferdinand Schlottach, aged 75, a pioneer settler near Owensville/Bem d. Jan 1916" - treat as UNCONFIRMED-but-very-probable to be the log's Ferdinand Heinrich.
+- NEW to the log: death date (Fri 14 Jan 1916 - the Friday before the 21 Jan issue), place (his home, Owensville vicinity, Gasconade Co.), long invalidism (bedridden "several years"), burial/funeral at the Evangelical Church at Bem (St. John's UCC, Bem), "one of the first settlers", and the exact funeral date (Mon 17 Jan 1916). The log had only "1841-1916".
+- Albertine's April 1928 St. Louis death was followed by interment at Owensville, Mo. (see separate Post-Dispatch file) - same Gasconade home.

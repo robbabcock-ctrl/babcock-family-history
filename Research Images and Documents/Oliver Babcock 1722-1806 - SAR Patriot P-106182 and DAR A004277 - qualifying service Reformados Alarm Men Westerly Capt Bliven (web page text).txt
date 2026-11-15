@@ -1,0 +1,17 @@
+CITATION HEADER
+Source: Sons of the American Revolution Patriot Index, "Display Patriot - P-106182 - Oliver BABCOCK Sr"
+URL: https://sarpatriots.sar.org/patriot/display/106182
+Retrieved 2026-11-15 (agent "babcock"; text as relayed by WebFetch summary, not a saved page image)
+NOT a LoC item - found while looking for Revolutionary War service records for the Westerly/Hopkinton Babcocks (LoC itself has no item-level hit).
+
+Content (from the SAR page):
+- Name: Oliver BABCOCK Sr (SAR index label; this is the man the research log calls Oliver Babcock JR.)
+- Birth: 16 Sep 1722, Westerly, Washington Co., RI.  Death: 24 Feb 1806, Leyden, Franklin Co., MA   (matches log dates exactly)
+- State of service: RI.  Rank: Private.   
+- Qualifying service: "Reformados Alarm Men, Westerly, RI, Captain Bliven"
+- Spouse: Patience Pendleton.  Children listed: Peleg, Paul, Ezra, Luke, Oliver Jr.
+- DAR #: A004277.  Burial: West Leyden Cemetery, Leyden MA (Find a Grave memorial 6824294).
+- Source cited: "RI ST ARCH INDEX TO MIL & NAV RECS, 1774-1805", FHL film 934759 (an INDEX, not the muster roll itself).
+- The page states it "cannot be used directly as proof of Qualifying Service or Lineage"; five SAR members already claim descent via Peleg, Paul, Luke and others.
+
+WHY IT MATTERS: The research log (sessions 43-44, 2026-09-11) records a photo caption calling Oliver "Lieut." Both the SAR and DAR (A004277) indexes give his rank as PRIVATE in the Westerly alarm company (he was aged ~53-54 in 1776, so alarm-list/reformado service is plausible). "Lieut." appears to belong to a different Oliver Babcock (WeRelate lists a Lt. Oliver Babcock b. 28 Jun 1746 Hopkinton, probably Oliver's son; unverified).

@@ -1,0 +1,16 @@
+CITATION HEADER
+Collection: St. Louis Post-Dispatch (Internet Archive scan, full-text OCR)
+Issue: St. Louis Post-Dispatch, Thursday 3 Nov 1938, Vol 91 Iss 59, death-notice column (the paid notice for BRAND, MARIETTA)
+Identifier / URL: https://archive.org/details/per_st-louis-post-dispatch_1938-11-03_91_59
+OCR text: https://archive.org/download/per_st-louis-post-dispatch_1938-11-03_91_59/per_st-louis-post-dispatch_1938-11-03_91_59_djvu.txt  (line ~18,480)
+Retrieved: 2026-11-15
+NOTE: raw OCR, interleaved with neighbouring columns; fragments only, read the page image to confirm wording.
+
+LEGIBLE FRAGMENTS (OCR)
+"BRAND, MARRIETTA (nee Phiffer [Pfeffer]) -- [...] Illinois, Tues., Nov. 1, 1938, 11 [p.m.], [wife] of Jacob Brand, and dear [mother of David] Brand of Monrovia, [Calif.], Marietta Rohlfing (nee Brand), and Vern [Brand]; [...] sister, sister-in-law, mother-in-law?, grandmother and aunt. [...] Funeral from Wacker-Helderle Chapel [...] Sat., Nov. [5] [...]"
+(The "Sunset Burial Park" and "Oak Grove Mausoleum" lines nearby belong to other notices.)
+
+ANALYSIS
+- Matches the log's Marietta Blackwell/Pfeffer Brand: d. Tues 1 Nov 1938 11 p.m. (log: death cert, St. Louis City Hospital, 11 pm); wife of Jacob Brand; maiden/adoptive name Pfeffer; children David Brand OF MONROVIA, CALIF. (= Bernadine's father David Brand of Monrovia, CA per her obituary), Marietta Rohlfing (nee Brand) (independently confirms the daughter's married name Rohlfing and shows the "Behnling" in earlier notes was a misreading), and Vern. Funeral Sat. 5 Nov 1938 (log: buried Columbia IL Nov 5).
+- First newspaper confirmation that a 1938 Brand family notice names the grandchildren's father "David Brand of Monrovia" - useful to anchor the Bernadine/Monrovia link.
+- The notice as printed calls her "nee Pfeffer" (adoptive surname), consistent with the log's note that obituaries used the adoptive name.

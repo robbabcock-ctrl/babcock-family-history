@@ -1,0 +1,8 @@
+CITATION HEADER
+Collection: Chronicling America (Library of Congress), Hermanner Volksblatt (Hermann, Mo.), 20 August 1897, page 4, column "Heirathslizenzen" (marriage licenses)
+LCCN sn93060116; issue https://www.loc.gov/item/sn93060116/1897-08-20/ed-1/ ; OCR via tile.loc.gov text service (see tile_contexts.txt in this folder). Retrieved 2026-11-15.
+TRANSCRIPTION (OCR; layout is two columns of names followed by a column of ages, so name/age pairs must be matched by order)
+"Heirathslizenzen. ... R. C. Schlottach, Red Bird ... Clara I. [J.] Sewell. ... Louis Koch, McKittrick, Mo. ... Laura Hampton, Rhineland ... Jas. Warren, Tea, Mo. ... Amanda Matthews, Tea, Mo. ... [ages column:] 25 19 23 25 42 31"
+Reading by order: R. C. Schlottach (of Red Bird) age 25 + Clara J. Sewell age [19]; Louis Koch (McKittrick) 23 + Laura Hampton (Rhineland) 25?; Jas. Warren (Tea) 42 + Amanda Matthews (Tea) 31 (age pairing is approximate because of the OCR order).
+ANALYSIS (agent note)
+- Primary-type record (county marriage-license list published in the local paper) for the log's marriage: Robert C. Schlottach (b. 18 Apr 1872 -> age 25 in Aug 1897) and Clara Jane Sewell (b. 1878 -> age 19) of Gasconade Co.; the log gives the wedding as 26 Aug 1897; this list (20 Aug 1897) is the licence issued six days earlier. Identifiers: initials R. C. + surname + Red Bird + Clara J. Sewell + Aug 1897 + ages. CONFIRMS the log's date/place; adds Robert C.'s residence "Red Bird" (Franklin/Gasconade line) at marriage. Mark as strongly corroborating (CONFIRMED by the combination of name pair + date + place).

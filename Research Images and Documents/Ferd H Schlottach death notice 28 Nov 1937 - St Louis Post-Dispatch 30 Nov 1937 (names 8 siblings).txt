@@ -1,0 +1,15 @@
+CITATION HEADER
+Collection: St. Louis Post-Dispatch (Internet Archive full-text scan; identifier per_st-louis-post-dispatch_1937-11-30_90_86)
+Title/date: St. Louis Post-Dispatch, 30 Nov 1937, Vol 90 Iss 86, Death notices column ("DEATHS" list names SCHLOTTACH, FERD H.)
+URL: https://archive.org/details/per_st-louis-post-dispatch_1937-11-30_90_86   (OCR: https://archive.org/download/per_st-louis-post-dispatch_1937-11-30_90_86/per_st-louis-post-dispatch_1937-11-30_90_86_djvu.txt)
+Same notice also in the 29 Nov 1937 issue (per_st-louis-post-dispatch_1937-11-29_90_85).
+Retrieved: 2026-11-15 via archive.org full-text search (service_backend=fts), query "Schlottach AND year:[1880 TO 1950]"
+OCR is raw; transcription below is the cleaned OCR of the paid notice.
+
+TRANSCRIPTION
+SCHLOTTACH, FERD. H. -- Entered into rest Sun., Nov. 28, 1937, 3:55 p.m., beloved brother of Mauda [Maud] Miller, Minnie Howard, Alberteria Neely, Flora Dozier, Otto, Paul, Martha and Lydia Schlottach, dear brother-in-law and uncle. Remains will lie in state at Schnur Funeral Home, 3125 Lafayette av., until Wed., Dec. 1, 11 a.m., thence removed to St. Luke's Ev. Church, 2336 Tennessee av. Funeral same day, 2 p.m. Interment Mount Lebanon Cemetery.
+(A preceding item, "Litchfield (Ill) papers please copy," belongs to the Rittenberg notice above it, not to Schlottach.)
+
+ANALYSIS (agent note)
+- Ferd H. Schlottach, St. Louis, d. 28 Nov 1937: eight living siblings named. Naming pattern (Albert-ine-ria Neely, Otto, Paul) matches the known family: Ferdinand Heinrich Schlottach (1841-1916) m. Albertine Kottwitz; their son Robert C. (1872-1922) named sons Alfred PAUL and Amiel OTTO. So this is probably Robert C.'s younger brother (UNCONFIRMED: no notice yet names the father/mother).
+- Would add siblings of Robert C.: Maud Miller, Minnie Howard, Albertina Neely, Flora Dozier, Otto, Paul, Martha (probably Deaconess Martha Schlottach, Emmaus Asylum, Marthasville MO, 1918-1924 Evangelical Year Books), Lydia.

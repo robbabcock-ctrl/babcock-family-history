@@ -1,0 +1,19 @@
+CITATION HEADER
+Collection: Founders Online (US National Archives / NHPRC), source project Franklin Papers (Yale/American Philosophical Society). Originals: ALS, American Philosophical Society.
+Items:
+ (1) "Joshua Babcock to Benjamin Franklin, 15 February 1774", Westerly. https://founders.archives.gov/documents/Franklin/01-21-02-0029  [Papers of Benjamin Franklin vol. 21, pp. 96-99]
+ (2) "Joshua Babcock to Benjamin Franklin, 31 May 1778", Westerly. https://founders.archives.gov/documents/Franklin/01-26-02-0491  [vol. 26, pp. 548-552]
+ Also Franklin -> Babcock letters 1755-1772: 01-06-02-0075 (1 Sep 1755), 01-09-02-0174 (10 Dec 1761), 01-10-02-0094 (16 Dec 1762), 01-10-02-0179 (5 Sep 1763), 01-10-02-0189 (18 Oct 1763), 01-10-02-0196 (10 Nov 1763), 01-17-02-0039 (26 Feb 1770), 01-19-02-0004 (13 Jan 1772)  [all https://founders.archives.gov/documents/Franklin/<id>]
+Retrieved 2026-11-15 (agent "babcock", via Chrome; founders.archives.gov blocks curl). The letters are 1774/1778 primary documents (public domain); the editorial notes are (c) APS/Yale and are only paraphrased here.
+
+KEY PASSAGES (verbatim from the letters):
+(1) Dateline "Westerly 15th Februa 1774", signed "Josh Babcock", addressed "Honble. Doctr. Franklin London". Mentions the Boston Tea Party ("the Fate of the India-Company's 342 Chests of Tea") and that "many of the Towns in the Colonys, in this in particular" were forming resolutions against dutied tea; also the Simsbury copper-mine prison.
+(2) Dateline "Westerly 31 May 1778", signed "Josh Babcock", to "His Excellency Doctr Franklin". Describes Rhode Island under British occupation of Newport: "½ the Militia and ½ the Alarum-List have during the last Summer been constantly on Guard by Releifs till almost Christmass" (i.e., the Westerly alarm-list service that the SAR/DAR index credits to Oliver Babcock b. 1722, 'Reformados Alarm Men, Westerly, Capt. Bliven'); also the Feb 1778 Rhode Island act to enlist slaves.
+
+EDITORIAL POINTS (paraphrase):
+- Franklin Papers editors call him "the storekeeper and ex-physician of Westerly, R.I., with whom BF had been in intermittent correspondence since 1755", and say these are the only two surviving letters from him.
+- Editors' note to the 1778 letter says a fuller sketch of him is in Stephen Babcock, Babcock Genealogy (New York, 1903), pp. 30-32 -- i.e., the same 1903 book already in Robert's Source Texts folder as the source of the Babcock descent.
+- 1778 note: Joshua was chosen representative of Westerly in May 1778; his half-brother protested the slave-enlistment act in the RI colonial records.
+- Franklin often stayed with Babcock when passing through Westerly (Babcock-Smith House, HABS RI-142).
+
+RELATIONSHIP TO ROBERT (from research log, 2026-09-16 section): Dr. Joshua Babcock (1707-1783) = son of Capt. James Babcock; first cousin of Oliver Babcock Jr. (1722-1806). So he is a COLLATERAL cousin (Robert's 7th-great-grandfather's first cousin), not a direct ancestor.

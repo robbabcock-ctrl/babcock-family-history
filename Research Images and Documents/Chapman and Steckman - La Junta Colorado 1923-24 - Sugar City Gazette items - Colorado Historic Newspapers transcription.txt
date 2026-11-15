@@ -1,0 +1,25 @@
+Collection: Colorado Historic Newspapers Collection (CHNC, Colorado State Library/Colorado Historical Society) - free, but blocks curl (Cloudflare); read through Robert's Chrome browser.
+Paper: The Sugar City Gazette (Sugar City, Crowley County, Colorado). OCR text; errors left as-is. Retrieved 2026-11-15.
+Article IDs are the CHNC "d=" document IDs; open as https://www.coloradohistoricnewspapers.org/?a=d&d=<ID>   (add &dliv=none&st=1 for plain text view)
+
+=== 1. 7 Sep 1923, "NEWS FROM THE FOLKS IN LA JUNTA" (ID SUG19230907-01.2.67) ===
+"...Miss Alma Steckman spent a few days last week with Mrs. Marion Barlow. ... J. A. and M. A. Barlow and Arthur Chapman were among the large number from here who attended the 'Biggest in the World' Men's Bible Class at Colorado Springs last Sunday. Born - To Mr. and Mrs. Arthur Chapman, September 6th, twin boys. All doing well at this writing. A special feature of the Labor Day celebration here was the grand parade given by the R. R. shop men. Harold Barlow of Sand Arroya came for a few days' visit this week with his relatives and friends in La Junta."
+  -> Birth notice of twin boys to Arthur Chapman, 6 Sep 1923, La Junta column. Matches Lee L. and Dee Roy Chapman (twins, b. 6 Sep 1923 La Junta, Otero Co., CO). The same column names Alma Steckman and the Barlow family.
+
+=== 2. 1 Jun 1923, "NEWS FROM GREEN KNOLL" (ID SUG19230601-01.2.99) ===
+"A. B. Steckman has his car repaired and in running order again. ... Art Chapman called at L. W. Cross' Friday. ..."
+  -> Art Chapman and A. B. Steckman named in the same neighbourhood column (Green Knoll, east of La Junta).
+
+=== 3. 7 Dec 1923, "SAND ARROYA NEWS" (ID SUG19231207-01.2.89) ===
+"John Bowen and family and Mr. and Mrs. Art Chapman came from La Junta Sunday for church and to visit relatives. ... Alma Stchman [sic] spent several days last week at the Barlow home."
+
+=== 4. 1 Feb 1924, "NEWS FROM GREEN KNOLL" (ID SUG19240201-01.2.96) ===
+"Mr. Barlow and Miss Alma Steckman were married at La Junta Thursday. Their many friends wish them much happiness. ... Mr. and Mrs. Barlow spent Sunday at the latter's parents, Mr. and Mrs. A. B. Steckman."
+  -> Thursday before 1 Feb 1924 = 24 Jan 1924. Names Alma's parents as "Mr. and Mrs. A. B. Steckman" (= the 'Alva Bert Steckman' the Ancestry hints suggest as Leta's father; see POSSIBLE section of report).
+
+=== Other Steckman items seen in the same sweep (A. B. Steckman household, Green Knoll / Sand Arroya, 1923-24; not individually opened) ===
+- 6 Jul 1923 News from Green Knoll: "Mrs. Steckman and children spent Sunday afternoon at the J. R. ..."
+- 14 Mar 1924 News from Green Knoll: "L. M. Hobson and children and Mrs. A. B. Steckman and children took dinner at the Grantham home last ..."
+- 9 Feb 1923 Sand Arroya News; 6 Apr, 27 Apr, 11 May, 18 May, 8 Jun 1923 "From La Junta Colony": Alma Steckman visits (with Mrs. Marion Barlow, Mrs. Orland Owen etc.)
+- 18 Jan 1924 "A Jolly Surprise Party": "...Alma Steckman, J. A. Barlow, and Mr and Mrs. A. B. [Steckman?]..." (snippet only)
+All search snippets: CHNC query "Steckman" 1915-1930 -> 122 hits (the 1923-24 Sugar City Gazette ones are this family; 1915-16/1926 Castle Rock "Fred Steckman" and the Washington "Frederick W. Steckman" are different people).

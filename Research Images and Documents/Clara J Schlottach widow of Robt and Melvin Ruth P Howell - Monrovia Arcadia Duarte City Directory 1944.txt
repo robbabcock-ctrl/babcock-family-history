@@ -1,0 +1,16 @@
+CITATION HEADER
+Collection: California Digital/Public Library directories on Internet Archive (identifier caarpl_000012; Arcadia Public Library scan)
+Title: Monrovia, Arcadia and Duarte City Directory 1944
+URL: https://archive.org/details/caarpl_000012   (OCR: https://archive.org/download/caarpl_000012/caarpl_000012_access_djvu.txt, ~line 20050 and line 11253)
+Retrieved: 2026-11-15 via archive.org full-text search "Schlottach AND year:[1880 TO 1950]"
+
+TRANSCRIPTION (directory abbreviations: wid = widow of; r = resides/roomer; h = home)
+"Schlottach Clara J (wid Robt) r 314 1/2 W Lime av"
+"Howell Melvin (Ruth P) USA h 314 1/2 W Lime av"
+(Both at 314 1/2 West Lime Avenue, Monrovia, Calif.)
+
+ANALYSIS (agent note)
+- Clara J. Schlottach, widow of Robt, = Clara Jane (Sewell) Schlottach (1878-1971), widow of Robert C. Schlottach (d. 1922). She was living in MONROVIA, CA by 1944, rooming at the address of Melvin (and Ruth P) Howell = daughter Ruth Pearl Schlottach (b. 1915) and husband Melvin E. Howell (log: m. Melvin E. Howell; Melvin shown as USA = in the Army in 1944).
+- Monrovia is where her daughter Stella (Estella Schlottach Brand) and son-in-law David Brand were living (Bernadine's obituary: "David and Stella Brand of Monrovia, CA"). The 1944 directory has no David Brand entry in the text I searched (OCR-limited), so this does not itself place the Brands there in 1944; the Brands' Monrovia residence is supported by the 1938 Post-Dispatch notice naming "David Brand of Monrovia".
+- Identifiers matching: surname + Clara J + widow of Robt + (Ruth P/Melvin Howell household). Treated as a good match (CONFIRMED as the same family only via those three; strongly consistent).
+- Adds: Clara's residence 1944 (log has only 1971 death, no residence).

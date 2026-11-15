@@ -1,0 +1,12 @@
+CITATION HEADER
+Book: Historical Sketch of the Town of Hopkinton [R.I.] from 1757 to 1876, comprising a period of 119 years (1877; author not verified here).
+Library of Congress copy: https://www.loc.gov/item/rc01003014/   (full text read here from the identical Internet Archive scan: https://archive.org/details/historicalsketch00gris )
+Pages: ch. "History of Hopkinton", p. 16-17 (first town meeting, 4 April 1757)
+Retrieved 2026-11-15, agent "babcock". OCR text of the relevant lines, lightly cleaned:
+
+"Pursuant to the above Act of Incorporation, the freemen of said town were convened at the dwelling house of Joshua Clarke, on the 4th day of April 1757, for the purpose of choosing and appointing officers necessary for managing and conducting the prudential affairs of the new town of Hopkinton. The names of seventy Freemen living on the north side of Pauguituck River, were transferred from the town records of Westerly ... These seventy Freemen ... constituted the first Town meeting of this town. Their names are as follows:"
+ -> list (OCR, in column order) includes: George Babcock, Hubbard Burdick, John Maxson, Nathan Burdick, Samuel Hill, John Lewis, Hezekiah Collins ... John Burdick ... Oliver Babcock, Benjamin Randal, Joshua Clark, Daniel McCoon, John Lewis, Thomas Potter ...
+
+Same book also: "the first white man who settled in the town of Westerly ... was John Babcock, who ... eloped from Newport with ... Miss Mary Lawton" (the family-legend the research log already flags as legend), and lists town officers George Babcock (moderator/representative 1758-1770s), Samuel Babcock, Hezekiah Babcock, Daniel Babcock Esq., Elnathan W. Babcock.
+
+Interpretation: an "Oliver Babcock" is among the 70 Hopkinton freemen of 1757. Robert's candidates: Col. Oliver Babcock Sr. (1683-1773, aged 73) or Oliver Jr. (1722-1806, aged 34). The OCR does not say Sr./Jr. UNCONFIRMED which; either way it places a direct-line Oliver in Hopkinton as a freeman in 1757, consistent with log (Peleg b. Hopkinton 1748; Col. Oliver d. Hopkinton 1773).

@@ -1,0 +1,14 @@
+Collection: California Digital Newspaper Collection (CDNC) - free; retrieved 2026-11-15 via Chrome (curl is Cloudflare-blocked)
+
+1) Reedley Exponent, vol. 33 no. 68, Tue 22 Apr 1924, p. 5
+   URL: https://cdnc.ucr.edu/?a=d&d=REE19240422.1.5  (add &dliv=none&st=1 for OCR text)
+   Excerpt: "Burial services for John A Kimble of Dinuba who died April 18 were held at the Reedley cemetery this afternoon following funeral services at a Dinuba church."
+
+2) Visalia Times Delta, vol. 63 no. 58, Tue 29 Apr 1924, p. 6 ("Items Gleaned From Records" column)
+   URL: https://cdnc.ucr.edu/?a=d&d=VTD19240429.1.6
+   Excerpt: "William L. Kimble has petitioned the Superior court for probate of the will of John A. Kimble, who died on April 18, 1924, leaving an estate valued at $8,500. J. E. Greene is attorney for the petitioner."
+   (Also in Visalia Morning Delta 29 Apr 1924 p. 4 - "Probate of the will of the late John A. Kimble, who died April 18, 1924, is asked..." - snippet only, page not opened.)
+
+3) Visalia Morning Delta, 5 Nov 1916, p. 3 (snippet only): "...lots 46, 47, 66 and 67 of Orangehurst Colony John A. Kimble to Frank W. Kimble, Dec. 26, 1913..." (Frank W. vs the log's Frank Alexander Kimble - not matched; same-name-guess risk; unverified.)
+
+Matching: death date 18 Apr 1924, Dinuba, John A. Kimble = log's John Alexander Kimble (d. 18 Apr 1924 Dinuba). Petitioner William L. Kimble = plausibly son William Leonard Kimble (log: 1865-1950, Bend OR). NEW details: burial at Reedley cemetery (Fresno Co.), will probated Tulare Co., estate $8,500.

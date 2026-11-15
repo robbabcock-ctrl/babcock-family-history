@@ -1,0 +1,22 @@
+CITATION HEADER
+Collection: California Digital Newspaper Collection (CDNC, UC Riverside, free). Not LoC, but equivalent coverage for California. Accessible only via a real browser session (curl gets a Cloudflare challenge).
+Retrieved: 2026-11-15, agent "babcock". OCR text (typos are OCR). Doc URLs use pattern https://cdnc.ucr.edu/?a=d&d=<ID>
+
+A. FRESNO BEE, 5 Feb 1923, article "One Dead And Many Hurt In 3 Valley Conflagrations" (ID FHD19230205.2.176)
+ "Two Dinuba homes were completely destroyed by fire on Sunday and a third badly damaged. In each instance oil stoves furnished the origin of the flames. The home of O. H. Collins was first to take fire ... Children playing about an oil stove in the Arthur Babcock home overturned, it resulting in total loss of home and contents. An adjoining home was saved by the prompt work of firemen."
+ (Sunday = 4 Feb 1923.) UNCONFIRMED link: Arthur Rueben Babcock died May 1922 leaving a widow (Emma Mae) and six children in the Dinuba/Sultana district; "the Arthur Babcock home" with children in Dinuba nine months later fits the family, but the article does not name the widow or children, and a different Arthur Babcock lived in Modesto at the time (Modesto Bee 1923 items). Verify via Emma's later records / Dinuba Sentinel.
+
+B. VISALIA TIMES-DELTA, 10 Feb 1932, p.6 "Damages Asked In Local Suit" (ID VTD19320210.1.6)
+ "Mr. and Mrs. Rawleigh Babcock today filed suit in superior court here against Gus Danos and Virginia Newton demanding $373.__ automobile damages as a result of a car collision which occurred in Dinuba last July. Virginia Newton was driving Danos' automobile when it crashed into the Babcock machine at the intersection of College and Tulare avenues in Dinuba. The amount asked includes the car damage and loss of use of the machine."
+
+C. VISALIA TIMES-DELTA, 26 Aug 1932, p.3 (ID VTD19320826.1.3): a Dinuba list of business endorsers: "...King S. Ford, plumber; Rawleigh Babcock, service station owner; ..." (snippet only).
+
+D. VISALIA TIMES-DELTA, 10 Apr 1946 p.2 and Reedley Exponent 14 Mar 1946 p.11, Lindsay Gazette 12 Apr 1946 p.1: Dinuba municipal election 1946 - "Rawleigh Babcock, plumber" filed nomination papers; "Rawleigh Green, with 336, and Rawleigh Babcock, with 295, gained the council seats" (Dinuba City Council, April 1946). (snippets from search results)
+
+E. Other Dinuba snippets naming Rawleigh Babcock: Visalia Times-Delta 26 Feb 1932 p.4 (Mrs. Rawleigh Babcock in a club list); 11 May 1932 p.1; 25 Mar 1935 p.1 (defendant in a $225.10 debt suit); 16 Mar 1936 p.5 (managing the "Oilers" softball team); Tulare Advance-Register 1 Apr 1937 p.11 (rabbit drive with Andy Schinkel); Sacramento Daily Union 11 Oct 1937 p.2 (Rawleigh Babcock, Dinuba, listed); Visalia Times-Delta 2 Apr 1937 p.1; 18 Mar 1942 p.2; 2 Oct 1944 p.8 (committee). UNCONFIRMED same man: Martinez News-Gazette 5 Apr 1940 p.1 "Rawleigh Babcock of Pacheco" (Contra Costa Co. - probably a different man or an unrelated move; do not assume).
+ Identity: Rawleigh Babcock + Dinuba + "Mrs. Rawleigh Babcock" - the log has Rawleigh Oliver Babcock (b. 1903) married Mary Ella Chapman 1921 Dinuba, d. 1988 Fresno. Unusual first name + Dinuba + wife = CONFIRMED same family for items B, C, D, E (except Pacheco).
+ NEW vs log: his occupations - plumber, service-station owner (1932), softball team manager (1936), elected to the Dinuba City Council in April 1946.
+
+F. THE CALIFORNIAN (Salinas), 8 Mar 1951, p.18, society column (ID CASAL19510308.1.18)
+ "Here Recently ... to witness the Babcock-Tigert wedding rites in Church of Christ were: Mr. and Mrs. Roy Tigert and daughter, June; Mr. and Mrs. Joe Palma and Olive, ... Mr. and Mrs. Harvey Cumming and Jannie, Visalia; Mr. and Mrs. Rawleigh Babcock, Dinuba; Mr. and Mrs. Robert McMahon, Marina. Mr. Lee Chapman and Mr. and Mrs. Paul[...]"
+ Interpretation: a wedding of a Babcock to a Tigert (bride's family from Richmond/Berkeley CA) attended by Rawleigh and wife (Dinuba), Harvey and Rosalie Cummins ("Harvey Cumming and Jannie" = Harvey Cummins and Rosalie's daughter Janet "Jannie", Visalia) and Lee Chapman (Chapman = Mary Ella's family). The groom is probably one of Clarence Allison Babcock's sons (Salinas): the log's Ed(die) Babcock m.1 "Donna" (unidentified, d. via illegal abortion, sons Michael, Randy, Stephen) - Donna may be née Tigert. UNCONFIRMED; check the groom's name in the full article (page image).

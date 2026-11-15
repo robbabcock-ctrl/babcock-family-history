@@ -1,0 +1,13 @@
+CITATION HEADER
+Collection: State Historical Society of Missouri (SHSMO) Digital Collections > Plat books ("plat"), CONTENTdm item 5435; public domain
+Title: Standard Atlas of Gasconade County, Missouri, 1913 (Chicago: Geo. A. Ogle & Co., 1913), page 66 "Directory" (ptr 5382)
+URL: https://digital.shsmo.org/digital/collection/plat/id/5435   (page-level OCR via https://digital.shsmo.org/digital/api/singleitem/collection/plat/id/5382)
+Retrieved 2026-11-15. Full atlas OCR saved alongside as cdm_gasc_atlas_text.txt (112 pages).
+
+TRANSCRIPTION
+"Schlottach, Chas., Farmer and Stockraiser, S. 10, T. 42, R. 6, P. O. Bland. Mr. Schlottach was born in Gasconade County in 1875."
+(Only Schlottach entry in the directory; the OCR of the plat-map pages does not read owner names reliably, so other Schlottach landowners may appear on the township plat pages as images.)
+
+ANALYSIS (agent note)
+- Charles Schlottach, b. 1875 Gasconade Co., farmer near Bland (Sec. 10, T42N R6W, ~ Gasconade/Maries line). Born 3 years after Robert C. Schlottach (b. 18 Apr 1872 Gasconade Co.): a plausible younger brother (UNCONFIRMED - no parent named). Matches "Chas. G. Schlottach, Owensville" in the Hermanner Volksblatt 22 Nov 1918 draft-registration list (loc.gov/item/sn93060116/1918-11-22/ed-1/).
+- The 1913 plat pages themselves (images) would show whether Ferdinand H. Schlottach or Albertine owned land in Gasconade Co. in 1913 (he d. 1916) - worth viewing manually: https://digital.shsmo.org/digital/collection/plat/id/5435

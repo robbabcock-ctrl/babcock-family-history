@@ -1,0 +1,11 @@
+Collection: California Digital Newspaper Collection (CDNC, UC Riverside) - free
+Title: "Backhoe Crushes Watsonville Man" (and continuation paragraph), Santa Cruz Sentinel, Monday 17 Nov 1975, p. 20 (also a fire-dept log on the same page: "Sunday Nov 16 ... 6:30 p.m. Rescue call to Green Valley Road. Man pinned under a tractor.")
+URL: https://cdnc.ucr.edu/?a=d&d=SCS19751117.1.20   (text view: add &dliv=none&st=1)
+Retrieved: 2026-11-15 via Robert's Chrome (CDNC blocks curl with Cloudflare; a normal browser passes)
+OCR text, lightly trimmed (OCR errors left as-is):
+
+"Backhoe Crushes Watsonville Man
+A Watsonville man was crushed to death when the backhoe he was operating rolled on top of him off Green Valley Road Sunday afternoon. Lee Chapman, 42. 1763 Green Valley Road, was found dead at [column break in OCR; text continues:]
+... [occurr]ed, according to highway patrol reports. Chapman was apparently doing some backhoe work on his property when the vehicle rolled down a steep bank. He was pinned beneath the machine and crushed, said the CHP."
+
+Matching notes: Sunday = 16 Nov 1975, the exact death date in the California Death Index for "Lee L Chapman, b. 6 Sep 1923, d. 16 Nov 1975, Santa Cruz" (already in the research log). Age printed "42" does not match 52 (b. 1923) - either newspaper error or OCR; verify against the obituary (Santa Cruz Sentinel/Register-Pajaronian 18-19 Nov 1975) or the death certificate.

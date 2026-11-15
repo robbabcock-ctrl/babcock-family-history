@@ -1,0 +1,52 @@
+A. ROSTER OF SOLDIERS, SAILORS, AND MARINES ... RESIDING IN NEBRASKA, JUNE 1, 1895 (York, Neb.: Nebraska Newspaper Union, 1895; compiled by the Nebraska Office of the Secretary of State). Missouri units section, p. 350.
+Internet Archive id rostersoldierss00statgoog (https://archive.org/details/rostersoldierss00statgoog); OCR full text retrieved 2026-11-15. Columns: NAME / RANK / COMPANY / ADDRESS (post office).
+Relevant lines (OCR verbatim):
+   Keoun, Thomas H      Private    F, 12 Cavalry     Hay Springs
+   Keown, J N           Sergeant   B, 21 Infantry    Ord
+[Context window of OCR:]
+ DM Major 7 Verdon 
+
+Kiefer,  PM 2  Lieutenant  . .  B,  4 Verdon 
+
+Kelly,  Wm Private I,  48 Rulo 
+
+Kelly,  J  K Corporal F,  61 Dawson 
+
+Knight,  Lester Corporal B,  18  Infantry Mills 
+
+Kelley,  Thomas Band Infantry Wisner 
+
+Kelley,  Geo  W Private D,  8  Infantry .Tryon 
+
+Kauble,  Newton Private D,  4  Cavalry Minden 
+
+Krebs,  H Private L,  2  Cavalry Max 
+
+Keoun,  Thomas  H Private F,  12  Cavalry Hay  Springs 
+
+Kruse,  Er<  st Private I,  12 Sidney 
+
+Kunz,  CD... Private L,  1  Cavalry Elmwood 
+
+Keown,  J  N Sergeant B,  21  Infantry Ord 
+
+King,  AT Sergeant  ......  C,  10  Infantry Indianola 
+
+Korns,  Lewis  B Private 1, 18    Indianola 
+
+Kraft,  Fred Private G,  4  Cavalry Omaha 
+
+Knuth,  Leopold 1  Lieutenant  . .  C,  2  Infantry Omaha 
+
+Kitchal,  J  M Private B,  1  State  Militia Ragan 
+
+**-. E :-.-■  i  Sf!Sd.::::::?;'iJaS5:::::f  O"0*4 
+
+Likens,  S  H Private F,  13  Cavalry ,Ba!  sett 
+
+Leslie,  BF Private B,  23  Infantry  Nemaha  City 
+
+Lorance,  WH Private C,  35 Aub
+
+B. ENUMERATION OF SOLDIERS, SAILORS AND MARINES ... RESIDING IN NEBRASKA JUNE 1ST, 1887 (Nebraska Secretary of State, [Lincoln, 1887]). Missouri section, pp. 218-219.
+Internet Archive id enumerationofsol00nebr (https://archive.org/details/enumerationofsol00nebr); OCR retrieved 2026-11-15. The OCR splits the table into columns; reading the K block, the 'Keown, Thomas  Private' row lines up (counting from the end of the block) with ' F.  12 Cavalry  Hay Springs'. [Verify on the page image, p. 218.] Names column excerpt: 'Knight, Lester Corporal / Keown, Thomas Private / Kirkham, F H Private / Kittler, C H Captain / Knightly, John Private'; matching post-office column tail: 'F  12 Cavalry Hay Springs / A  18 Infantry Brownville / C  2 Vol Omaha / B  23 Infantry Bainbridge'.

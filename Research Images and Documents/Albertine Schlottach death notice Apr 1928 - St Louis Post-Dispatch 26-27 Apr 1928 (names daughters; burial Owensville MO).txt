@@ -1,0 +1,16 @@
+CITATION HEADER
+Collection: St. Louis Post-Dispatch (Internet Archive full-text scan)
+Issues: Thursday 26 Apr 1928 (Vol 80 Iss 232) - paid notice (OCR near line 23300) - and Friday 27 Apr 1928 (Vol 80 Iss 233) - the DEATHS name list ("Schiottach, Albertine", OCR line 37442)
+Identifiers / URLs: https://archive.org/details/per_st-louis-post-dispatch_1928-04-26_80_232 ; https://archive.org/details/per_st-louis-post-dispatch_1928-04-27_80_233
+OCR: https://archive.org/download/<identifier>/<identifier>_djvu.txt
+Retrieved: 2026-11-15 via archive.org full-text search for the OCR variant "Schiottach" (the scanner reads "Schlottach" as "Schiottach"; search both spellings)
+NOTE: paid-notice column is badly garbled by the OCR (columns interleaved). Only fragments are legible; a human should view the page image to read the whole notice.
+
+LEGIBLE FRAGMENTS (OCR, in order)
+- 26 Apr 1928, ~line 23300: "... [A]lbertine Schlottach ... [Maud] Miller, [Minnie] Howard ... Neely, Lydia Schlottach and Mrs. Flora [Dozier] ... dear mother-in-law ... [grand]mother ... " and, in the same notice column, "... to Owensville, Mo. ... interment same day."
+- 27 Apr 1928 DEATHS list: "Schiottach, Albertine"
+
+ANALYSIS (agent note)
+- Gives Albertine Schlottach's death as late April 1928 in St. Louis (log: "Albertine/Albertina Kottwitz (1852-1928)") with burial at OWENSVILLE, Gasconade Co., MO (not previously in the log) - consistent with the Gasconade County home of her husband Ferdinand Heinrich Schlottach (1841-1916).
+- The daughters named - Maud Miller, Minnie Howard, Alberteria Neely, Lydia Schlottach, Flora Dozier - are the SAME names that appear among the siblings of Ferd H. Schlottach in his 1937 death notice (Mauda Miller, Minnie Howard, Alberteria Neely, Flora Dozier, Otto, Paul, Martha, Lydia). So Ferd H. (d. 28 Nov 1937) is a son of Albertine, hence (UNCONFIRMED link needing the notice's "dear mother of" line) a brother of Robert C. Schlottach (1872-1922), and Stella (Estella) Schlottach Brand's uncle. Also gives eight+ previously unlisted aunts/uncles of Stella (Maud Miller, Minnie Howard, Alberteria Neely, Flora Dozier, Lydia, Otto, Paul, Martha, Ferd H.), the first documentation of Robert C.'s siblings in the log.
+- Caution on a related Fred: the 20 Feb 1929 Post-Dispatch (Vol 81 Iss 167) says "The Fred Schlottachs of 2341A Tennessee avenue, including [Fred] Schlottach, his wife, Lydia, and his mother, Mrs. Martha Schlottach" - that is a mother named MARTHA, not Albertine, so that Fred may be a cousin/different branch; do not merge with Ferd H.

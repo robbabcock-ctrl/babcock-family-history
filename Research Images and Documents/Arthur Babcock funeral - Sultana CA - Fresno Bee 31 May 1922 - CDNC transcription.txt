@@ -1,0 +1,15 @@
+CITATION HEADER
+Collection: California Digital Newspaper Collection (CDNC, UC Riverside - free; NOT Library of Congress, but the closest equivalent of Chronicling America for California)
+Newspaper: Fresno Bee (Fresno Morning Republican / Fresno Bee), Volume LXV, Number 129, Wednesday 31 May 1922; article headline: "SULTANA(?) LAID TO REST. Arthur Babcock Leaves Widow and Six Children; Buried At Smith Mountain" (headline OCR reads "SUTTANAMAN"; dateline OCR reads "BUT.TANA", = SULTANA, Tulare County, a Dinuba-area farm town)
+URL: https://cdnc.ucr.edu/?a=d&d=FHD19220531.2.82
+Retrieved: 2026-11-15, agent "babcock" (CDNC blocks curl via Cloudflare; read through the user's Chrome session)
+Saved as OCR text only (no image saved).
+
+OCR TRANSCRIPTION (as returned by CDNC):
+"SUTTANAMAN LAID TO REST . * Arthur Babcock Leaves Widow and Six Children; Buried At Smith Mountain
+BUT.TANA, Stay 31.--The funeral of the late Arthur Babcock who passed away last Friday, was held at the Methodist church Sunday afternoon. The body was interred in the Smith Mountain cemetery. The deceased had been suffering from tuberculosis for the past two years and was at Springville at the time of his death. He leaves to mourn his loss a widow and six children."
+(The article is a short local-news item; the following sentence about the Department of Agriculture and the chaulmoogra tree on the same page is unrelated filler.)
+
+ANALYSIS
+- Identifiers matching Robert's Arthur Rueben (Reuben) Babcock (b. 20 Apr 1875 Illinois, d. 27 May 1922, buried Smith Mountain Cemetery near Dinuba; widow Emma Mae Brisby; six children Rawleigh, Altha, Lillie, Gertrude, Hershel, Clarence): (1) name Arthur Babcock; (2) buried Smith Mountain cemetery - the exact cemetery in the log; (3) died May 1922; (4) leaves a widow and SIX children = matches the six children in the log; (5) Sultana/Dinuba area = home of Emma and children (Sindlinger marriage 1925 Tulare Co.). Five independent identifiers -> CONFIRMED as the same man.
+- NEW facts vs the log: (a) he had had TUBERCULOSIS for about two years and was at SPRINGVILLE (foothills of Tulare Co.; a health-seeker location) at death -> resolves the log's unreconciled "Tulare/Los Angeles vs Imperial Valley" death place: Springville, Tulare County; (b) funeral at the METHODIST church, Sunday (= 28 May 1922); (c) "passed away last Friday" before Wed 31 May 1922 = Friday 26 May 1922 - the log has 27 May 1922 (a Saturday): one-day discrepancy to check against the death certificate (the Fresno Bee dateline/text could be loose, so UNCONFIRMED which date is right).

@@ -1,0 +1,15 @@
+CITATION HEADER
+Collection: St. Louis Post-Dispatch (Internet Archive scan, full-text OCR)
+Issue: St. Louis Post-Dispatch, Monday 30 Jan 1922, Vol 74 Iss 148, death-notice column
+Identifier / URL: https://archive.org/details/per_st-louis-post-dispatch_st-louis-post-dispatch_1922-01-30_74_148
+OCR text: https://archive.org/download/per_st-louis-post-dispatch_st-louis-post-dispatch_1922-01-30_74_148/per_st-louis-post-dispatch_st-louis-post-dispatch_1922-01-30_74_148_djvu.txt  (character offset ~460,900)
+Retrieved: 2026-11-15
+NOTE: the paper's newspaper-column OCR is badly interleaved with adjacent columns/ads; only fragments of the notice are legible. Do not treat as a transcription; Robert (or a human) should view page image to read in full.
+
+LEGIBLE FRAGMENTS (OCR, in reading order as they appear)
+"... SCHLOTTAC[H] ... beloved husband of Clara Schiottach (nee Sewell), dear fa[ther of] ... Estelia [Stella?] ... Al-fred, Forest and Ruth Schiottach, dear son [of] ... [Fer]dinand ... [brother] ... our dear brother, uncle and brother-in-law ..." 
+Other fragments in the same notice: "Mrs. Marie Jones", "Davies", "Birmiay hams" (Birmingham?), "Funeral ... Tuesday ... Calvary"? (the "Calvary Cemetery" fragments belong to neighbouring notices).
+
+ANALYSIS
+- Independently corroborates (secondary-weight, newspaper) the log's family: Robert C. Schlottach, husband of Clara (nee Sewell), father of Stella/Estella, Alfred, Forrest and Ruth; death at St. Louis late Jan 1922 (log: 29 Jan 1922). Two-plus identifiers match: surname + spouse maiden name (Sewell) + children's names + date.
+- Also contains a clause "dear son of [?]... Ferdinand" (partly legible) - would tie Robert C. to Ferdinand Heinrich; UNCONFIRMED until the image is read.
