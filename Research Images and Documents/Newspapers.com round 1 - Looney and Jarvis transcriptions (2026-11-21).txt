@@ -1,0 +1,32 @@
+NEWSPAPERS.COM ROUND 1 - transcriptions read from page images through Robert's subscription (retrieved 2026-11-21)
+=====================================================================================================
+
+1. LARRY LOONEY OBITUARY (Lehman Clifton Looney's son; brother of Jerry Wayne, Michael, Gary Clifton and Barbara)
+   Newspaper: The Hanford Sentinel (Hanford, California), Monday 17 May 1971, page 2, "Obituaries" column
+   Newspapers.com page id 560623591 (https://www.newspapers.com/image/560623591/) ; digitised by the California Digital Newspaper Collection / UC Riverside (free copy at cdnc.ucr.edu)
+
+   "Larry Looney. Services will be held Tuesday in People's Funeral Chapel at 2 p.m. for Larry Looney, 24, of [N. 11th Ave.], who died Friday night in a local hospital as the result of an automobile accident.
+   A native of Campbell, Mo., he had lived here for 20 years. He attended local schools and entered military service in 1965. He served two years in the U.S. Army, then attended College of the Sequoias.
+   Looney had been employed by the Cal King Feed Lot for the past nine months.
+   Survivors include his widow, Sharon and daughter Jennifer, both of Laton; his parents, Mr. and Mrs. Lehman Looney of Hanford; two brothers, Mike and Gary, and a sister, Mrs. Barbara Phillips, all of Hanford.
+   Another brother, Jerry, was Hanford's first casualty in the Vietnam War. He died in action June 11, 1966.
+   Interment will be in Grangeville Cemetery."
+
+   Facts: died Friday 14 May 1971 (accident); age 24; b. Campbell, Dunklin Co., Missouri; Hanford resident 20 years; US Army 1965-67; College of the Sequoias; Cal King Feed Lot; widow Sharon, daughter Jennifer (Laton); brother Jerry Wayne Looney = Hanford's first Vietnam War casualty, killed in action 11 June 1966; sister Mrs. Barbara Phillips (= Barbara Louise Looney, Amber's mother). CONFIRMED (primary newspaper).
+
+2. WAYNE WILBUR JARVIS AS A CHILD - "SEEING AMERICA" (letter to the children's page)
+   Newspaper: San Francisco Bulletin, Friday 2 March 1928, page 16 (children's page, "By Cousin Mary"), Newspapers.com page id 996438237
+   "Seeing America. Dear Cousin Mary: I have been in Denver for about six months. I will tell you about my trip. We went by auto to Yosemite Valley. Then we went to Lake Mono, the dead lake. From there we went to Lake Tahoe. It was a beautiful place. Then to Reno, Nev., and there we stopped at some of the worst places but it was the best there were. From Reno, we went across Nevada and Utah to Salt Lake City. Most of that part of the road was desert and sand. We stopped at Salt Lake City for two days and went to the Mormon Tabernacle to hear the organ. We went to a place called Salt-air, just like our beach, only it was way over the lake. Then we went to Zion Canyon, a very beautiful place. From there, we went to Cedar Breaks, and as soon as we got there it started to rain. Then we went on to Denver, stopping at a place called 'Garden of the Gods,' a place full of different forms of red sandstone. We stayed in Denver till winter was over, then we came back to California. There is no place like home.
+   Wayne Wilbur Jarvis, 13, Santa Cruz"
+   Facts: Wayne Wilbur Jarvis was 13 and living in Santa Cruz in March 1928 (b. 26 Apr 1915 -> age 12, nearly 13); his family spent about six months in Denver in winter 1927-28 after an auto trip via Yosemite, Mono Lake, Tahoe, Reno, Salt Lake City, Zion and Cedar Breaks. Matches the log's Wayne Wilbur Jarvis (Santa Cruz) by full name + town + age. CONFIRMED as to name/town/age; identity with Louise Schultz's husband by full distinctive name + Santa Cruz.
+
+3. BIRTH OF LINNAEA LOUISE JARVIS - Wayne and Sylvia Louise (Schultz) Jarvis's SECOND CHILD
+   Newspaper: Santa Cruz Sentinel-News, Monday 28 June 1954, page 10, "Vital Statistics - Births - Sisters Hospital", Newspapers.com page id 59113547; Newspapers.com clipping "Linnaea Jarvis birth announcement"
+   "JARVIS - In Santa Cruz, June 26, 1954, at 7:15 p.m. to Mr. and Mrs. Wayne Wilbur Jarvis (Sylvia Louise Schultz) of 117 Kenneth street, 6-pound, 15-ounce daughter, named Linnaea Louise. She is their second child."
+   Facts: NEW PERSON - Linnaea Louise Jarvis, b. 26 Jun 1954 Santa Cruz, daughter of Wayne Wilbur Jarvis + Sylvia Louise Schultz; "their second child" (the first child of record in the marriage = Kenneth W. Jarvis; Patricia Marie, born 1940 in New York and adopted out, was not counted or is the first). CONFIRMED (primary newspaper; mother named with maiden name).
+
+4. SEARCH NOTES
+   - "Larry Looney" 1971: Hanford Sentinel 17 May 1971 p.2 (obituary above) and 19 May 1971 p.2 (second item; not yet read).
+   - Jerry Looney's own 1966 death: Hanford Sentinel not indexed for June 1966 in these searches; wire-service casualty lists exist (Los Angeles Times 14 Jun 1966 p.3; San Francisco Examiner 14 Jun 1966 p.8; Detroit News 14 Jun 1966 p.25) - not yet read.
+   - "Wayne Wilbur Jarvis": Ada (Oklahoma) Evening News 2 Sep 1940 p.5 is a FALSE MATCH (a football roster, "Wilbur Jarvis, Ada"). Santa Cruz Sentinel 5, 8, 10 Mar 1940 items are the wedding coverage (the 10 Mar 1940 page 9 notice is already in the repo); the 5 and 8 Mar items not yet read.
+   - No Santa Cruz Sentinel obituary for Wayne Jarvis (Oct 2003) came up in a keyword search of "Wayne Jarvis" Oct 2003.

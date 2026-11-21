@@ -873,6 +873,15 @@ Sources: *Babcock Genealogy* (Stephen Babcock, 1903, "Book") full OCR; WikiTree 
 
 **Paywalled:** Visalia Times-Delta 3–5 Dec 1997 (Mavis), 16 Apr 1998 (George Sindlinger), 19–20 May 1981 (Wallace Weaver), 10 Dec 1980 (Clay Sindlinger); Fresno Bee obituaries Rawleigh (Nov 1988), Hershel (Oct 1991), Altha Shipley (Aug 1996), Lillie (May 1976); Find a Grave 47250474/47250475; Legacy (Fresno Bee Dean Babcock 2008 id 10368175; Salinas Californian Norma Babcock id 17645099); CDNC Dinuba/Reedley/Tulare 1920–30 ("Arthur Babcock", Sultana, Springville, tuberculosis); CDI 1905–39 (Arthur 1922). **Routes:** WikiTree API with a custom (non-browser) User-Agent, ≥60 s between bursts; Tulare CAGenWeb cemetery and obituary indexes; Altogether/Healey Mortuary pages (obituary text in JSON-LD `articleBody`, curl works); Genealogy Trails county bio pages; Daily Press obituary index (POST engagedpatrons.org/database/NNObits/Brief.cfm).
 
+## R2-H. Newspapers.com round 1 (2026-11-21) — searched and read through Robert's own signed-in subscription (Publisher Extra)
+
+(Agents could not use Newspapers.com because they ran on plain web requests and were told not to touch Chrome; I drive Robert's signed-in Chrome directly — search and read only, no clippings saved. Full transcriptions: `Research Images and Documents/Newspapers.com round 1 - Looney and Jarvis transcriptions (2026-11-21).txt`.)
+
+- **Larry Looney's obituary, *Hanford Sentinel*, Mon 17 May 1971, p. 2:** died Fri 14 May 1971 of an automobile accident, age 24; b. Campbell MO, Hanford resident 20 years, US Army 1965–67, College of the Sequoias, Cal King Feed Lot; survivors widow **Sharon** and daughter **Jennifer** (Laton), parents Mr. and Mrs. **Lehman Looney** of Hanford, brothers **Mike and Gary**, sister **Mrs. Barbara Phillips**; **"Another brother, Jerry, was Hanford's first casualty in the Vietnam War. He died in action June 11, 1966."**; interment Grangeville Cemetery. CONFIRMED. (A second item in the 19 May 1971 Sentinel, p. 2 is unread; wire casualty lists for 14 Jun 1966 — LA Times p. 3, SF Examiner p. 8 — unread.)
+- **Wayne Wilbur Jarvis as a boy — "Seeing America," *San Francisco Bulletin*, Fri 2 Mar 1928, p. 16** (children's page): "Wayne Wilbur Jarvis, 13, Santa Cruz" wrote of a family auto trip (Yosemite, Mono Lake, Tahoe, Reno, Salt Lake City, Zion, Cedar Breaks, Garden of the Gods) and about **six months in Denver** that winter, "then we came back to California. There is no place like home." Full letter transcribed in the file above.
+- **NEW PERSON — Linnaea Louise Jarvis, b. 26 Jun 1954, Santa Cruz (Sisters Hospital)**, daughter of Wayne Wilbur Jarvis + Sylvia Louise Schultz, "their second child" (*Santa Cruz Sentinel-News*, Mon 28 Jun 1954, p. 10, Births; family at 117 Kenneth St.). CONFIRMED. ⇒ **TO ENTER in the tree** under Wayne and Louise (alongside Kenneth).
+- Not found / false match: no Wayne Jarvis obituary (Oct 2003) via keyword search; Ada (OK) Evening News 2 Sep 1940 p. 5 is a football roster (different Wilbur Jarvis).
+
 ---
 
 # Outstanding Tasks
